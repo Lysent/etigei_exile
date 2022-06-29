@@ -1,0 +1,21 @@
+{
+    type: itemTurret
+    planet: any
+    name: "Hell Ender"
+    description: "Literally just to end lives"
+    health: 3651
+    size: 3
+    reload: 100
+    shots: 3
+    range: 300
+    ammoTypes: {
+        copper:{
+            speed:6
+            lifetime:50
+            damage:500
+            width: 3
+            height: 3
+        }
+    }
+    category: turret
+}

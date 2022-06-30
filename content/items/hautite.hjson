@@ -6,5 +6,4 @@
     research: {
         parent: phase-fabric,
     },
-    "hardness": 3
 }

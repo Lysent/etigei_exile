@@ -7,7 +7,7 @@
     hasPower: true
     hasLiquids: false
     hasItems: true
-    craftTime: 155
+    craftTime: 102
     itemCapacity: 64
     updateEffect: "steam"
     craftEffect: "plasticExplosion"

@@ -6,5 +6,6 @@
     research: {
         parent: refined_etigeum,
     },
-    "hardness": 5
+    flammability: 1
+    explosiveness: 1
 }

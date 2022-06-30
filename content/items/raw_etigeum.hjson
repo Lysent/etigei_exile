@@ -7,4 +7,6 @@
         parent: phase-fabric,
     },
     hardness: 5
+    radioactivity: 1
+    charge: 1
 }

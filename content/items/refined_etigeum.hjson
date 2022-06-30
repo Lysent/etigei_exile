@@ -6,5 +6,6 @@
     research: {
         parent: raw_etigeum,
     },
-    "hardness": 5
+    radioactivity: 1
+    charge: 1
 }

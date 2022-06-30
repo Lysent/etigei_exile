@@ -23,7 +23,7 @@
         }
     }
     category: turret
-    research: breach
+    research: hellender
     requirements: [
         graphite/1
     ]

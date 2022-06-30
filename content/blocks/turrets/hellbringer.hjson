@@ -1,14 +1,14 @@
 {
     type: itemTurret
-    name: "Hell Ender"
+    name: "Hell Bringer"
     planet: erekir
     description: "Literally just to end lives"
-    health: 3651
+    health: 6666
     size: 3
     targetAir: true
     targetGround: true
     reload: 100
-    shots: 3
+    shots: 666
     range: 300
     ammoTypes: {
         graphite:{
@@ -17,6 +17,8 @@
             damage:500
             width: 3
             height: 3
+            splashDamage: 500
+            splashDamageRadius: 300
         }
     }
     category: turret

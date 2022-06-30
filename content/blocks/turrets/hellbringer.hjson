@@ -7,8 +7,8 @@
     size: 3
     targetAir: true
     targetGround: true
-    reload: 100
-    shots: 666
+    reload: 66
+    shots: 66
     range: 3000
     shootSound : lasershoot
     ammoTypes: {

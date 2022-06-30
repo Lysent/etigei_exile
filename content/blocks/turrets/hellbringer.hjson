@@ -9,17 +9,17 @@
     targetGround: true
     reload: 100
     shots: 666
-    range: 300
+    range: 3000
     shootSound : lasershoot
     ammoTypes: {
         graphite:{
             speed:6
-            lifetime:50
+            lifetime:5000
             damage:500
             width: 3
             height: 3
             splashDamage: 500
-            splashDamageRadius: 300
+            splashDamageRadius: 300000
         }
     }
     category: turret

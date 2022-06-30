@@ -10,6 +10,7 @@
     reload: 100
     shots: 3
     range: 300
+    shootSound : lasershoot
     ammoTypes: {
         graphite:{
             speed:6
@@ -21,7 +22,7 @@
     }
     category: turret
     research: breach
-    requirement: [
+    requirements: [
         graphite/1
     ]
 }

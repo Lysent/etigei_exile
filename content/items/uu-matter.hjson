@@ -1,0 +1,10 @@
+{
+    localizedName : Universal Matter
+    description : Condensed matter that can be used for universal things.
+    type: material
+    color: ff00ff,
+    research: {
+        parent: refined_etigeum,
+    },
+    "hardness": 5
+}

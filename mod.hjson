@@ -2,7 +2,7 @@
     name: "etigei_exilium"
     displayName: "Etigei Exilium"
     author: "Mitemi (Miter)"
-    description: "Succesor to the defunct and incomplete Etigeox Mod. Planned to contains personal Erekir functionalities, planets, turrets, factories, items and more."
+    description: "Succesor to the defunct and incomplete Etigeox Mod."
     version: "0.2-25.11"
     minGameVersion: "136"
 }

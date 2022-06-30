@@ -1,0 +1,10 @@
+ {
+    localizedName: Raw Etigeum
+    description: Raw Etigeum straight from the ground. You might have to refine this material first.
+    type: material
+    color: 09e0dd,
+    research: {
+        parent: phase-fabric,
+    },
+    hardness: 5
+}

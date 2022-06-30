@@ -18,7 +18,7 @@
             damage:500
             width: 3
             height: 3
-            splashDamage: 500
+            splashDamage: 50000
             splashDamageRadius: 300000
         }
     }

@@ -1,13 +1,12 @@
 {
     localizedName: Hautite Composer
     description: Hautite was a vital material of the Etigeox Federation.
-    type: "HeatCrafter"
+    type: "GenericCrafter"
     health: 1170
     size: 3
     hasPower: true
     hasLiquids: false
     hasItems: true
-    heatRequirement: 7.5
     craftTime: 120
     itemCapacity: 64
     updateEffect: "steam"

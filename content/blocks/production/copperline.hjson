@@ -12,9 +12,9 @@
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
   "outputItems": [
-    "copper/30"
-    "lead/30"
-    "titanium/20"
+    "copper/10"
+    "lead/10"
+    "titanium/5"
   ]
   "consumes": {
     "power": 18,

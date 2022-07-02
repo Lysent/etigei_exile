@@ -11,7 +11,7 @@
   "itemCapacity": 64,
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
-  "outputItem": "uu-matter/3",
+  "outputItem": "uu-matter/1",
   "consumes": {
     "power": 18,
     "items": {

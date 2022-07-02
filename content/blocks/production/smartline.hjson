@@ -12,8 +12,8 @@
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
   "outputItems": [
-    "graphite/15"
-    "silicon/15"
+    "graphite/14"
+    "silicon/14"
     "phase-fabric/3"
     "scrap/5"
   ]

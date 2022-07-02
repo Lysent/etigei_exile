@@ -28,7 +28,7 @@
   },
   "requirements": [
     "scrap/1000"
-    "spore/1000"
+    "spore-pod/1000"
     "titanium/100"
     "refined_etigeum/200"
     "silicon/300"

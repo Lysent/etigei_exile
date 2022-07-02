@@ -1,5 +1,5 @@
 {
-  "localizedName": "Smart Fabricator",
+  "localizedName": "UC-Smart Fabricator",
   "description": "electrical components",
   "type": "GenericCrafter",
   "health": 900,

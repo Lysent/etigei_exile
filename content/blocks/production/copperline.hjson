@@ -1,5 +1,5 @@
 {
-  "localizedName": "Copperline Fabricator",
+  "localizedName": "UC-Copperline Fabricator",
   "description": "The attributed name of this fabricator is misleading.",
   "type": "GenericCrafter",
   "health": 900,

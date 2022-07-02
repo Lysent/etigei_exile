@@ -1,0 +1,36 @@
+{
+  "localizedName": "Copperline Fabricator",
+  "description": "The attributed name of this fabricator is misleading.",
+  "type": "GenericCrafter",
+  "health": 900,
+  "size": 3,
+  "hasPower": true,
+  "hasLiquids": false,
+  "hasItems": true,
+  "craftTime": 136,
+  "itemCapacity": 64,
+  "updateEffect": "steam",
+  "craftEffect": "plasticExplosion",
+  "outputItems": [
+    "copper/30"
+    "lead/30"
+    "titanium/20"
+  ]
+  "consumes": {
+    "power": 18,
+    "items": {
+      "items": [
+        "uu-matter/3"
+      ]
+    }
+  },
+  "requirements": [
+    "copper/660"
+    "lead/300"
+    "titanium/500"
+    "refined_etigeum/200"
+    "silicon/300"
+  ],
+  "category": "crafting",
+  "research": "universal_condenser"
+}

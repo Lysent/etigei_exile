@@ -1,0 +1,35 @@
+{
+  "localizedName": "Universal Condenser",
+  "description": "Condense the world!",
+  "type": "GenericCrafter",
+  "health": 900,
+  "size": 3,
+  "hasPower": true,
+  "hasLiquids": false,
+  "hasItems": true,
+  "craftTime": 76,
+  "itemCapacity": 64,
+  "updateEffect": "steam",
+  "craftEffect": "plasticExplosion",
+  "outputItem": "uu-matter/3",
+  "consumes": {
+    "power": 18,
+    "items": {
+      "items": [
+        "refined_etigeum/3"
+      ]
+    }
+  },
+  "requirements": [
+    "thorium/330",
+    "titanium/500",
+    "metaglass/1300",
+    "refined_etigeum/250",
+    "hautite/150"
+    "silicon/1000",
+    "graphite/200",
+    "surge-alloy/150"
+  ],
+  "category": "crafting",
+  "research": "refined_etigeum"
+}

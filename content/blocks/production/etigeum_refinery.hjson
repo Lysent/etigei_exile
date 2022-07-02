@@ -1,7 +1,11 @@
 {
   "localizedName": "Etigeum Refinery",
   "description": "Refine the turquoise product.",
-  "type": "GenericCrafter",
+  "type": "AttributeCrafter",
+  "drawer": {
+    "type": "DrawSmelter",
+    "flameColor": "ff00ff"
+  },
   "health": 600,
   "size": 3,
   "hasPower": true,

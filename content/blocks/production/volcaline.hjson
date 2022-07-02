@@ -12,7 +12,7 @@
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
   "outputItems": [
-    "berylium/15"
+    "beryllium/15"
     "tungsten/8"
     "oxide/3"
   ]

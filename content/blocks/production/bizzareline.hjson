@@ -16,7 +16,7 @@
     "scrap/15"
     "blast-compound/1"
     "pyratite/1"
-    "spore/1"
+    "spore-pod/1"
   ]
   "consumes": {
     "power": 18,

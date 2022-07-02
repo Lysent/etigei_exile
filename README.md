@@ -1,2 +1,2 @@
 # etigei_exile
-(Spiritual ?) Successor to the defunct and largely incomplete Etigeox Mod.
+Demonic Successor to the desecrated and largely braindead Etigeox Mod.

@@ -1,33 +1,33 @@
 {
-    localizedName: Etigeum Refinery
-    description: Refine the turquoise product.
-    type: "GenericCrafter"
-    health: 600
-    size: 3
-    hasPower: true
-    hasLiquids: false
-    hasItems: true
-    craftTime: 102
-    itemCapacity: 64
-    updateEffect: "steam"
-    craftEffect: "plasticExplosion"
-    outputItem: refined_etigeum/3
-    consumes: {
-        power: 18,
-        items: {
-            items: [
-                raw_etigeum/3
-            ]
-        }
-    },
-    requirements: [
-        thorium/330
-        titanium/500
-        metaglass/1300
-        silicon/1000
-        graphite/200
-        surge-alloy/150
-    ],
-    "category": "crafting",
-    "research": "raw_etigeum"
+  "localizedName": "Etigeum Refinery",
+  "description": "Refine the turquoise product.",
+  "type": "GenericCrafter",
+  "health": 600,
+  "size": 3,
+  "hasPower": true,
+  "hasLiquids": false,
+  "hasItems": true,
+  "craftTime": 102,
+  "itemCapacity": 64,
+  "updateEffect": "steam",
+  "craftEffect": "plasticExplosion",
+  "outputItem": "refined_etigeum/3",
+  "consumes": {
+    "power": 18,
+    "items": {
+      "items": [
+        "raw_etigeum/3"
+      ]
+    }
+  },
+  "requirements": [
+    "thorium/330",
+    "titanium/500",
+    "metaglass/1300",
+    "silicon/1000",
+    "graphite/200",
+    "surge-alloy/150"
+  ],
+  "category": "crafting",
+  "research": "raw_etigeum"
 }

@@ -1,33 +1,33 @@
 {
-    localizedName: Etigeum Sequencer
-    description: Through lesser revolutionary methods, we have come up with a way to synthesize an amount of refined Etigeum.
-    type: "GenericCrafter"
-    health: 770
-    size: 4
-    hasPower: true
-    hasLiquids: false
-    hasItems: true
-    craftTime: 770
-    itemCapacity: 64
-    updateEffect: "steam"
-    craftEffect: "plasticExplosion"
-    outputItem: refined_etigeum/3
-    consumes: {
-        power: 25,
-        items: {
-            items: [
-                surge-alloy/15
-                graphite/30
-                silicon/30
-            ]
-        }
-    },
-    requirements: [
-        graphite/500
-        silicon/1700
-        tungsten/700
-        surge-alloy/1000
-    ],
-    "category": "crafting",
-    "research": "etigeum_synthesizer"
+  "localizedName": "Etigeum Sequencer",
+  "description": "Through lesser revolutionary methods, we have come up with a way to synthesize an amount of refined Etigeum.",
+  "type": "GenericCrafter",
+  "health": 770,
+  "size": 4,
+  "hasPower": true,
+  "hasLiquids": false,
+  "hasItems": true,
+  "craftTime": 770,
+  "itemCapacity": 64,
+  "updateEffect": "steam",
+  "craftEffect": "plasticExplosion",
+  "outputItem": "refined_etigeum/3",
+  "consumes": {
+    "power": 25,
+    "items": {
+      "items": [
+        "surge-alloy/15",
+        "graphite/30",
+        "silicon/30"
+      ]
+    }
+  },
+  "requirements": [
+    "graphite/500",
+    "silicon/1700",
+    "tungsten/700",
+    "surge-alloy/1000"
+  ],
+  "category": "crafting",
+  "research": "etigeum_synthesizer"
 }

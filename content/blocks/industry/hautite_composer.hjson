@@ -1,34 +1,34 @@
 {
-    localizedName: Hautite Composer
-    description: Hautite was a vital material of the Etigeox Federation.
-    type: "GenericCrafter"
-    health: 1170
-    size: 3
-    hasPower: true
-    hasLiquids: false
-    hasItems: true
-    craftTime: 120
-    itemCapacity: 64
-    updateEffect: "steam"
-    craftEffect: "plasticExplosion"
-    outputItem: hautite/3
-    consumes: {
-        power: 10,
-        items: {
-            items: [
-                titanium/5
-                graphite/5
-                lead/5
-            ]
-        }
-    },
-    requirements: [
-        titanium/800
-        lead/400
-        graphite/450
-        silicon/700
-        surge-alloy/100
-    ],
-    "category": "crafting",
-    "research": "hautite"
+  "localizedName": "Hautite Composer",
+  "description": "Hautite was a vital material of the Etigeox Federation.",
+  "type": "GenericCrafter",
+  "health": 1170,
+  "size": 3,
+  "hasPower": true,
+  "hasLiquids": false,
+  "hasItems": true,
+  "craftTime": 120,
+  "itemCapacity": 64,
+  "updateEffect": "steam",
+  "craftEffect": "plasticExplosion",
+  "outputItem": "hautite/3",
+  "consumes": {
+    "power": 10,
+    "items": {
+      "items": [
+        "titanium/5",
+        "graphite/5",
+        "lead/5"
+      ]
+    }
+  },
+  "requirements": [
+    "titanium/800",
+    "lead/400",
+    "graphite/450",
+    "silicon/700",
+    "surge-alloy/100"
+  ],
+  "category": "crafting",
+  "research": "hautite"
 }

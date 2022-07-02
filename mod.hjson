@@ -1,7 +1,7 @@
 {
     name: "etigei_exilium"
     displayName: "Etigei Exilium"
-    author: "Mitemi (Miter)"
+    author: "Mitemi & Superwibr"
     description: "Succesor to the defunct and incomplete Etigeox Mod."
     version: "0.2-25.11"
     minGameVersion: "136"

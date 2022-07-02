@@ -13,7 +13,7 @@
   "craftEffect": "plasticExplosion",
   "outputItem": "uu-matter/1",
   "consumes": {
-    "power": 18,
+    "power": 28,
     "items": {
       "items": [
         "refined_etigeum/3"

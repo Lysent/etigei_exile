@@ -1,6 +1,6 @@
 {
-  "localizedName": "UC-Octivine Fabricator",
-  "description": "Glory of Octavian",
+  "localizedName": "Volcaline Fabricator",
+  "description": "Fiery Hell",
   "type": "GenericCrafter",
   "health": 900,
   "size": 3,
@@ -12,9 +12,9 @@
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
   "outputItems": [
-    "thorium/7"
-    "plastanium/7"
-    "metaglass/10"
+    "beryllium/15"
+    "tungsten/8"
+    "oxide/3"
   ]
   "consumes": {
     "power": 18,
@@ -25,10 +25,11 @@
     }
   },
   "requirements": [
-    "plastanium/660"
+    "graphite/300"
     "lead/300"
     "titanium/100"
-    "refined_etigeum/200"
+    "phase-fabric/150"
+    "refined_etigeum/400"
     "silicon/300"
   ],
   "category": "crafting",

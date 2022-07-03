@@ -1,6 +1,6 @@
 {
-  "localizedName": "UC-Volcaline Fabricator",
-  "description": "Fiery Hell",
+  "localizedName": "Copperline Fabricator",
+  "description": "The attributed name of this fabricator is misleading.",
   "type": "GenericCrafter",
   "health": 900,
   "size": 3,
@@ -12,9 +12,9 @@
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
   "outputItems": [
-    "beryllium/15"
-    "tungsten/8"
-    "oxide/3"
+    "copper/10"
+    "lead/10"
+    "titanium/5"
   ]
   "consumes": {
     "power": 18,
@@ -25,11 +25,10 @@
     }
   },
   "requirements": [
-    "graphite/300"
+    "copper/660"
     "lead/300"
-    "titanium/100"
-    "phase-fabric/150"
-    "refined_etigeum/400"
+    "titanium/500"
+    "refined_etigeum/200"
     "silicon/300"
   ],
   "category": "crafting",

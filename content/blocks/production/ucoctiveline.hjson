@@ -1,6 +1,6 @@
 {
-  "localizedName": "UC-Copperline Fabricator",
-  "description": "The attributed name of this fabricator is misleading.",
+  "localizedName": "Octivine Fabricator",
+  "description": "Glory of Octavian",
   "type": "GenericCrafter",
   "health": 900,
   "size": 3,
@@ -12,9 +12,9 @@
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
   "outputItems": [
-    "copper/10"
-    "lead/10"
-    "titanium/5"
+    "thorium/7"
+    "plastanium/7"
+    "metaglass/10"
   ]
   "consumes": {
     "power": 18,
@@ -25,9 +25,9 @@
     }
   },
   "requirements": [
-    "copper/660"
+    "plastanium/660"
     "lead/300"
-    "titanium/500"
+    "titanium/100"
     "refined_etigeum/200"
     "silicon/300"
   ],

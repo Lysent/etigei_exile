@@ -4,6 +4,7 @@
     health : 4160
     size : 2
     hasPower: true
+    conductivePower: true
     requirements : [
         refined_etigeum/20
         smart_compound/50

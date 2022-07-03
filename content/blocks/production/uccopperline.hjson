@@ -2,7 +2,7 @@
   "localizedName": "Copperline Fabricator",
   "description": "The attributed name of this fabricator is misleading.",
   "type": "GenericCrafter",
-  "health": 900,
+  "health": 150,
   "size": 3,
   "hasPower": true,
   "hasLiquids": false,

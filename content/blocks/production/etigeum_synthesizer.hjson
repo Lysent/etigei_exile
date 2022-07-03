@@ -2,7 +2,7 @@
   "localizedName": "Etigeum Synthesizer",
   "description": "Through revolutionary methods, we have come up with a way to synthesize an amount of refined Etigeum.",
   "type": "GenericCrafter",
-  "health": 2000,
+  "health": 700,
   "size": 4,
   "hasPower": true,
   "hasLiquids": false,

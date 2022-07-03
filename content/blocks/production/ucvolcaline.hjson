@@ -2,7 +2,7 @@
   "localizedName": "Volcaline Fabricator",
   "description": "Fiery Hell",
   "type": "GenericCrafter",
-  "health": 900,
+  "health": 150,
   "size": 3,
   "hasPower": true,
   "hasLiquids": false,

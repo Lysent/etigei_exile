@@ -13,7 +13,7 @@
       }
     ]
   },
-  "health": 600,
+  "health": 200,
   "size": 3,
   "hasPower": true,
   "hasLiquids": false,

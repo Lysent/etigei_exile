@@ -2,7 +2,7 @@
   "localizedName": "Universal Condenser",
   "description": "Condense the world!",
   "type": "GenericCrafter",
-  "health": 900,
+  "health": 190,
   "size": 3,
   "hasPower": true,
   "hasLiquids": false,

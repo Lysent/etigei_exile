@@ -2,7 +2,7 @@
   "localizedName": "Octivine Fabricator",
   "description": "Glory of Octavian",
   "type": "GenericCrafter",
-  "health": 900,
+  "health": 150,
   "size": 3,
   "hasPower": true,
   "hasLiquids": false,

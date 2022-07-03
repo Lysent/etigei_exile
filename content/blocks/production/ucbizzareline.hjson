@@ -2,7 +2,7 @@
   "localizedName": "Bizarre Fabricator",
   "description": "odd things",
   "type": "GenericCrafter",
-  "health": 900,
+  "health": 160,
   "size": 3,
   "hasPower": true,
   "hasLiquids": false,

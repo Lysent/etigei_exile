@@ -1,0 +1,14 @@
+{
+    localizedName : Large Etigeox Military-Graded Augmented Wall MKM Model
+    type : wall
+    health : 5200
+    size : 2
+    requirements : [
+        refined_etigeum/20
+        thorium/64
+        titanium/104
+        surge-alloy/80
+    ]
+    category : defense
+    research : etigeum-reinforced-wall
+}

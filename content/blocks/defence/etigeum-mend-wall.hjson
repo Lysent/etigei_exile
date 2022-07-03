@@ -1,0 +1,22 @@
+{
+    localizedName: Etigeum Reinforced Mender
+    type: MendProjector
+    buildTime : 1
+    health: 250
+    size: 1
+    hasPower: true
+    healPercent: 2.5
+    range: 25
+    consumes: {
+        power: 2.25
+    }
+    requirements : [
+        refined_etigeum/20
+        smart_compound/20
+        thorium/40
+        titanium/48
+        silicon/60
+    ]
+    category: effect
+    research: etigeum-reinforced-wall-big
+}

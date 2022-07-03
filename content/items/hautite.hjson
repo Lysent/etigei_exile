@@ -1,7 +1,6 @@
 {
     localizedName : Hautite Composite
-    description : A hard and smart composite.
-    type: material
+    description : A hard and strong composite.
     color: 666699,
     research: {
         parent: phase-fabric,

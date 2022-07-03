@@ -14,7 +14,7 @@
     "consumes": {
         "power": 1,
         },
-    radius: 5
+    radius: 10
     shieldHealth: 475
     absorbLasers: true
     category : defense

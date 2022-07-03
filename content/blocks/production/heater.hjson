@@ -7,8 +7,6 @@
   "hasPower": true,
   "hasLiquids": false,
   "hasItems": false,
-  "updateEffect": "steam",
-  "craftEffect": "plasticExplosion",
   "heatOutput": 2.5
   "consumes": {
     "power": 4,

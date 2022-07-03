@@ -3,6 +3,7 @@
     type : ForceProjector
     health : 1040
     size : 1
+    hasPower: true
     requirements : [
         refined_etigeum/5
         smart_compound/5
@@ -10,10 +11,12 @@
         titanium/26
         surge-alloy/20
     ]
+    "consumes": {
+        "power": 1,
+        },
     radius: 5
     shieldHealth: 475
-    chanceDeflect: 100
     absorbLasers: true
     category : defense
-    research : surge-wall
+    research : etigeum-reinforced-wall
 }

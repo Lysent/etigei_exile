@@ -9,7 +9,7 @@
   "hasItems": false,
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
-  "heatOutput": 10
+  "heatOutput": 2.5
   "consumes": {
     "power": 4,
   },

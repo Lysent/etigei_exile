@@ -1,0 +1,35 @@
+{
+    localizedName: Etigeum Core
+    description: Generates great amounts of power from etigeum.
+    type: "SingleTypeGenerator"
+    health: 380
+    size: 2
+    hasPower: true
+    hasLiquids: true
+    hasItems: true
+    craftTime: 20
+    itemCapacity: 100
+    powerCapacity: 10000
+    updateEffect: "steam"
+    craftEffect: "plasticExplosion"
+    outputItem: scrap/3
+    powerProduction: 45
+    consumes: {
+        items: {
+            items:[
+                refined_etigeum/2
+            ]
+        }
+        liquid: water/0.03
+        
+    }
+    requirements: [
+        titanium/200
+        metaglass/50
+        silicon/210
+        smart_compound/100
+        refined_etigeum/100
+    ]
+    category: power
+    research: "impact-reactor"
+}

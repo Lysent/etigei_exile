@@ -1,7 +1,7 @@
 {
     localizedName: Heat Generator
     description: heat. superwibr help me
-    type: GenericCrafter
+    type: HeatCrafter
     health: 180
     size: 3
     hasPower: true

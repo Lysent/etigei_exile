@@ -1,7 +1,7 @@
 {
     localizedName: Etigeum Core
     description: Generates great amounts of power from etigeum.
-    type: "SingleTypeGenerator"
+    type: "ConsumeGenerator"
     health: 380
     size: 2
     hasPower: true

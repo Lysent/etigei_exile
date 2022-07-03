@@ -6,7 +6,7 @@
     size: 5
     hasPower: true
     powerCapacity: 10000
-    powerProduction: 9
+    powerProduction: 7
     requirements: [
         titanium/250
         metaglass/250

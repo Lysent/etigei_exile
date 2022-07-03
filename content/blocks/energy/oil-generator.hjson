@@ -9,7 +9,7 @@
     powerCapacity: 10000
     updateEffect: steam
     craftEffect: plasticExplosion
-    powerProduction: 14
+    powerProduction: 6
     consumes: {
         liquid: oil/0.03
     }

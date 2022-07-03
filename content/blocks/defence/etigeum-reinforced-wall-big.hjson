@@ -9,6 +9,8 @@
         titanium/104
         surge-alloy/80
     ]
+    chanceDeflect: 100
+    absorbLasers: true
     category : defense
     research : etigeum-reinforced-wall
 }

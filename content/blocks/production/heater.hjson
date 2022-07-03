@@ -1,0 +1,24 @@
+{
+  "localizedName": "Heater",
+  "description": "Just your plain old electrical calorifere from the 1980s",
+  "type": "HeatProducer",
+  "health": 50,
+  "size": 1,
+  "hasPower": true,
+  "hasLiquids": false,
+  "hasItems": false,
+  "updateEffect": "steam",
+  "craftEffect": "plasticExplosion",
+  "heatOutput": 10
+  "consumes": {
+    "power": 4,
+  },
+  "requirements": [
+    "titanium/100",
+    "lead/50",
+    "graphite/50",
+    "silicon/70",
+  ],
+  "category": "crafting",
+  "research": "phase-fabric"
+}

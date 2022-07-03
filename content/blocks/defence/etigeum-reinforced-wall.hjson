@@ -9,6 +9,8 @@
         titanium/26
         surge-alloy/20
     ]
+    chanceDeflect: 100
+    absorbLasers: true
     category : defense
     research : surge-wall
 }

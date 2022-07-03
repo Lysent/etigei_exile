@@ -17,6 +17,7 @@
         titanium/48
         silicon/60
     ]
+    absorbLasers: true
     category: effect
     research: etigeum-reinforced-wall-big
 }

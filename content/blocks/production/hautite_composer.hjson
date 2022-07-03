@@ -1,7 +1,7 @@
 {
   "localizedName": "Hautite Composer",
   "description": "Hautite was a vital material of the Etigeox Federation.",
-  "type": "GenericCrafter",
+  "type": "HeatCrafter",
   "health": 200,
   "size": 3,
   "hasPower": true,
@@ -29,6 +29,7 @@
     "silicon/700",
     "surge-alloy/100"
   ],
+  "heatRequirement": 7.5
   "category": "crafting",
   "research": "phase-fabric"
 }

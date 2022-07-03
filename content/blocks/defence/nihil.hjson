@@ -10,8 +10,8 @@
         power: 5.25
     }
     requirements : [
-        refined_etigeum/300
-        smart_compound/100
+        refined-etigeum/300
+        smart-compound/100
         thorium/400
         titanium/480
         silicon/600

@@ -29,9 +29,9 @@
     "lead/300"
     "titanium/100"
     "phase-fabric/150"
-    "refined_etigeum/400"
+    "refined-etigeum/400"
     "silicon/300"
   ],
   "category": "crafting",
-  "research": "universal_condenser"
+  "research": "universal-condenser"
 }

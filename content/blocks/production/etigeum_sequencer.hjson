@@ -11,7 +11,7 @@
   "itemCapacity": 64,
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
-  "outputItem": "refined_etigeum/3",
+  "outputItem": "refined-etigeum/3",
   "consumes": {
     "power": 25,
     "items": {
@@ -29,5 +29,5 @@
     "surge-alloy/1000"
   ],
   "category": "crafting",
-  "research": "etigeum_synthesizer"
+  "research": "etigeum-synthesizer"
 }

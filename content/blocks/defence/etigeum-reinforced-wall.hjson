@@ -4,7 +4,7 @@
     health : 1300
     size : 1
     requirements : [
-        refined_etigeum/5
+        refined-etigeum/5
         thorium/16
         titanium/26
         surge-alloy/20

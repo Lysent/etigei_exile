@@ -7,8 +7,8 @@
         lead/400
         titanium/200
         silicon/200
-        refined_etigeum/50
-        smart_compound/150
+        refined-etigeum/50
+        smart-compound/150
     ]
    consumes : {powerBuffered: 1000000}
    category: power

@@ -9,7 +9,7 @@
     category: distribution
     range : 8
     requirements: [
-        refined_etigeum/6
+        refined-etigeum/6
         titanium/12
         silicon/6
         plastanium/6

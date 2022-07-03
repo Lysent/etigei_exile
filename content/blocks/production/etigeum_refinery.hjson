@@ -22,12 +22,12 @@
   "itemCapacity": 64,
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
-  "outputItem": "refined_etigeum/3",
+  "outputItem": "refined-etigeum/3",
   "consumes": {
     "power": 18,
     "items": {
       "items": [
-        "raw_etigeum/3"
+        "raw-etigeum/3"
       ]
     }
   },
@@ -40,5 +40,5 @@
     "surge-alloy/150"
   ],
   "category": "crafting",
-  "research": "raw_etigeum"
+  "research": "raw-etigeum"
 }

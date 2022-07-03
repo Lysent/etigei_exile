@@ -16,7 +16,7 @@
     "power": 28,
     "items": {
       "items": [
-        "refined_etigeum/3"
+        "refined-etigeum/3"
       ]
     }
   },
@@ -24,7 +24,7 @@
     "thorium/330",
     "titanium/500",
     "metaglass/1300",
-    "refined_etigeum/250",
+    "refined-etigeum/250",
     "hautite/150"
     "silicon/1000",
     "graphite/200",
@@ -32,5 +32,5 @@
   ],
   absorbLasers: true
   "category": "crafting",
-  "research": "refined_etigeum"
+  "research": "refined-etigeum"
 }

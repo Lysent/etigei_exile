@@ -5,7 +5,7 @@
     size: 1
     health: 190
     requirements: [
-        refined_etigeum/1
+        refined-etigeum/1
         titanium/2
         plastanium/1
         silicon/1

@@ -28,9 +28,9 @@
     "copper/660"
     "lead/300"
     "titanium/500"
-    "refined_etigeum/200"
+    "refined-etigeum/200"
     "silicon/300"
   ],
   "category": "crafting",
-  "research": "universal_condenser"
+  "research": "universal-condenser"
 }

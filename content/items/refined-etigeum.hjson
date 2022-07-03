@@ -4,7 +4,7 @@
     type: material
     color: 09e0dd,
     research: {
-        parent: raw_etigeum,
+        parent: raw-etigeum,
     },
     radioactivity: 1
     charge: 1

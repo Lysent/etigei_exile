@@ -12,9 +12,9 @@
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
   "outputItems": [
-    "thorium/14"
-    "plastanium/14"
-    "metaglass/20"
+    "thorium/7"
+    "plastanium/7"
+    "metaglass/10"
   ]
   "consumes": {
     "power": 18,

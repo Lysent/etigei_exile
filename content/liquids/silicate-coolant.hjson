@@ -8,7 +8,7 @@
     research: {
         parent: cryofluid,
         requirements: [
-            refined_etigeum/1
+            refined-etigeum/1
         ]
     }
 }

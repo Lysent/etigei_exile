@@ -12,8 +12,8 @@
         metaglass/250
         silicon/125
         phase-fabric/65
-        refined_etigeum/80
-        smart_compound/80
+        refined-etigeum/80
+        smart-compound/80
     ]
     category: power
     research: solar-panel-large

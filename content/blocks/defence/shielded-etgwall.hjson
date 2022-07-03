@@ -5,8 +5,8 @@
     size : 1
     hasPower: true
     requirements : [
-        refined_etigeum/5
-        smart_compound/5
+        refined-etigeum/5
+        smart-compound/5
         thorium/16
         titanium/26
         surge-alloy/20

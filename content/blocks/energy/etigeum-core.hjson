@@ -17,7 +17,7 @@
     consumes: {
         items: {
             items:[
-                refined_etigeum/2
+                refined-etigeum/2
             ]
         }
         liquid: water/0.03
@@ -27,8 +27,8 @@
         titanium/200
         metaglass/50
         silicon/210
-        smart_compound/100
-        refined_etigeum/100
+        smart-compound/100
+        refined-etigeum/100
     ]
     category: power
     research: "impact-reactor"

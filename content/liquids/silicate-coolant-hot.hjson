@@ -8,7 +8,7 @@
     research: {
         parent: silicate-coolant,
         requirements: [
-            refined_etigeum/0
+            refined-etigeum/0
         ]
     }
 }

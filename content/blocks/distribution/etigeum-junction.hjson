@@ -8,7 +8,7 @@
     itemCapacity: 10
     category: distribution
     requirements: [
-        refined_etigeum/2
+        refined-etigeum/2
         titanium/4
         silicon/2
         plastanium/2

@@ -3,8 +3,15 @@
   "description": "Refine the turquoise product.",
   "type": "AttributeCrafter",
   "drawer": {
-    "type": "DrawSmelter",
-    "flameColor": "ff00ff"
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault"
+      },
+      {
+        "type": "DrawFade",
+      }
+    ]
   },
   "health": 600,
   "size": 3,

@@ -12,7 +12,7 @@
         surge-alloy/20
     ]
     "consumes": {
-        "power": 1,
+        "power": 0.75,
         },
     radius: 10
     shieldHealth: 475

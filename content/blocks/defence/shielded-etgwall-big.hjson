@@ -12,9 +12,9 @@
         surge-alloy/80
     ]    
     "consumes": {
-        "power": 4,
+        "power": 3,
         },
-    radius: 40
+    radius: 20
     shieldHealth: 1900
     absorbLasers: true
     category : defense

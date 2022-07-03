@@ -13,7 +13,7 @@
   "craftEffect": "plasticExplosion",
   "outputItem": "refined_etigeum/3",
   "consumes": {
-    "power": 18,
+    "power": 28,
     "items": {
       "items": [
         "hautite/3",

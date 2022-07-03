@@ -5,6 +5,7 @@
     health: 180
     size: 3
     hasPower: true
+    outputsPower: true
     hasLiquids: true
     powerCapacity: 10000
     updateEffect: steam

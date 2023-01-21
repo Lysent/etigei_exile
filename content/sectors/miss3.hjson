@@ -1,0 +1,15 @@
+{
+    sector: 3,
+    planet: "Rubiginosus",
+    research: {
+        parent: "miss2",
+        objectives: [
+            {
+                type: "SectorComplete",
+                preset: "miss2"
+            }
+        ]
+    },
+    difficulty: 2,
+    alwaysUnlocked: false
+}

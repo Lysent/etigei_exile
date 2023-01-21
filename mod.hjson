@@ -1,8 +1,9 @@
 {
-    name: "etigeox-m2"
+    name: "etigeum"
     displayName: "Etigei Exilium"
     author: "Mitemi & Superwibr"
-    description: "Succesor to the defunct and incomplete Etigeox Mod."
+    description: "Succesor to the defunct and incomplete Etigeox Mod. Adds two new planets, a new technology tree and a whole lot of content."
+    subtitle: "centrism is fun"
     version: "0.2-25.21"
-    minGameVersion: "136"
+    minGameVersion: "140"
 }

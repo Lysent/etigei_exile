@@ -1,0 +1,17 @@
+{
+    type: "CoreBlock",
+    category: "effect",
+
+    size: 4,
+    health: 10000,
+    itemCapacity: 1000,
+    isFirstTier: true,
+    alwaysUnlocked: true,
+    buildVisibility: "hidden",
+
+    research: {
+        root: true,
+        name: "Colonisation Core",
+        planet: "Neoulandia"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    localizedName : Alumin
+    description : Something.
+    color: 666699,
+    research: {
+        parent: colony-core,
+    },
+        hardness: 1
+}

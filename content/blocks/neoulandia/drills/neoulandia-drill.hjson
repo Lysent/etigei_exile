@@ -1,0 +1,21 @@
+{
+    localizedName: Basic Extractor Drill
+    description: A basic drill for basic resources.
+    health: 80
+    type: drill
+    size: 2
+    tier: 4
+    drillTime: 15.2
+    warmupSpeed: 0.25
+    rotateSpeed: 2
+    liquidBoostIntensity: 1.1
+    hardnessDrillMultiplier: 2
+
+    requirements: [
+        tin/90
+        alumin/90
+        silver/30
+    ]
+    category: production
+    research: colony-core
+}

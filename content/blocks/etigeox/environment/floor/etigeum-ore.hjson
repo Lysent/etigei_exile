@@ -1,0 +1,5 @@
+{
+    name: Etigeum Ore
+    type: OreBlock
+    itemDrop: raw-etigeum
+}

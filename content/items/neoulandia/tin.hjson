@@ -1,0 +1,9 @@
+{
+    localizedName : Tin
+    description : An ore.
+    color: 666699,
+    research: {
+        parent: colony-core,
+    },
+        hardness: 1
+}

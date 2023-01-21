@@ -8,7 +8,6 @@
     itemCapacity: 1000,
     isFirstTier: true,
     alwaysUnlocked: true,
-    buildVisibility: "hidden",
 
     research: {
         root: true,

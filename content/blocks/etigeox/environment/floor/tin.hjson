@@ -1,0 +1,5 @@
+{
+    name: Tin
+    type: OreBlock
+    itemDrop: tin
+}

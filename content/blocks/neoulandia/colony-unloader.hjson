@@ -28,4 +28,5 @@
     "silver/3"
   ]
   "research": "colony-core"
+  "alwaysUnlocked": true,
 }

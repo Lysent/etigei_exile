@@ -1,5 +1,4 @@
 {
-    name: Ore Deposit
     type: OreBlock
     itemDrop: raw-ore
 }

@@ -1,6 +1,6 @@
 {
     localizedName: Heat Generator
-    description: heat. superwibr help me
+    description: heat.
     type: HeatCrafter
     health: 180
     size: 3

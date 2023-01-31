@@ -10,12 +10,15 @@
     rotateSpeed: 2
     liquidBoostIntensity: 1.1
     hardnessDrillMultiplier: 2
-
-    requirements: [
-        tin/90
-        alumin/90
-        silver/30
-    ]
+    hasPower: true,
+      "consumes": {
+    "power": 1,
+  },
+    "requirements": [
+    "tin/30"
+    "alumin/30"
+    "silver/30"
+  ],
     category: production
     research: colony-core
 }

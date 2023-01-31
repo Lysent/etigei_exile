@@ -3,7 +3,7 @@
     description : A shiny ore.
     color: 666699,
     research: {
-        parent: colony-core,
+        parent: raw-ore,
     },
         hardness: 1
 }

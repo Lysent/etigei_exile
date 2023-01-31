@@ -1,0 +1,5 @@
+{
+    name: Greater Ore Deposit
+    type: OreBlock
+    itemDrop: greater-raw-ore
+}

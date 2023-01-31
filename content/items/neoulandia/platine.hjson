@@ -3,7 +3,7 @@
     description : A shiny largely useless material.
     color: 666699,
     research: {
-        parent: neoulandia-drill,
+        parent: greater-raw-ore,
     },
         hardness: 3
 }

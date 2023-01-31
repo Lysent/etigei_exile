@@ -1,9 +1,9 @@
 {
     localizedName : Alumin
-    description : Something.
+    description : Aluminium Oxide.
     color: 666699,
     research: {
-        parent: colony-core,
+        parent: raw-ore,
     },
         hardness: 1
 }

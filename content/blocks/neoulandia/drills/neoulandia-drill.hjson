@@ -3,7 +3,7 @@
     description: A basic drill for basic resources.
     health: 80
     type: drill
-    size: 2
+    size: 3
     tier: 4
     drillTime: 15.2
     warmupSpeed: 0.25

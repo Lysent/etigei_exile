@@ -1,0 +1,46 @@
+{
+  "localizedName": "Titanium Condenser",
+  "description": "Through complete nonsense, we can paint Titanium white and now it's extremely useful and overpowered.",
+  "type": "GenericCrafter",
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault"
+      },
+      {
+        "type": "DrawFade",
+      }
+    ]
+  },
+  "health": 80,
+  "size": 5,
+  "hasPower": true,
+  "hasLiquids": false,
+  "hasItems": true,
+  "craftTime": 390,
+  "itemCapacity": 64,
+  "updateEffect": "steam",
+  "craftEffect": "smoke",
+  "outputItem": chip/1
+  "consumes": {
+    "power": 32,
+    "items": {
+      "items": [
+        "titanium/3"
+        "alumin/3"
+        "platine/3"
+        "chip/1"
+      ]
+    }
+  },
+
+  "requirements": [
+    "platine/300"
+    "alumin/3000"
+    "tin/1000"
+    "chip/100"
+  ],
+  "category": "production",
+  "research": "chip-factory"
+}

@@ -1,0 +1,42 @@
+{
+  "localizedName": "Microchip Factory",
+  "description": "This factory produces advanced circuit brains for better opportunities.",
+  "type": "GenericCrafter",
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault"
+      },
+      {
+        "type": "DrawFade",
+      }
+    ]
+  },
+  "health": 80,
+  "size": 3,
+  "hasPower": true,
+  "hasLiquids": false,
+  "hasItems": true,
+  "craftTime": 690,
+  "itemCapacity": 64,
+  "updateEffect": "steam",
+  "craftEffect": "smoke",
+  "outputItem": chip/3
+  "consumes": {
+    "power": 8,
+    "items": {
+      "items": [
+        "sprite/3"
+      ]
+    }
+  },
+
+  "requirements": [
+    "tin/30"
+    "alumin/30"
+    "silver/30"
+  ],
+  "category": "production",
+  "research": "neoulandia-drill"
+}

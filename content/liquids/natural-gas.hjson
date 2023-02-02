@@ -1,0 +1,11 @@
+{
+    localizedName: Natural Gas
+    description: Filled with energy!
+    gas: true
+    temperature: 5
+    heatCapacity: 1
+    color: ed9ae2
+    research: {
+        parent: fracker,
+    }
+}

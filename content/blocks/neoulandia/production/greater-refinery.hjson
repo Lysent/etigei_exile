@@ -1,0 +1,48 @@
+{
+  "localizedName": "Separation Kiln",
+  "description": "In a process called flotation separation, air bubbles are blown through the mixture and carry platinum particles to the surface of the bath. The platinum-rich froth is skimmed from the bath and allowed to dry into a concentrated powder. This powder is then blasted at high temperatures and airflow in a kiln to burn off impurities and blow off slag.",
+  "type": "HeatCrafter",
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault"
+      },
+      {
+        "type": "DrawFade",
+      }
+    ]
+  },
+  "health": 120,
+  "size": 4,
+  "hasPower": true,
+  "hasLiquids": true,
+  "hasItems": true,
+  "craftTime": 275,
+  "itemCapacity": 64,
+  "updateEffect": "steam",
+  "craftEffect": "smoke",
+  "outputItems": [
+    "platine/3"
+    "nickel/3"
+  ]
+  outputLiquid: "slag/0.05"
+  "consumes": {
+    "power": 4,
+    "items": {
+      "items": [
+        "greater-raw-ore/3"
+      ]
+    }
+    liquid: water/0.01
+  },
+  heatRequirement: 5
+
+  "requirements": [
+    "tin/490"
+    "alumin/490"
+    "silver/490"
+  ],
+  "category": "production",
+  "research": "neoulandia-drill"
+}

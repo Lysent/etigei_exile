@@ -1,0 +1,11 @@
+{
+    name: Strong Current
+    type: "Floor",
+    liquidDrop: "water",
+    status: "wet",
+    statusDuration: 3600,
+    isLiquid: true,
+    variants: 0,
+    drownTime: 10,
+    supportsOverlay: true,
+}

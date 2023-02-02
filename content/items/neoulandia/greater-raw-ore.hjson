@@ -1,7 +1,7 @@
 {
     localizedName : Greater Unprocessed Ore
     description : Unrefined raw ore extracted from the ore clusters on the planet of Neoulandia.
-    color: 666699,
+    color: 555754,
     research: {
         parent: neoulandia-drill,
     },

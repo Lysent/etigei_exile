@@ -1,0 +1,23 @@
+{
+    localizedName: Gas Generator
+    description: Creating climate change since 2089
+    type: ConsumeGenerator
+    health: 30
+    size: 2
+    hasPower: true
+    hasLiquids: true
+    powerCapacity: 1000
+    updateEffect: steam
+    craftEffect: plasticExplosion
+    powerProduction: 16
+    consumes: {
+        liquid: natural-gas/1
+    }
+    requirements: [
+        alumin/50
+        silver/35
+        chip/3
+    ]
+    category: power
+    research: "oil-generator"
+}

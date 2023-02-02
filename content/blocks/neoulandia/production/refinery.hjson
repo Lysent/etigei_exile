@@ -1,7 +1,7 @@
 {
   "localizedName": "Mineral Sifter-Smelter",
   "description": "The Sifter-Smelter is a compound device that removes unwanted contaminants and melts minerals at high temperatures in order to properly cast them into ingots fit for industrial use.",
-  "type": "AttributeCrafter",
+  "type": "HeatCrafter",
   "drawer": {
     "type": "DrawMulti",
     "drawers": [
@@ -18,10 +18,10 @@
   "hasPower": true,
   "hasLiquids": false,
   "hasItems": true,
-  "craftTime": 75,
+  "craftTime": 175,
   "itemCapacity": 64,
   "updateEffect": "steam",
-  "craftEffect": "plasticExplosion",
+  "craftEffect": "smoke",
   "outputItems": [
     "tin/3"
     "alumin/3"
@@ -35,11 +35,13 @@
       ]
     }
   },
+  heatRequirement: 2.5
+
   "requirements": [
     "tin/30"
     "alumin/30"
     "silver/30"
   ],
-  "category": "crafting",
-  "research": "raw-etigeum"
+  "category": "production",
+  "research": "neoulandia-drill"
 }

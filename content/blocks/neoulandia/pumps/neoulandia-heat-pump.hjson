@@ -1,0 +1,20 @@
+{
+    localizedName: Heat Pump
+    description: An advanced pump based on heat.
+    health: 80
+    type: pump
+    size: 1
+    hasPower: true,
+      "consumes": {
+    "power": 0.5,
+  },
+  pumpAmount: 0.25
+    "requirements": [
+    "tin/50"
+    "alumin/50"
+    "silver/50"
+    "chip/3"
+  ],
+    category: liquid
+    research: neoulandia-pump
+}

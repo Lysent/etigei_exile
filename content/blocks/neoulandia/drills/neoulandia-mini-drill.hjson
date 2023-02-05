@@ -1,0 +1,19 @@
+{
+    localizedName: Quickstarting Miniature Extractor Drill
+    description: A very small drill for those who don't shortcut the progression.
+    health: 80
+    type: drill
+    size: 1
+    tier: 4
+    drillTime: 5
+    warmupSpeed: 1
+    rotateSpeed: 2
+    hardnessDrillMultiplier: 2
+    "requirements": [
+    "tin/5"
+    "alumin/5"
+    "silver/5"
+  ],
+    category: production
+    research: colony-core
+}

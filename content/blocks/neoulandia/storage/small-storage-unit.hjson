@@ -1,0 +1,10 @@
+{
+    localizedName: Small Storage Warehouse
+    type: StorageBlock
+    
+    size:2
+    itemCapacity:454
+
+    research: mini-storage-unit
+    category: effect
+}

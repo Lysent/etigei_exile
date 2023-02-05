@@ -1,0 +1,20 @@
+{
+    localizedName: Receiving Shipping Landing Pad
+    type: UnitCargoUnloadPoint
+    description: Shipping resources across a distance.
+    size: 1
+    health: 15
+    conductivePower: true
+    requirements: [
+        alumin/50
+        silver/50
+        chip/5
+    ]
+    "consumes": {
+    "power": 0.25,
+    },
+    staleTimeDuration: 132
+
+    category:distribution
+    research: neoulandia-cargo-loader
+}

@@ -1,0 +1,47 @@
+{
+  "localizedName": "Quickstarting Miniature Mineral Sifter-Smelter",
+  "description": "A smaller version of the Mineral Sifter-Smelter which relies on melting water in its surroundings. Now integrated with a coal generator.",
+  "type": "AttributeCrafter",
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault"
+      },
+      {
+        "type": "DrawFade",
+      }
+    ]
+  },
+  "health": 20,
+  "size": 1,
+  "hasPower": true,
+  "hasLiquids": false,
+  "hasItems": true,
+  "craftTime": 200,
+  "itemCapacity": 16,
+  "updateEffect": "steam",
+  "craftEffect": "smoke",
+  "outputItems": [
+    "tin/3"
+    "alumin/3"
+    "silver/3"
+  ]
+  "consumes": {
+    "power": 1,
+    "items": {
+      "items": [
+        "raw-ore/3"
+        "coal/1"
+      ]
+    }
+  },
+
+  "requirements": [
+    "tin/5"
+    "alumin/5"
+    "silver/5"
+  ],
+  "category": "production",
+  "research": "neoulandia-mini-drill"
+}

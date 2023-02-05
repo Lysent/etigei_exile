@@ -1,10 +1,10 @@
 {
     localizedName: Stacked Storage Warehouse
     type: StorageBlock
-    category: effect
     
     size:3
     itemCapacity:1024
 
-      "research": "neoulandia-drill"
+    research: small-storage-unit
+    category: effect
 }

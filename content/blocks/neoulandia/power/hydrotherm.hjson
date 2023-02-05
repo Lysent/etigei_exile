@@ -1,6 +1,5 @@
 {
-  "localizedName": "Basic Fracking Rig",
-  "description": "Making that gas.",
+  "localizedName": "Hydrothermal electric Barrage",
   "type": "AttributeCrafter",
   "drawer": {
     "type": "DrawMulti",
@@ -16,13 +15,13 @@
   "health": 80,
   "size": 2,
   "hasPower": true,
-  "hasLiquids": true,
-  "hasItems": true,
+  "hasLiquids": false,
+  "hasItems": false,
   "craftTime": 60,
   "itemCapacity": 64,
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
-  "outputLiquid": natural-gas/0.01
+  powerProduction: 45
 
   attribute: "gas-deposit"
   maxBoost: 4
@@ -30,15 +29,11 @@
   baseEfficiency:0.1
   boostScale: 100
 
-  "consumes": {
-    power: 1,
-    liquid: water/0.2
-  },
   "requirements": [
     "tin/100"
     "silver/70"
     "platine/35"
   ],
   "category": "liquid",
-  "research": "neoulandia-pump"
+  "research": "colony-core"
 }

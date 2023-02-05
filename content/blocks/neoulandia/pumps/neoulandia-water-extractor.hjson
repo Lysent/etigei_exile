@@ -1,6 +1,6 @@
 {
-  "localizedName": "Basic Fracking Rig",
-  "description": "Making that gas.",
+  "localizedName": "Water Extractor",
+  "description": "Melting ice to produce water.",
   "type": "AttributeCrafter",
   "drawer": {
     "type": "DrawMulti",
@@ -14,30 +14,22 @@
     ]
   },
   "health": 80,
-  "size": 2,
+  "size": 3,
   "hasPower": true,
   "hasLiquids": true,
   "hasItems": true,
-  "craftTime": 60,
+  "craftTime": 180,
   "itemCapacity": 64,
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
-  "outputLiquid": natural-gas/0.01
-
-  attribute: "gas-deposit"
-  maxBoost: 4
-  displayEfficiency: true
-  baseEfficiency:0.1
-  boostScale: 100
-
+  outputLiquid: "water/0.1"
   "consumes": {
     power: 1,
-    liquid: water/0.2
   },
   "requirements": [
-    "tin/100"
-    "silver/70"
-    "platine/35"
+    "tin/50"
+    "alumin/50"
+    "silver/50"
   ],
   "category": "liquid",
   "research": "neoulandia-pump"

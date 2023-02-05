@@ -1,0 +1,11 @@
+{
+    localizedName : Solified Water Container
+    description : Highly concentrated water leftover from the voyage.
+    color: 00c8ff,
+    research: {
+        parent: colony-core,
+    },
+        hardness: 6
+        buildable: true
+        alwaysUnlocked: true
+}

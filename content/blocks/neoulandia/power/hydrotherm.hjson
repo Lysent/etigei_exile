@@ -23,7 +23,6 @@
   "craftEffect": "plasticExplosion",
   powerProduction: 45
 
-  attribute: "gas-deposit"
   maxBoost: 4
   displayEfficiency: true
   baseEfficiency:0.1

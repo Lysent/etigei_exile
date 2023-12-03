@@ -1,2 +1,2 @@
 // Attributes
-Attribute.add("gas-deposit");
+Attribute.add("gas");

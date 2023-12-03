@@ -1,7 +1,7 @@
 {
   "localizedName": "Colonial Cargo Docking Adapter",
   "description": "Your homeworld has sent you plenty of resources, to make sure your colony will not fail, they will continually fork over basic resources.",
-  "type": "AttributeCrafter",
+  "type": "GenericCrafter",
   "drawer": {
     "type": "DrawMulti",
     "drawers": [

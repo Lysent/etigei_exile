@@ -3,7 +3,7 @@
     description: A basic pump running on a low voltage engine.
     health: 80
     type: pump
-    size: 1
+    size: 2
     hasPower: true,
       "consumes": {
     "power": 0.25,

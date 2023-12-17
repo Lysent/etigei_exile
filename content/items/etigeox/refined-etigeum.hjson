@@ -4,7 +4,7 @@
     type: material
     color: 09e0dd,
     research: {
-        parent: etigeum-synthesizer,
+        parent: hautite,
     },
     radioactivity: 1
     charge: 1

@@ -15,6 +15,6 @@
         plastanium/6
     ]
     research: {
-        parent: bridge-conveyor,
+        parent: etigeum-conveyor,
     }
 }

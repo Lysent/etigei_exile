@@ -22,5 +22,5 @@
 
     ]
     category: power
-    research: "impact-reactor" // too lazy to put differential generator
+    research: "thermal-generator"
 }

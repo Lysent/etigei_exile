@@ -2,4 +2,5 @@
     localizedName: Sprite
     type: material
     color: 00ff00,
+    hidden: true
 }

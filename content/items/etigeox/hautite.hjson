@@ -3,6 +3,6 @@
     description : A hard and strong composite.
     color: 666699,
     research: {
-        parent: phase-fabric,
+        parent: hautite-composer,
     },
 }

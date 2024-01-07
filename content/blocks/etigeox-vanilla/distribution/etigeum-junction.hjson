@@ -14,6 +14,6 @@
         plastanium/2
     ]
     research: {
-        parent: junction,
+        parent: etigeum-conveyor,
     }
 }

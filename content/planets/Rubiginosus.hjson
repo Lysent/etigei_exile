@@ -15,9 +15,15 @@
     sectorSeed: 3737,
     startSector: 1,
     sectorSize: 1,
+    allowLaunchToNumbered: false
     clearSectorOnLose: true,
     allowSectorInvasion: false,
     radius: 1,
+    
+    allowLaunchLoadout: false,
+    allowLaunchSchematics: false,
+    allowWaveSimulation: true,
+
     mesh: {
         type: "NoiseMesh",
         seed: 776636,
@@ -35,4 +41,5 @@
         scale: 0.5,
         mag: 1.7,
     }
+
 }

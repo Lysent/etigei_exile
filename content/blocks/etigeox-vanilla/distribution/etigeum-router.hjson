@@ -14,6 +14,6 @@
         plastanium/3
     ]
     research: {
-        parent: router
+        parent: etigeum-conveyor
     }
 }

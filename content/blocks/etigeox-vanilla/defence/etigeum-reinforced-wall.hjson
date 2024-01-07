@@ -12,5 +12,5 @@
     chanceDeflect: 100
     absorbLasers: true
     category : defense
-    research : surge-wall
+    research : etigeum-synthesizer
 }

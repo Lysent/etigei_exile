@@ -4,8 +4,10 @@
     type: material
     color: ff00ff,
     research: {
-        parent: refined-etigeum,
+        parent: smart-compound,
     },
     flammability: 1
     explosiveness: 1
+    charge: 1
+    radioactivity: 1
 }

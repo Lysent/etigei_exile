@@ -1,0 +1,10 @@
+{
+    localizedName: Timber
+    description: Wooden materials acquired from breaking 
+    type: material
+    color: 00ff00,
+        research: {
+        parent: miss7,
+    },
+    flammability: 1
+}

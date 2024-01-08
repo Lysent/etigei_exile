@@ -1,0 +1,9 @@
+{
+    localizedName: Rainbow Fragment
+    description: ???
+    type: material
+    color: 00ff00,
+        research: {
+        parent: etherealium,
+    },
+}

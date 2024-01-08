@@ -1,0 +1,8 @@
+{
+    localizedName: Pine
+    type: Block
+    breakable: true
+    requirements: [
+        timber/8
+    ]
+}

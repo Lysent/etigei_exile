@@ -1,0 +1,9 @@
+{
+    localizedName: Heavenly Timber
+    description: ???
+    type: material
+    color: 00ff00,
+        research: {
+        parent: miss7,
+    },
+}

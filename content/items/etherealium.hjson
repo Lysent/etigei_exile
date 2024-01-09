@@ -2,7 +2,7 @@
     localizedName: Ethereal Matter
     description: ???
     type: material
-    color: 00ff00,
+    color: ffffff,
         research: {
         parent: heavenly-timer,
     },

@@ -1,10 +1,10 @@
 {
     localizedName: Timber
-    description: Wooden materials acquired from breaking 
+    description: Wooden materials acquired from breaking trees.
     type: material
-    color: 00ff00,
+    color: a85c32,
         research: {
-        parent: miss7,
+        parent: colony-core,
     },
     flammability: 1
 }

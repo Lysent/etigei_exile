@@ -2,7 +2,7 @@
     localizedName: Heavenly Timber
     description: ???
     type: material
-    color: 00ff00,
+    color: ffffff,
         research: {
         parent: miss7,
     },

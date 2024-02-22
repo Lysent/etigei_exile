@@ -1,0 +1,30 @@
+{
+    localizedName: ???
+    type: mech
+    health: 100
+    buildSpeed: 1
+    speed: 0.6
+    drag: 0.1
+    hitsize: 2
+    isEnemy: false
+    coreUnitDock: true
+
+    weapons: [
+    {
+        name: ethereal-weapon
+        top: false
+        x: 0
+        y: 0
+        reload: 60
+        shootSound: "laserBlast"
+        bullet: {
+            type: BasicBulletType
+            "speed": 10,
+            "lifetime": 15,
+            "damage": 20,
+            "width": 1,
+            "height": 1,
+		}
+    }
+]
+}

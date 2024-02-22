@@ -6,4 +6,5 @@
         heavenly-timber/10
     ]
     solid: false
+    hidden: true
 }

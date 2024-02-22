@@ -5,4 +5,5 @@
     requirements: [
         timber/8
     ]
+    hidden: true
 }

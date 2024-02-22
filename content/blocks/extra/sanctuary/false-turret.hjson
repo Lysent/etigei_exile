@@ -1,0 +1,33 @@
+{
+  "type": "itemTurret",
+  "name": "False Turret",
+  "description": "???",
+  "health": 100,
+  "size": 2,
+  "targetAir": true,
+  "targetGround": true,
+  "reload": 12,
+  "shots": 2,
+  "range": 160,
+  "inaccuracy" : 0
+  "shootSound": "lasershoot",
+  "ammoTypes": {
+    "etherealium": {
+      "speed": 10,
+      "lifetime": 5000,
+      "damage": 10,
+      "width": 1,
+      "height": 1,
+    }
+  },
+  "category": "turret",
+  requirements: [
+        etherealium/50
+    ]
+  research: {
+    parent:etherealium
+    requirements: [
+        "etherealium/50"
+    ]
+    }
+}

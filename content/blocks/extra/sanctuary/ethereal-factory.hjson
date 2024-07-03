@@ -19,7 +19,7 @@
     research: {
     parent: etherealium
     requirements: [
-        "etherealium/100"
+        "etherealium/20"
     ]
     }
     requirements: [

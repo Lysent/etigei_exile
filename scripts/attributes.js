@@ -1,2 +1,0 @@
-// Attributes
-Attribute.add("gas");

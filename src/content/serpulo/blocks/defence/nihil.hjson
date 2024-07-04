@@ -1,22 +1,30 @@
 {
-    localizedName: Etigeox Nihil-Grade Repairer
-    type: MendProjector
-    health: 225
-    size: 2
-    hasPower: true
-    healPercent: 60
-    range: 160
-    consumes: {
-        power: 5.25
-    }
-    requirements : [
-        refined-etigeum/300
-        smart-compound/100
-        thorium/400
-        titanium/480
-        silicon/600
-    ]
-    absorbLasers: true
-    category: effect
-    research: etigeum-reinforced-wall-big
+  "localizedName": "Etigeox Nihil-Grade Repairer",
+  "description": "Repairs blocks.",
+  "type": "MendProjector",
+  "color": "84f491",
+
+  "health": 225,
+  "size": 2,
+  "hasPower": true,
+  "healPercent": 60,
+  "useTime": 400,
+  "reload": 250,
+  "range": 160,
+  "absorbLasers": true,
+  "consumes": {
+    "power": 5.25
+  },
+  
+  "requirements": [
+    "refined-etigeum/300",
+    "smart-compound/100",
+    "thorium/400",
+    "titanium/480",
+    "silicon/600"
+  ],
+  "category": "effect",
+  "research": {
+    "parent": "etigeum-reinforced-wall-big"
+  }
 }

@@ -1,9 +1,17 @@
 {
-    localizedName: Ethereal Matter
-    description: ???
-    type: material
-    color: ffffff,
-        research: {
-        parent: ethereal-drill,
-    },
+  "localizedName": "Ethereal Matter",
+  "description": "???",
+  "type": "material",
+  "color": "ffffff",
+  "cost": 0.5,
+
+  "hardness": 10,
+  "flammability": 0,
+  "explosiveness": 0,
+  "charge": 0,
+  "radioactivity": 0,
+
+  "research": {
+    "parent": "ethereal-drill"
+  }
 }

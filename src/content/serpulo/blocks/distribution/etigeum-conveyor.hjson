@@ -1,17 +1,21 @@
 {
-    localizedName: Etigeum Conveyor
-    type: conveyor
-    description: An Etigeum powered conveyor , fast while retaining simplicity.
-    size: 1
-    health: 190
-    requirements: [
-        refined-etigeum/1
-        titanium/2
-        plastanium/1
-        silicon/1
-    ]
-    category:distribution
-    speed: 0.33
-    displaySpeed: 0.27
-    research: etigeum-synthesizer
+  "localizedName": "Etigeum Conveyor",
+  "description": "An Etigeum powered conveyor, fast while retaining simplicity.",
+  "type": "conveyor",
+  
+  "health": 190,
+  "size": 1,
+  "speed": 0.33,
+  "displaySpeed": 0.27,
+
+  "requirements": [
+    "refined-etigeum/1",
+    "titanium/2",
+    "plastanium/1",
+    "silicon/1"
+  ],
+  "category": "distribution",
+  "research": {
+    "parent": "etigeum-synthesizer"
+  }
 }

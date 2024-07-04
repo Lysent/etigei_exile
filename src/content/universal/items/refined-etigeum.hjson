@@ -1,11 +1,16 @@
 {
-    localizedName : Etigeum
-    description : Refined, rare and precious Etigeum.
-    type: material
-    color: 09e0dd,
-    research: {
-        parent: hautite,
-    },
-    radioactivity: 1
-    charge: 1
+  "localizedName": "Etigeum",
+  "description": "Refined, rare and precious Etigeum. Originally an incredibly rare element on Earth due to it being imported via prehistoric meteors.",
+  "type": "material",
+  "color": "09e0dd",
+  "cost": 0,
+
+  "flammability": 0,
+  "explosiveness": 0,
+  "charge": 1,
+  "radioactivity": 1,
+
+  "research": {
+    "parent": "hautite"
+  }
 }

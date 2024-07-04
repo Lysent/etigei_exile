@@ -1,5 +1,5 @@
 {
-    localizedName: White Void
-    type: Floor
-    variants: 0
+  "localizedName": "White Void",
+  "type": "Floor",
+  "variants": 0
 }

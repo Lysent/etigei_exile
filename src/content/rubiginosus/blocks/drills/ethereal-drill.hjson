@@ -1,21 +1,24 @@
 {
-    localizedName: Ethereal Drill
-    description: ???
-    health: 100
-    type: drill
-    size: 2
-    tier: 2
-    drillTime: 600
-    warmupSpeed: 0.25
-    rotateSpeed: 2
-    "requirements": [
+  "localizedName": "Ethereal Drill",
+  "description": "???",
+  "type": "drill",
+
+  "health": 100,
+  "size": 2,
+
+  "tier": 10,
+  "drillTime": 600,
+  "warmupSpeed": 0.25,
+  "rotateSpeed": 2,
+
+  "requirements": [
     "heavenly-timber/30"
   ],
-    category: production
-    research: {
-    parent:heavenly-timber
-    requirements: [
-        "heavenly-timber/30"
+  "category": "production",
+  "research": {
+    "parent": "heavenly-timber",
+    "requirements": [
+      "heavenly-timber/30"
     ]
-    }
+  }
 }

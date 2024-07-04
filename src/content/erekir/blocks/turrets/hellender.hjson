@@ -10,7 +10,7 @@
   "reload": 100,
   "shots": 3,
   "range": 300,
-  "inaccuracy" : 1
+  "inaccuracy": 1,
   "shootSound": "lasershoot",
   "ammoTypes": {
     "graphite": {

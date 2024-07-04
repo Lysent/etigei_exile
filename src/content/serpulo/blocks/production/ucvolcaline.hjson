@@ -2,20 +2,17 @@
   "localizedName": "Volcaline Fabricator",
   "description": "Fiery Hell",
   "type": "GenericCrafter",
+
   "health": 150,
   "size": 3,
   "hasPower": true,
   "hasLiquids": false,
   "hasItems": true,
-  "craftTime": 136,
   "itemCapacity": 64,
+
+  "craftTime": 136,
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
-  "outputItems": [
-    "beryllium/15"
-    "tungsten/8"
-    "oxide/3"
-  ]
   "consumes": {
     "power": 18,
     "items": {
@@ -24,14 +21,21 @@
       ]
     }
   },
+  "outputItems": [
+    "beryllium/15",
+    "tungsten/8",
+    "oxide/3",
+    "carbide/1"
+  ],
+  
   "requirements": [
-    "graphite/300"
-    "lead/300"
-    "titanium/100"
-    "phase-fabric/150"
-    "refined-etigeum/400"
+    "graphite/300",
+    "phase-fabric/150",
+    "refined-etigeum/400",
     "silicon/300"
   ],
   "category": "crafting",
-  "research": "universal-condenser"
+  "research": {
+    "parent": "universal-condenser"
+  }
 }

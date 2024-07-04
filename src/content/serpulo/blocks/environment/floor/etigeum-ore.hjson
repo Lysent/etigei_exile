@@ -1,5 +1,5 @@
 {
-    name: Etigeum Ore
-    type: OreBlock
-    itemDrop: raw-etigeum
+  "name": "Etigeum Ore",
+  "type": "OreBlock",
+  "itemDrop": "raw-etigeum"
 }

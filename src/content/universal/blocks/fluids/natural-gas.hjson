@@ -1,0 +1,17 @@
+{
+  "localizedName": "Natural Gas",
+  "description": "Filled with energy!",
+  "color": "ed9ae2",
+  "gas": true,
+
+  "temperature": 5,
+  "heatCapacity": 0,
+  "flammability": 0,
+  "explosiveness": 0,
+  "viscosity": 0,
+  "effect": "none",
+
+  "research": {
+    "parent": "fracker"
+  }
+}

@@ -1,26 +1,30 @@
 {
-    localizedName: Oil Generator
-    description: Pump the oil. Make Power.
-    type: ConsumeGenerator
-    health: 180
-    size: 3
-    hasPower: true
-    hasLiquids: true
-    powerCapacity: 10000
-    updateEffect: steam
-    craftEffect: plasticExplosion
-    powerProduction: 6
-    consumes: {
-        liquid: oil/0.03
-    }
-    requirements: [
-        copper/50
-        lead/100
-        metaglass/50
-        titanium/65
-        silicon/65
+  "localizedName": "Oil Generator",
+  "description": "Generates energy from oil.",
+  "type": "ConsumeGenerator",
 
-    ]
-    category: power
-    research: "thermal-generator"
+  "health": 300,
+  "size": 3,
+  "hasPower": true,
+  "hasLiquids": true,
+  "powerCapacity": 10000,
+
+  "updateEffect": "steam",
+  "craftEffect": "plasticExplosion",
+  "consumes": {
+    "liquid": "oil/0.03"
+  },
+  "powerProduction": 6,
+  
+  "requirements": [
+    "copper/50",
+    "lead/100",
+    "metaglass/50",
+    "titanium/65",
+    "silicon/65"
+  ],
+  "category": "power",
+  "research": {
+    "parent": "thermal-generator"
+  }
 }

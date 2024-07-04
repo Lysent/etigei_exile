@@ -1,11 +1,10 @@
 {
-    name: False Core
-    type: "CoreBlock",
-
-    size: 3,
-    health: 1000,
-    itemCapacity: 1000,
-    isFirstTier: true,
-    alwaysUnlocked: false,
-    unitType: "false-core-unit"
+  "name": "False Core",
+  "type": "CoreBlock",
+  "size": 3,
+  "health": 1000,
+  "itemCapacity": 1000,
+  "isFirstTier": true,
+  "alwaysUnlocked": false,
+  "unitType": "false-core-unit"
 }

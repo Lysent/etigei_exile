@@ -1,12 +1,14 @@
 {
-    localizedName: ???
-    type: mech
-    health: 100
-    buildSpeed: 1
-    speed: 0.6
-    drag: 0.1
-    hitsize: 2
-    flying: true
-    isEnemy: false
-    coreUnitDock: true
+  "localizedName": "???",
+  "type": "mech",
+
+  "health": 100,
+  "flying": true,
+  "isEnemy": false,
+  "coreUnitDock": true
+  "hitsize": 2,
+  
+  "buildSpeed": 1,
+  "speed": 0.6,
+  "drag": 0.1,
 }

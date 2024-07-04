@@ -1,17 +1,18 @@
 {
   "localizedName": "Etigeum Sequencer",
-  "description": "Through lesser revolutionary methods, we have come up with a way to synthesize an amount of refined Etigeum.",
+  "description": "Through less revolutionary methods, we have come up with a way to synthesize an amount of refined Etigeum.",
   "type": "GenericCrafter",
+  
   "health": 470,
   "size": 4,
   "hasPower": true,
   "hasLiquids": false,
   "hasItems": true,
-  "craftTime": 770,
   "itemCapacity": 64,
+
+  "craftTime": 770,
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
-  "outputItem": "refined-etigeum/3",
   "consumes": {
     "power": 25,
     "items": {
@@ -22,6 +23,8 @@
       ]
     }
   },
+  "outputItem": "refined-etigeum/3",
+
   "requirements": [
     "graphite/500",
     "silicon/1700",

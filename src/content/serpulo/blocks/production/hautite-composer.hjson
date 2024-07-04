@@ -2,16 +2,18 @@
   "localizedName": "Hautite Composer",
   "description": "Hautite was a vital material of the Etigeox Federation.",
   "type": "HeatCrafter",
+  
   "health": 200,
   "size": 3,
   "hasPower": true,
   "hasLiquids": false,
   "hasItems": true,
-  "craftTime": 120,
   "itemCapacity": 64,
+
+  "craftTime": 120,
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
-  "outputItem": "hautite/3",
+  "heatRequirement": 7.5,
   "consumes": {
     "power": 10,
     "items": {
@@ -22,6 +24,8 @@
       ]
     }
   },
+  "outputItem": "hautite/3",
+
   "requirements": [
     "titanium/800",
     "lead/400",
@@ -29,7 +33,8 @@
     "silicon/700",
     "surge-alloy/100"
   ],
-  "heatRequirement": 7.5
   "category": "crafting",
-  "research": "core-shard"
+  "research": {
+    "parent": "core-shard"
+  }
 }

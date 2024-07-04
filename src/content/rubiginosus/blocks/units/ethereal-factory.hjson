@@ -1,28 +1,30 @@
 {
-    localizedName: ??? Factory
-    description: ???
-    type: UnitFactory
-    health: 100
-    size: 3
+  "localizedName": "??? Factory",
+  "description": "???",
+  "type": "UnitFactory",
+  
+  "health": 100,
+  "size": 3,
 
-    plans: [
-        {
-            unit: false-unit
-            time: 200
-            requirements: [
-                etherealium/100
-            ]
-        }
-    ]
-    
-    category: units
-    research: {
-    parent: etherealium
-    requirements: [
-        "etherealium/20"
-    ]
+  "plans": [
+    {
+      "unit": "false-unit",
+      "time": 200,
+      "requirements": [
+        "etherealium/100"
+      ]
     }
-    requirements: [
-        etherealium/100
+  ],
+  "configurable": false,
+
+  "requirements": [
+    "etherealium/100"
+  ],
+  "category": "units",
+  "research": {
+    "parent": "etherealium",
+    "requirements": [
+      "etherealium/20"
     ]
+  }
 }

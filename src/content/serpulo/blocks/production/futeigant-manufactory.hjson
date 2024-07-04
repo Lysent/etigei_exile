@@ -2,16 +2,17 @@
   "localizedName": "Futeigant Manufactory",
   "description": "A manufacture running on the sheer power of hard arms.",
   "type": "GenericCrafter",
+
   "health": 200,
   "size": 3,
   "hasPower": true,
   "hasLiquids": false,
   "hasItems": true,
-  "craftTime": 570,
   "itemCapacity": 64,
+
+  "craftTime": 570,
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
-  "outputItem": "smart-compound/3",
   "consumes": {
     "power": 10,
     "items": {
@@ -19,10 +20,12 @@
         "silicon/9",
         "graphite/7",
         "phase-fabric/7",
-        "hautite/1",
+        "hautite/1"
       ]
     }
   },
+  "outputItem": "smart-compound/3",
+
   "requirements": [
     "titanium/800",
     "lead/400",
@@ -32,5 +35,7 @@
     "surge-alloy/100"
   ],
   "category": "crafting",
-  "research": "etigeum-synthesizer"
+  "research": {
+    "parent": "etigeum-synthesizer"
+  }
 }

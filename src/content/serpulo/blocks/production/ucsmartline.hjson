@@ -1,22 +1,18 @@
 {
   "localizedName": "Smart Fabricator",
-  "description": "electrical components",
+  "description": "Generates components used in electronics.",
   "type": "GenericCrafter",
+
   "health": 150,
   "size": 3,
   "hasPower": true,
   "hasLiquids": false,
   "hasItems": true,
-  "craftTime": 136,
   "itemCapacity": 64,
+
+  "craftTime": 136,
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
-  "outputItems": [
-    "graphite/14"
-    "silicon/14"
-    "phase-fabric/3"
-    "scrap/5"
-  ]
   "consumes": {
     "power": 18,
     "items": {
@@ -25,13 +21,22 @@
       ]
     }
   },
+  "outputItems": [
+    "graphite/14",
+    "silicon/14",
+    "phase-fabric/3",
+    "scrap/5"
+  ],
   "requirements": [
-    "graphite/660"
-    "lead/300"
-    "titanium/100"
-    "refined-etigeum/200"
+    "graphite/660",
+    "lead/300",
+    "titanium/100",
+    "refined-etigeum/200",
     "silicon/300"
   ],
+
   "category": "crafting",
-  "research": "universal-condenser"
+  "research": {
+    "parent": "universal-condenser"
+  }
 }

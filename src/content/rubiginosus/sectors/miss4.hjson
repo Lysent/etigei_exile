@@ -1,15 +1,16 @@
 {
-    sector: 4,
-    planet: "Rubiginosus",
-    research: {
-        parent: "miss3",
-        objectives: [
-            {
-                type: "SectorComplete",
-                preset: "miss3"
-            }
-        ]
-    },
-    difficulty: 4,
-    alwaysUnlocked: false
+  "planet": "Rubiginosus",
+  "sector": 4,
+  "difficulty": 4,
+  "alwaysUnlocked": false,
+  
+  "research": {
+    "parent": "miss3",
+    "objectives": [
+      {
+        "type": "SectorComplete",
+        "preset": "miss3"
+      }
+    ]
+  }
 }

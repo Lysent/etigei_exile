@@ -1,8 +1,16 @@
 {
-    localizedName : Hautite Composite
-    description : A hard and strong composite.
-    color: 666699,
-    research: {
-        parent: hautite-composer,
-    },
+  "localizedName": "Hautite Composite",
+  "description": "A solid and strong manufactured composite.",
+  "type": "material",
+  "color": "666699",
+  "cost": 0.1,
+
+  "flammability": 0,
+  "explosiveness": 0,
+  "charge": 0,
+  "radioactivity": 0,
+  
+  "research": {
+    "parent": "hautite-composer"
+  }
 }

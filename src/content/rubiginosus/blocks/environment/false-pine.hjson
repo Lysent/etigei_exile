@@ -1,10 +1,11 @@
 {
-    localizedName: False Pine
-    type: Block
-    breakable: true
-    requirements: [
-        heavenly-timber/10
-    ]
-    solid: false
-    hidden: true
+  "localizedName": "False Pine",
+  "type": "Block",
+  "breakable": true,
+  "solid": false,
+  "hidden": true,
+  
+  "requirements": [
+    "heavenly-timber/10"
+  ]
 }

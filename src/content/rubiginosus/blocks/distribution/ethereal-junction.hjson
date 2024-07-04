@@ -1,20 +1,21 @@
 {
-    localizedName: Ethereal Junction
-    description: ???
-    type: "Junction"
-    size: 1
-    health: 190
-    speed: 0.03
-    itemCapacity: 10
-    category: distribution
-    requirements: [
-        heavenly-timber/1
+  "localizedName": "Ethereal Junction",
+  "description": "???",
+  "type": "Junction",
+
+  "health": 100,
+  "size": 1,
+  "speed": 0.03,
+  "itemCapacity": 10,
+  
+  "requirements": [
+    "heavenly-timber/2"
+  ],
+  "category": "distribution",
+  "research": {
+    "parent": "heavenly-timber",
+    "requirements": [
+      "heavenly-timber/10"
     ]
-    research: {
-    parent:heavenly-timber
-    requirements: [
-        "heavenly-timber/10"
-    ]
-    }
-    
+  }
 }

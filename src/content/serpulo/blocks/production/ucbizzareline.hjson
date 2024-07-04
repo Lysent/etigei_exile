@@ -1,23 +1,18 @@
 {
   "localizedName": "Bizarre Fabricator",
-  "description": "odd things",
+  "description": "Generates a variety of materials from universal matters.",
   "type": "GenericCrafter",
+
   "health": 160,
   "size": 3,
   "hasPower": true,
   "hasLiquids": false,
   "hasItems": true,
-  "craftTime": 136,
   "itemCapacity": 64,
+
+  "craftTime": 136,
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
-  "outputItems": [
-    "coal/15"
-    "scrap/15"
-    "blast-compound/1"
-    "pyratite/1"
-    "spore-pod/1"
-  ]
   "consumes": {
     "power": 18,
     "items": {
@@ -26,13 +21,22 @@
       ]
     }
   },
+  "outputItems": [
+    "coal/15",
+    "scrap/15",
+    "blast-compound/1",
+    "pyratite/1",
+    "spore-pod/1"
+  ],
+
   "requirements": [
-    "scrap/1000"
-    "spore-pod/1000"
-    "titanium/100"
-    "refined-etigeum/200"
+    "scrap/1000",
+    "titanium/100",
+    "refined-etigeum/200",
     "silicon/300"
   ],
   "category": "crafting",
-  "research": "universal-condenser"
+  "research": {
+    "parent": "universal-condenser"
+  }
 }

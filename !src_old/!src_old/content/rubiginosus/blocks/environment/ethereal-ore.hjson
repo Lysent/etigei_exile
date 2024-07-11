@@ -1,0 +1,6 @@
+{
+    name: ???
+    type: OreBlock
+    itemDrop: etherealium
+    variants: 3
+}

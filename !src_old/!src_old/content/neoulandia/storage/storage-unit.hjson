@@ -1,0 +1,10 @@
+{
+    localizedName: Stacked Storage Warehouse
+    type: StorageBlock
+    
+    size:3
+    itemCapacity:1024
+
+    research: small-storage-unit
+    category: effect
+}

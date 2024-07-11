@@ -1,0 +1,24 @@
+{
+    localizedName: Basic Extractor Drill
+    description: A basic drill for basic resources.
+    health: 80
+    type: drill
+    size: 3
+    tier: 4
+    drillTime: 15.2
+    warmupSpeed: 0.25
+    rotateSpeed: 2
+    liquidBoostIntensity: 1.1
+    hardnessDrillMultiplier: 2
+    hasPower: true,
+      "consumes": {
+    "power": 1,
+  },
+    "requirements": [
+    "tin/30"
+    "alumin/30"
+    "silver/30"
+  ],
+    category: production
+    research: neoulandia-mini-drill
+}

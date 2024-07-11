@@ -1,0 +1,36 @@
+{
+  "localizedName": "Octivine Fabricator",
+  "description": "Glory of Octavian",
+  "type": "GenericCrafter",
+  "health": 150,
+  "size": 3,
+  "hasPower": true,
+  "hasLiquids": false,
+  "hasItems": true,
+  "craftTime": 136,
+  "itemCapacity": 64,
+  "updateEffect": "steam",
+  "craftEffect": "plasticExplosion",
+  "outputItems": [
+    "thorium/7"
+    "plastanium/7"
+    "metaglass/10"
+  ]
+  "consumes": {
+    "power": 18,
+    "items": {
+      "items": [
+        "uu-matter/3"
+      ]
+    }
+  },
+  "requirements": [
+    "plastanium/660"
+    "lead/300"
+    "titanium/100"
+    "refined-etigeum/200"
+    "silicon/300"
+  ],
+  "category": "crafting",
+  "research": "universal-condenser"
+}

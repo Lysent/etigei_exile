@@ -1,0 +1,20 @@
+{
+    localizedName: Etigeum Interduct
+    description: "Interconnect multiple lanes from afar."
+    type: "BufferedItemBridge"
+    size: 1
+    health: 190
+    speed: 0.33
+    itemCapacity: 6
+    category: distribution
+    range : 8
+    requirements: [
+        refined-etigeum/6
+        titanium/12
+        silicon/6
+        plastanium/6
+    ]
+    research: {
+        parent: etigeum-conveyor,
+    }
+}

@@ -1,0 +1,9 @@
+{
+    localizedName : Nickel
+    description : A largely useful material.
+    color: 666699,
+    research: {
+        parent: greater-raw-ore,
+    },
+        hardness: 3
+}

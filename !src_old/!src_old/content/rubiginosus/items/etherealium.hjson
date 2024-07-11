@@ -1,0 +1,9 @@
+{
+    localizedName: Ethereal Matter
+    description: ???
+    type: material
+    color: ffffff,
+        research: {
+        parent: ethereal-drill,
+    },
+}

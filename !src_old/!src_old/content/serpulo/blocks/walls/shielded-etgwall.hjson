@@ -1,0 +1,23 @@
+{
+    localizedName : Etigeox Etigeox Military-Graded Shielded Wall MBE Model
+    type : ForceProjector
+    health : 1040
+    size : 1
+    hasPower: true
+    conductivePower: true
+    requirements : [
+        refined-etigeum/5
+        smart-compound/5
+        thorium/16
+        titanium/26
+        surge-alloy/20
+    ]
+    "consumes": {
+        "power": 0.75,
+        },
+    radius: 10
+    shieldHealth: 475
+    absorbLasers: true
+    category : defense
+    research : etigeum-reinforced-wall
+}

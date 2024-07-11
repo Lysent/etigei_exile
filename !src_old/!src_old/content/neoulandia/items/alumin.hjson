@@ -1,0 +1,9 @@
+{
+    localizedName : Alumin
+    description : Aluminium Oxide.
+    color: 666699,
+    research: {
+        parent: raw-ore,
+    },
+        hardness: 1
+}

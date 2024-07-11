@@ -1,0 +1,38 @@
+{
+  "localizedName": "Etigeum Synthesizer",
+  "description": "Through revolutionary methods, we have come up with a way to synthesize an amount of refined Etigeum.",
+  "type": "GenericCrafter",
+  "health": 700,
+  "size": 4,
+  "hasPower": true,
+  "hasLiquids": false,
+  "hasItems": true,
+  "craftTime": 360,
+  "itemCapacity": 64,
+  "updateEffect": "steam",
+  "craftEffect": "plasticExplosion",
+  "outputItem": "refined-etigeum/3",
+  "consumes": {
+    "power": 28,
+    "items": {
+      "items": [
+        "hautite/3",
+        "thorium/3",
+        "plastanium/1",
+        "graphite/3",
+        "silicon/3"
+      ]
+    }
+  },
+  "requirements": [
+    "thorium/750",
+    "titanium/1000",
+    "metaglass/330",
+    "silicon/1550",
+    "graphite/1220",
+    "plastanium/40",
+    "surge-alloy/150"
+  ],
+  "category": "crafting",
+  "research": "etigeum-refinery"
+}

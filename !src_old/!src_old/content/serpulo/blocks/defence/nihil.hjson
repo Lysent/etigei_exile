@@ -1,0 +1,22 @@
+{
+    localizedName: Etigeox Nihil-Grade Repairer
+    type: MendProjector
+    health: 225
+    size: 2
+    hasPower: true
+    healPercent: 60
+    range: 160
+    consumes: {
+        power: 5.25
+    }
+    requirements : [
+        refined-etigeum/300
+        smart-compound/100
+        thorium/400
+        titanium/480
+        silicon/600
+    ]
+    absorbLasers: true
+    category: effect
+    research: etigeum-reinforced-wall-big
+}

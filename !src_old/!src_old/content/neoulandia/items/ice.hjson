@@ -1,0 +1,10 @@
+{
+    localizedName : Blue Ice
+    description : Highly concentrated ice that can be harvested for many uses.
+    color: 00c8ff,
+    research: {
+        parent: neoulandia-drill,
+    },
+        hardness: 6
+        buildable: true
+}

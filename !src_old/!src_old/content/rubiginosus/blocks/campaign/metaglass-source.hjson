@@ -1,0 +1,21 @@
+{
+  "localizedName": "Metaglass Receiver",
+  "description": "Infinite Metaglass Source",
+  "type": "GenericCrafter",
+  "health": 50,
+  "size": 1,
+  "hasPower": true,
+  "hasLiquids": false,
+  "hasItems": true,
+  "craftTime": 1,
+  "itemCapacity": 1048,
+  "consumes": {
+    "power": 1,
+  },
+  "outputItems": [
+    "metaglass/1048"
+  ]
+  research: {
+    parent: sprite,
+    },
+}

@@ -1,0 +1,11 @@
+{
+    localizedName : Etigeum
+    description : Refined, rare and precious Etigeum.
+    type: material
+    color: 09e0dd,
+    research: {
+        parent: hautite,
+    },
+    radioactivity: 1
+    charge: 1
+}

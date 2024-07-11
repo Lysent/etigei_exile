@@ -1,0 +1,18 @@
+{
+    localizedName: Passage
+    type: router
+    description: A large hallway where resources are manually moved along with electricity.
+    size: 1
+    health: 15
+    conductivePower: true
+    hasItems: true
+    itemCapacity: 64
+    requirements: [
+        alumin/1
+        silver/1
+    ]
+    speed: 1
+
+    category:distribution
+    research: colony-core
+}

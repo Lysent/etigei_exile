@@ -1,0 +1,36 @@
+{
+  "localizedName": "Water Extractor",
+  "description": "Melting ice to produce water.",
+  "type": "AttributeCrafter",
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault"
+      },
+      {
+        "type": "DrawFade",
+      }
+    ]
+  },
+  "health": 80,
+  "size": 3,
+  "hasPower": true,
+  "hasLiquids": true,
+  "hasItems": true,
+  "craftTime": 180,
+  "itemCapacity": 64,
+  "updateEffect": "steam",
+  "craftEffect": "plasticExplosion",
+  outputLiquid: "water/0.1"
+  "consumes": {
+    power: 1,
+  },
+  "requirements": [
+    "tin/50"
+    "alumin/50"
+    "silver/50"
+  ],
+  "category": "liquid",
+  "research": "neoulandia-pump"
+}

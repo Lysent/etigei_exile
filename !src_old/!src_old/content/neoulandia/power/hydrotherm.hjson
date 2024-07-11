@@ -1,0 +1,38 @@
+{
+  "localizedName": "Hydrothermal electric Barrage",
+  "type": "AttributeCrafter",
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault"
+      },
+      {
+        "type": "DrawFade",
+      }
+    ]
+  },
+  "health": 80,
+  "size": 2,
+  "hasPower": true,
+  "hasLiquids": false,
+  "hasItems": false,
+  "craftTime": 60,
+  "itemCapacity": 64,
+  "updateEffect": "steam",
+  "craftEffect": "plasticExplosion",
+  powerProduction: 45
+
+  maxBoost: 4
+  displayEfficiency: true
+  baseEfficiency:0.1
+  boostScale: 100
+
+  "requirements": [
+    "tin/100"
+    "silver/70"
+    "platine/35"
+  ],
+  "category": "liquid",
+  "research": "colony-core"
+}

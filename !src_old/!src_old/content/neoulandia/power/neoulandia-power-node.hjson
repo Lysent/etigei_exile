@@ -1,0 +1,16 @@
+{
+    localizedName: Low Voltage Transmission Line
+    type: PowerNode
+    health: 35
+    size: 1
+
+    maxNodes: 4
+    laserRange: 3
+
+    requirements: [
+        silver/1
+        alumin/1
+    ]
+    research: colony-core
+    category: power
+}

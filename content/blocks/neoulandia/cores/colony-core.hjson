@@ -1,0 +1,17 @@
+{
+  "name": "Colonisation Core",
+  "type": "CoreBlock",
+  "category": "effect",
+  
+  "size": 4,
+  "health": 5000,
+  "itemCapacity": 5000,
+  "isFirstTier": true,
+  "alwaysUnlocked": true,
+
+  "research": {
+    "root": true,
+    "name": "Neoulandia",
+    "planet": "Neoulandia"
+  }
+}

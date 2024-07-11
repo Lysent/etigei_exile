@@ -1,0 +1,6 @@
+{
+    name: ???
+    type: OreBlock
+    itemDrop: rainbow
+    variants: 2
+}

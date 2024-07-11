@@ -1,0 +1,18 @@
+{
+    localizedName: Solar Windturbine
+    description: Using advanced methods to place solar panels on a wind turbine, Neoulandia's harsh climate now makes more energy than ever before.
+    type : SolarGenerator
+    health: 30
+    size: 2
+    hasPower: true
+    powerCapacity: 1000
+    powerProduction: 4
+    requirements: [
+        chip/30
+        alumin/30
+        tin/30
+        silver/35
+    ]
+    category: power
+    research: colony-core
+}

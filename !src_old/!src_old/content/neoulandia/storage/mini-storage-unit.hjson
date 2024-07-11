@@ -1,0 +1,10 @@
+{
+    localizedName: Miniature Storage Warehouse
+    type: StorageBlock
+    
+    size:1
+    itemCapacity:111
+
+    research: colony-core
+    category: effect
+}

@@ -1,0 +1,17 @@
+{
+    localizedName: White Titanium Duct
+    type: duct
+    description: A magical white titanium conveyor , fast while retaining simplicity.
+    size: 1
+    health: 50
+    armored: true
+    requirements: [
+        white-titanium/1
+        chip/1
+        nickel/1
+    ]
+    speed: 0.33
+
+    category:distribution
+    research: passage
+}

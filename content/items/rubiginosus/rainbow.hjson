@@ -1,0 +1,16 @@
+{
+  "localizedName": "Rainbow Fragment",
+  "description": "???",
+  "type": "material",
+  "color": "d412e6",
+  "cost": 1,
+
+  "flammability": 0,
+  "explosiveness": 0,
+  "charge": 0,
+  "radioactivity": 0,
+
+  "research": {
+    "parent": "etherealium"
+  }
+}

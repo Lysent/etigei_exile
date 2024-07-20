@@ -1,0 +1,26 @@
+{
+  "localizedName": "Heater",
+  "description": "Just your plain old electrical calorifere from the 1980s",
+  "type": "HeatProducer",
+
+  "health": 50,
+  "size": 1,
+  "hasPower": true,
+  "hasLiquids": false,
+  "hasItems": false,
+  
+  "consumes": {
+    "power": 4
+  },
+  "heatOutput": 2.5,
+
+  "requirements": [
+    "titanium/100",
+    "lead/50",
+    "graphite/50",
+    "silicon/70"
+  ],
+  "research": {
+    "parent": "hautite-composer"
+  }
+}

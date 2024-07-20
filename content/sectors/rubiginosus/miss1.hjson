@@ -1,0 +1,12 @@
+{
+  "planet": "Rubiginosus",
+  "sector": 1,
+  "difficulty": 1,
+  "alwaysUnlocked": true,
+  
+  "research": {
+    "root": true,
+    "name": "Rubiginosus",
+    "planet": "Rubiginosus"
+  }
+}

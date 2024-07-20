@@ -1,0 +1,21 @@
+{
+  "localizedName": "Large Etigeox Military-Grade MKM Model Wall",
+  "description": "A larger version of the augmented military fortification.",
+  "type": "wall",
+
+  "health": 5200,
+  "size": 2,
+  "chanceDeflect": 100,
+  "absorbLasers": true,
+  
+  "requirements": [
+    "refined-etigeum/20",
+    "thorium/64",
+    "titanium/104",
+    "surge-alloy/80"
+  ],
+  "category": "defense",
+  "research": {
+    "parent": "etigeum-reinforced-wall"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "localizedName": "Heavenly Timber",
+  "description": "???",
+  "type": "material",
+  "color": "ffffff",
+  "cost": 0.5,
+
+  "flammability": 0,
+  "explosiveness": 1,
+  "charge": 0,
+  "radioactivity": 0,
+
+  "research": {
+    "parent": "miss7"
+  }
+}

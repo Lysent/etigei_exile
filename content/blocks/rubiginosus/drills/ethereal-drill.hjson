@@ -1,0 +1,24 @@
+{
+  "localizedName": "Ethereal Drill",
+  "description": "???",
+  "type": "drill",
+
+  "health": 100,
+  "size": 2,
+
+  "tier": 10,
+  "drillTime": 600,
+  "warmupSpeed": 0.25,
+  "rotateSpeed": 2,
+
+  "requirements": [
+    "timber-ethereal/30"
+  ],
+  "category": "production",
+  "research": {
+    "parent": "timber-ethereal",
+    "requirements": [
+      "timber-ethereal/30"
+    ]
+  }
+}

@@ -1,14 +1,21 @@
 {
-    localizedName: Hot Silicate Coolant
-    description: Filled with energy!
-    temperature: 200
-    viscosity: 0.5
-    heatCapacity: 2
-    color: f56042
-    research: {
-        parent: silicate-coolant,
-        requirements: [
-            refined-etigeum/0
-        ]
-    }
+  "localizedName": "Hot Silicate Coolant",
+  "description": "Filled with energy!",
+  "color": "f56042",
+  "lightColor": "f56042",
+  "gas": false,
+
+  "temperature": 200,
+  "heatCapacity": 2,
+  "flammability": 0,
+  "explosiveness": 0,
+  "viscosity": 0.5,
+  "effect": "none",
+
+  "research": {
+    "parent": "cryofluid",
+    "requirements": [
+      "refined-etigeum/1"
+    ]
+  }
 }

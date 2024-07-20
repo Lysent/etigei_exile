@@ -1,0 +1,21 @@
+{
+  "localizedName": "Ethereal Conveyor",
+  "description": "???",
+  "type": "conveyor",
+
+  "health": 100,
+  "size": 1,
+  "speed": 0.03,
+  "displaySpeed": 0.03,
+
+  "requirements": [
+    "timber-ethereal/1"
+  ],
+  "category": "distribution",
+  "research": {
+    "parent": "timber-ethereal",
+    "requirements": [
+      "timber-ethereal/10"
+    ]
+  }
+}

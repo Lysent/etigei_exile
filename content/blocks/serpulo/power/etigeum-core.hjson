@@ -1,0 +1,39 @@
+{
+  "localizedName": "Etigeum Core",
+  "description": "Generates great amounts of energy from Etigeum.",
+  "type": "ConsumeGenerator",
+
+  "health": 380,
+  "size": 2,
+  "hasPower": true,
+  "hasLiquids": true,
+  "hasItems": true,
+  "itemCapacity": 100,
+  "powerCapacity": 10000,
+
+  "craftTime": 20,
+  "updateEffect": "steam",
+  "craftEffect": "plasticExplosion",
+  "consumes": {
+    "items": {
+      "items": [
+        "refined-etigeum/2"
+      ]
+    },
+    "liquid": "water/0.03"
+  },
+  "powerProduction": 45,
+  "outputItem": "scrap/3",
+
+  "requirements": [
+    "titanium/200",
+    "metaglass/50",
+    "silicon/210",
+    "smart-compound/100",
+    "refined-etigeum/100"
+  ],
+  "category": "power",
+  "research": {
+    "parent": "futeigant-manufactory"
+  }
+}

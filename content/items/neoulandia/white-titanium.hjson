@@ -1,9 +1,0 @@
-{
-    localizedName : White Titanium
-    description : A special material.
-    color: ffffff,
-    research: {
-        parent: chip,
-    },
-        hardness: 1
-}

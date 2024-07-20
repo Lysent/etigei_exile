@@ -1,0 +1,28 @@
+{
+  "localizedName": "Etigeum Reinforced Mender",
+  "description": "A mender reinforced to resist more severe damage.",
+  "type": "MendProjector",
+  
+  "health": 250,
+  "size": 1,
+  "hasPower": true,
+
+  "absorbLasers": true,
+  "healPercent": 2.5,
+  "range": 150,
+  "consumes": {
+    "power": 2.25
+  },
+
+  "requirements": [
+    "refined-etigeum/20",
+    "smart-compound/20",
+    "thorium/40",
+    "titanium/48",
+    "silicon/60"
+  ],
+  "category": "effect",
+  "research": {
+    "parent": "etigeum-reinforced-wall-big"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "localizedName": "Coal Receiver",
+  "description": "Infinite Coal Source",
+  "type": "GenericCrafter",
+
+  "health": 50,
+  "size": 1,
+  "hasPower": true,
+  "hasLiquids": false,
+  "hasItems": true,
+  "itemCapacity": 1048,
+
+  "craftTime": 1,
+  "consumes": {
+    "power": 1
+  },
+  "outputItems": [
+    "coal/1048"
+  ],
+
+  "research": {
+    "parent": "sprite"
+  }
+}

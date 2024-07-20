@@ -1,0 +1,29 @@
+{
+  "localizedName": "Large Etigeox Military-Grade MBE Model Wall",
+  "description": "An augmented military fortification. Possesses a force shield.",
+  "type": "ForceProjector",
+
+  "health": 4160,
+  "size": 2,
+  "hasPower": true,
+  "conductivePower": true,
+
+  "shieldHealth": 1900,
+  "radius": 8,
+  "absorbLasers": true,
+  "consumes": {
+    "power": 3
+  },
+
+  "requirements": [
+    "refined-etigeum/20",
+    "smart-compound/50",
+    "thorium/64",
+    "titanium/104",
+    "surge-alloy/80"
+  ],
+  "category": "defense",
+  "research": {
+    "parent": "shielded-etgwall"
+  }
+}

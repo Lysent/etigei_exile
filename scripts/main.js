@@ -1,2 +1,0 @@
-require("attributes");
-require("blocks");

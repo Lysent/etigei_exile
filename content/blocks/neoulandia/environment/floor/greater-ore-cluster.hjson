@@ -1,5 +1,0 @@
-{
-    type: OreBlock
-    itemDrop: greater-raw-ore
-    variants: 0
-}

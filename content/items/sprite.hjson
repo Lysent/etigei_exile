@@ -1,8 +1,0 @@
-{
-    localizedName: Sprite
-    type: material
-    color: 00ff00,
-        research: {
-        parent: colony-core,
-    },
-}

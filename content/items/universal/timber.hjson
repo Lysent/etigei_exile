@@ -1,0 +1,16 @@
+{
+  "localizedName": "Timber",
+  "description": "Wooden materials acquired from manually breaking trees.",
+  "type": "material",
+  "color": "a85c32",
+  "cost": 0,
+
+  "flammability": 1,
+  "explosiveness": 0,
+  "charge": 0,
+  "radioactivity": 0,
+
+  "research": {
+    "parent": "colony-core"
+  }
+}

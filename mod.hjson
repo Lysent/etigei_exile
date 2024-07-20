@@ -1,9 +1,10 @@
 {
-    name: "etigeox"
-    displayName: "Etigei Exilium"
-    author: "Mitemi & Superwibr"
-    description: "Succesor to the defunct and incomplete Etigeox Mod. Adds two new planets, a new technology tree and a whole lot of content."
-    subtitle: "centrism is fun"
-    version: "2"
-    minGameVersion: "140"
+  "name": "etigeox",
+  "displayName": "Etigei Exilium",
+  "author": "[[]green]Mitemi[[]white], [[]cyan]Tikup",
+
+  "description": "Succesor to the defunct and incomplete Etigeox Mod. Adds two new planets, a new technology tree and a whole lot of content.",
+  "subtitle": "centrism is fun",
+  "version": "etgcircsus-2",
+  "minGameVersion": "146"
 }

@@ -1,0 +1,10 @@
+{
+  "localizedName": "Pine",
+  "type": "Block",
+  "breakable": true,
+  "hidden": true,
+  
+  "requirements": [
+    "timber/8"
+  ]
+}

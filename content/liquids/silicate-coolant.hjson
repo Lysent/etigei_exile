@@ -1,14 +1,21 @@
 {
-    localizedName: Silicate Coolant
-    description: High heat capacity and fluidity because of its suspended cristaline structure
-    temperature: -20
-    viscosity: -1
-    heatCapacity: 200
-    color: 80e2d7
-    research: {
-        parent: cryofluid,
-        requirements: [
-            refined-etigeum/1
-        ]
-    }
+  "localizedName": "Silicate Coolant",
+  "description": "High heat capacity and fluidity because of its suspended cristaline structure.",
+  "color": "80e2d7",
+  "lightColor": "80e2d7",
+  "gas": false,
+  
+  "temperature": -20,
+  "heatCapacity": 200,
+  "flammability": 0,
+  "explosiveness": 0,
+  "viscosity": -1,
+  "effect": "none",
+
+  "research": {
+    "parent": "cryofluid",
+    "requirements": [
+      "refined-etigeum/1"
+    ]
+  }
 }

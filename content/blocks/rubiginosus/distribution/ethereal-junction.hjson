@@ -1,0 +1,21 @@
+{
+  "localizedName": "Ethereal Junction",
+  "description": "???",
+  "type": "Junction",
+
+  "health": 100,
+  "size": 1,
+  "speed": 0.03,
+  "itemCapacity": 10,
+  
+  "requirements": [
+    "timber-ethereal/2"
+  ],
+  "category": "distribution",
+  "research": {
+    "parent": "timber-ethereal",
+    "requirements": [
+      "timber-ethereal/10"
+    ]
+  }
+}

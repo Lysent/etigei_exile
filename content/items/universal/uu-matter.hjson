@@ -1,0 +1,16 @@
+{
+  "localizedName": "Universal Matter",
+  "description": "Condensed matter with infinite potential.",
+  "type": "material",
+  "color": "ff00ff",
+  "cost": 1,
+
+  "flammability": 1,
+  "explosiveness": 1,
+  "charge": 1,
+  "radioactivity": 1,
+
+  "research": {
+    "parent": "smart-compound"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "localizedName": "Octivine Fabricator",
+  "description": "Generates thorium, plastanium and metaglass from universal matter.",
+
+  "type": "GenericCrafter",
+  "health": 150,
+  "size": 3,
+  "hasPower": true,
+  "hasLiquids": false,
+  "hasItems": true,
+  "itemCapacity": 64,
+
+  "craftTime": 136,
+  "updateEffect": "steam",
+  "craftEffect": "plasticExplosion",
+  "consumes": {
+    "power": 18,
+    "items": {
+      "items": [
+        "uu-matter/3"
+      ]
+    }
+  },
+  "outputItems": [
+    "thorium/7",
+    "plastanium/7",
+    "metaglass/10"
+  ],
+
+  "requirements": [
+    "plastanium/660",
+    "lead/300",
+    "titanium/100",
+    "refined-etigeum/200",
+    "silicon/300"
+  ],
+  "category": "crafting",
+  "research": {
+    "parent": "universal-condenser"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "localizedName": "Universal Condenser",
+  "description": "Condense the world!",
+  "type": "GenericCrafter",
+
+  "health": 190,
+  "size": 3,
+  "hasPower": true,
+  "hasLiquids": false,
+  "hasItems": true,
+  "itemCapacity": 64,
+
+  "absorbLasers": true,
+  "craftTime": 136,
+  "updateEffect": "steam",
+  "craftEffect": "plasticExplosion",
+  "consumes": {
+    "power": 28,
+    "items": {
+      "items": [
+        "refined-etigeum/3"
+      ]
+    }
+  },
+  "outputItem": "uu-matter/1",
+
+  "requirements": [
+    "refined-etigeum/400",
+    "silicon/1000",
+    "graphite/200",
+  ],
+  "category": "crafting",
+  "research": {
+    "parent": "futeigant-manufactory"
+  }
+}

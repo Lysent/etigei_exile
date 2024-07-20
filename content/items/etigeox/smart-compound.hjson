@@ -1,9 +1,0 @@
-{
-    localizedName : Futeigant Compound
-    description : A smart, almost sentient composite.
-    type: material
-    color: eeeee4,
-    research: {
-        parent: hautite,
-    },
-}

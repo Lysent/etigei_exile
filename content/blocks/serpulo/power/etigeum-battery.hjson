@@ -1,0 +1,23 @@
+{
+  "localizedName": "Etigeum Battery",
+  "description": "Stores large amounts of power.",
+  "type": "battery",
+  
+  "health": 450,
+  "size": 5,
+  "consumes": {
+    "powerBuffered": 1000000
+  },
+
+  "requirements": [
+    "lead/400",
+    "titanium/200",
+    "silicon/200",
+    "refined-etigeum/50",
+    "smart-compound/150"
+  ],
+  "category": "power",
+  "research": {
+    "parent": "etigeum-core"
+  }
+}

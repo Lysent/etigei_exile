@@ -1,0 +1,17 @@
+{
+  "localizedName": "Raw Etigeum",
+  "description": "Unrefined Etigeum extracted directly from the ground. You have to refine this material before using it. Named after the Etigeox Federation on Earth.",
+  "type": "material",
+  "color": "09e0dd",
+  "cost": 0,
+
+  "hardness": 5,
+  "flammability": 0,
+  "explosiveness": 0,
+  "charge": 1,
+  "radioactivity": 1,
+
+  "research": {
+    "parent": "hautite"
+  }
+}

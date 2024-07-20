@@ -1,0 +1,11 @@
+{
+  "localizedName": "False Pine",
+  "type": "Block",
+  "breakable": true,
+  "solid": false,
+  "hidden": true,
+  
+  "requirements": [
+    "timber-ethereal/10"
+  ]
+}

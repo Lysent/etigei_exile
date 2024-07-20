@@ -1,0 +1,21 @@
+{
+  "localizedName": "Etigeum Router",
+  "description": "GET OUT OF MY HEAD GET OUT OF MY HEAD GET OUT OF MY HEAD",
+  "type": "Router",
+
+  "health": 190,
+  "size": 1,
+  "speed": 1,
+  "itemCapacity": 10,
+  
+  "requirements": [
+    "refined-etigeum/3",
+    "titanium/6",
+    "silicon/3",
+    "plastanium/3"
+  ],
+  "category": "distribution",
+  "research": {
+    "parent": "etigeum-conveyor"
+  }
+}

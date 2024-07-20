@@ -12,13 +12,13 @@
   "rotateSpeed": 2,
 
   "requirements": [
-    "heavenly-timber/30"
+    "timber-ethereal/30"
   ],
   "category": "production",
   "research": {
-    "parent": "heavenly-timber",
+    "parent": "timber-ethereal",
     "requirements": [
-      "heavenly-timber/30"
+      "timber-ethereal/30"
     ]
   }
 }

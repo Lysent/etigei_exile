@@ -1,9 +1,0 @@
-{
-    localizedName : Chip
-    description : An advanced brain for a circuit.
-    color: 00ff04,
-    research: {
-        parent: silver,
-    },
-        hardness: 1
-}

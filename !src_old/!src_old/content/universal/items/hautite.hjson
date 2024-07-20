@@ -1,8 +1,0 @@
-{
-    localizedName : Hautite Composite
-    description : A hard and strong composite.
-    color: 666699,
-    research: {
-        parent: hautite-composer,
-    },
-}

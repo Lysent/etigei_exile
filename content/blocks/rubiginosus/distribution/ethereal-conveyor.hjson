@@ -9,13 +9,13 @@
   "displaySpeed": 0.03,
 
   "requirements": [
-    "heavenly-timber/1"
+    "timber-ethereal/1"
   ],
   "category": "distribution",
   "research": {
-    "parent": "heavenly-timber",
+    "parent": "timber-ethereal",
     "requirements": [
-      "heavenly-timber/10"
+      "timber-ethereal/10"
     ]
   }
 }

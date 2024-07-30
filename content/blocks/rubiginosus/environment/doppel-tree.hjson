@@ -1,11 +1,11 @@
 {
-  "localizedName": "Pine",
-  "type": "Block",
+  "localizedName": "White Tree",
+  "type": "TreeBlock",
   "breakable": true,
   "hidden": true,
   "alwaysReplace": true,
 
   "requirements": [
-    "timber/8"
+    "timber/16"
   ]
 }

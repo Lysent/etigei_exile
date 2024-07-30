@@ -13,4 +13,5 @@
   "research": {
     "parent": "colony-core"
   }
+  "alwaysUnlocked": true,
 }

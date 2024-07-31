@@ -10,7 +10,7 @@
   "hasItems": true,
   "itemCapacity": 64,
   
-  "craftTime": 102,
+  "craftTime": 62,
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
   "drawer": {

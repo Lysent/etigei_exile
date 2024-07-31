@@ -11,21 +11,23 @@
   "itemCapacity": 64,
 
   "absorbLasers": true,
-  "craftTime": 136,
+  "craftTime": 100,
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
   "consumes": {
-    "power": 28,
+    "power": 38,
     "items": {
       "items": [
-        "refined-etigeum/3"
+        "refined-etigeum/2"
       ]
     }
   },
-  "outputItem": "uu-matter/1",
+  "outputItem": "uu-matter/3",
 
   "requirements": [
-    "refined-etigeum/400",
+    "refined-etigeum/500",
+    "lead/1000",
+    "titanium/1000",
     "silicon/1000",
     "graphite/200",
   ],

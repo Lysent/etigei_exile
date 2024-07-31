@@ -19,16 +19,15 @@
       "items": [
         "hautite/3",
         "thorium/3",
-        "plastanium/1",
         "graphite/3",
-        "silicon/3"
+        "surge-alloy/1"
       ]
     }
   },
   "outputItem": "refined-etigeum/3",
 
   "requirements": [
-    "thorium/750",
+    "thorium/1750",
     "titanium/1000",
     "metaglass/330",
     "silicon/1550",

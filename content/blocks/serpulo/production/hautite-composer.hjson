@@ -10,7 +10,7 @@
   "hasItems": true,
   "itemCapacity": 64,
 
-  "craftTime": 120,
+  "craftTime": 160,
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
   "heatRequirement": 7.5,
@@ -24,7 +24,7 @@
       ]
     }
   },
-  "outputItem": "hautite/3",
+  "outputItem": "hautite/2",
 
   "requirements": [
     "titanium/800",

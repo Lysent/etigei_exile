@@ -12,9 +12,9 @@
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
   "consumes": {
-    "liquid": "oil/0.03"
+    "liquid": "oil/0.120"
   },
-  "powerProduction": 6,
+  "powerProduction": 12,
   
   "requirements": [
     "copper/50",

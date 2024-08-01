@@ -9,14 +9,14 @@
   "targetGround": true,
   "reload": 66,
   "shots": 66,
-  "range": 3000,
+  "range": 30000,
   "inaccuracy": 1,
   "shootSound": "lasershoot",
   "ammoTypes": {
     "graphite": {
       "speed": 6,
       "lifetime": 5000,
-      "damage": 500,
+      "damage": 500000,
       "width": 3,
       "height": 3,
       "splashDamage": 50000,
@@ -26,6 +26,6 @@
   "category": "turret",
   "research": "hellender",
   "requirements": [
-    "graphite/1"
+    "sprite/1"
   ]
 }

@@ -16,7 +16,7 @@
     "graphite": {
       "speed": 6,
       "lifetime": 50,
-      "damage": 500,
+      "damage": 500000,
       "width": 3,
       "height": 3
     }
@@ -24,6 +24,6 @@
   "category": "turret",
   "research": "breach",
   "requirements": [
-    "graphite/1"
+    "sprite/1"
   ]
 }

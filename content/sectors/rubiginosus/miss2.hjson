@@ -1,7 +1,7 @@
 {
   "planet": "Rubiginosus",
   "sector": 2,
-  "difficulty": 6,
+  "difficulty": 8,
   "alwaysUnlocked": false,
   
   "research": {

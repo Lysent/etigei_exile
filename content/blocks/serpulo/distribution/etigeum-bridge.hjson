@@ -5,8 +5,8 @@
 
   "health": 190,
   "size": 1,
-  "speed": 0.33,
-  "itemCapacity": 6,
+  "speed": 33,
+  "itemCapacity": 60,
   "range": 8,
 
   "requirements": [

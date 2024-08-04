@@ -4,6 +4,7 @@
   "type": "material",
   "color": "ffffff",
   "cost": 0.5,
+  "hidden": "true"
 
   "hardness": 10,
   "flammability": 0,

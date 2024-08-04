@@ -5,6 +5,7 @@
   
   "health": 100,
   "size": 3,
+  "buildVisibility": "campaignOnly",
 
   "plans": [
     {

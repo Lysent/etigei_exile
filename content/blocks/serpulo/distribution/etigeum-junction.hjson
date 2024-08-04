@@ -1,12 +1,12 @@
 {
   "localizedName": "Etigeum Junction",
-  "description": "Uselessly junctioned.",
+  "description": "Uselessly junctioned. Actually slower than Etigeum Interduct.",
   "type": "Junction",
 
   "health": 190,
   "size": 1,
-  "speed": 0.33,
-  "itemCapacity": 10,
+  "speed": 33,
+  "itemCapacity": 100,
   
   "requirements": [
     "refined-etigeum/2",

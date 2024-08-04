@@ -5,6 +5,8 @@
 
   "health": 100,
   "size": 1,
+  "buildVisibility": "campaignOnly",
+  
   "speed": 0.03,
   "itemCapacity": 10,
   

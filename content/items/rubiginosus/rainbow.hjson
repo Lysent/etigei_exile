@@ -4,6 +4,7 @@
   "type": "material",
   "color": "d412e6",
   "cost": 1,
+  "hidden": "true"
 
   "flammability": 0,
   "explosiveness": 0,

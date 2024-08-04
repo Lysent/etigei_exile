@@ -1,10 +1,12 @@
 {
   "localizedName": "Pine",
-  "type": "Block",
+  "type": "StaticTree",
   "breakable": true,
   "hidden": true,
   "alwaysReplace": true,
+  "buildVisibility": "sandboxOnly",
 
+  "category": "effect",
   "requirements": [
     "timber/8"
   ]

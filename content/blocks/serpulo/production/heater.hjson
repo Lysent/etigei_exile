@@ -20,6 +20,7 @@
     "graphite/50",
     "silicon/70"
   ],
+  "category": "crafting",
   "research": {
     "parent": "hautite-composer"
   }

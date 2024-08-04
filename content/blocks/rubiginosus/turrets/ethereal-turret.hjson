@@ -5,6 +5,7 @@
 
   "health": 100,
   "size": 2,
+  "buildVisibility": "campaignOnly",
 
   "targetAir": true,
   "targetGround": true,

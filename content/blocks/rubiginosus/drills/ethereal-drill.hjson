@@ -5,6 +5,7 @@
 
   "health": 100,
   "size": 2,
+  "buildVisibility": "campaignOnly",
 
   "tier": 10,
   "drillTime": 600,

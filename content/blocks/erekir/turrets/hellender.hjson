@@ -2,6 +2,7 @@
   "type": "itemTurret",
   "name": "Hell Ender",
   "planet": "erekir",
+  "buildVisibility": "debugOnly",
   "description": "Literally just to end lives",
   "health": 3651,
   "size": 3,

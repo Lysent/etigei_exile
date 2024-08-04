@@ -5,8 +5,8 @@
 
   "health": 190,
   "size": 1,
-  "speed": 1,
-  "itemCapacity": 10,
+  "speed": 33,
+  "itemCapacity": 100,
   
   "requirements": [
     "refined-etigeum/3",

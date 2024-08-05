@@ -1,6 +1,7 @@
 {
   "localizedName": "???",
   "type": "mech",
+  "hidden": "true",
 
   "health": 100,
   "flying": true,

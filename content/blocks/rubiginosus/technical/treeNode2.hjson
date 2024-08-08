@@ -1,0 +1,9 @@
+{
+  "type": "Block",
+  "hidden": "false",
+
+  "research": {
+    "parent": "treeNode1",
+  }
+  "alwaysUnlocked": true
+}

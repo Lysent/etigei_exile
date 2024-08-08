@@ -1,0 +1,20 @@
+{
+  "name": "Core: Shard",
+  "type": "CoreBlock",
+  "size": 3,
+  "health": 1100,
+  "itemCapacity": 4000,
+  "isFirstTier": false,
+  "alwaysUnlocked": false,
+  "unitType": "toxopid",
+  "hidden": false,
+  "hasShadow": true,
+  "buildVisibility": "campaignOnly"
+  "unitCapModifier": 3,
+  "category": "effect",
+
+  //"requirements": [
+  //  "copper/1000",
+  //  "lead/800"
+  //],
+}

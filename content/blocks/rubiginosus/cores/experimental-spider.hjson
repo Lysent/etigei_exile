@@ -1,0 +1,12 @@
+{
+  "name": "Experimental Spider Drop Zone",
+  "type": "CoreBlock",
+  "size": 1,
+  "health": 1000000000,
+  "itemCapacity": 1000,
+  "isFirstTier": true,
+  "alwaysUnlocked": false,
+  "unitType": "toxopid",
+  "hidden": true,
+  "hasShadow": false
+}

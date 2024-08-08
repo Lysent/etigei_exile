@@ -1,0 +1,22 @@
+{
+  "name": "Core: Nucleus",
+  "type": "CoreBlock",
+  "size": 5,
+  "health": 6000,
+  "itemCapacity": 13000,
+  "isFirstTier": false,
+  "alwaysUnlocked": false,
+  "unitType": "toxopid",
+  "hidden": true,
+  "hasShadow": true,
+  "buildVisibility": "campaignOnly"
+  "unitCapModifier": 24,
+  "category": "effect",
+
+  //"requirements": [
+  //  "copper/8000",
+  //  "lead/8000",
+  //  "silicon/5000",
+  //  "thorium/4000"
+  //],
+}

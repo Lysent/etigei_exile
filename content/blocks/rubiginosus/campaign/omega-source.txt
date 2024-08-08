@@ -1,0 +1,38 @@
+{
+  // Not to be used
+  "localizedName": "Omega Receiver",
+  "description": "Infinity",
+  "type": "GenericCrafter",
+
+  "health": 50,
+  "size": 1,
+  "hasPower": false,
+  "hasLiquids": false,
+  "hasItems": true,
+  "itemCapacity": 1048,
+
+  "craftTime": 1,
+  "outputItems": [
+    "copper/1048",
+    "lead/1048",
+    "titanium/1048",
+    "thorium/1048",
+    "plastanium/1048",
+    "silicon/1048",
+    "graphite/1048",
+    "phase-fabric/1048",
+    "surge-alloy/1048",
+    "beryllium/1048",
+    "tungsten/1048",
+    "oxide/1048",
+    "coal/1048",
+    "sand/1048"
+  ],
+
+  "requirements": [
+    "graphite/1"
+  ],
+  "research": {
+    "parent": "sprite"
+  }
+}

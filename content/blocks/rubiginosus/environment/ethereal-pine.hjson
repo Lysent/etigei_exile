@@ -1,6 +1,6 @@
 {
   "localizedName": "False Pine",
-  "type": "StaticTree",
+  "type": "Blocks",
   "breakable": true,
   "solid": false,
   "hidden": true,

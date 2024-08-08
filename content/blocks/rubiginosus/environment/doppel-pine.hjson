@@ -1,6 +1,6 @@
 {
   "localizedName": "Pine",
-  "type": "StaticTree",
+  "type": "Block",
   "breakable": true,
   "hidden": true,
   "alwaysReplace": true,

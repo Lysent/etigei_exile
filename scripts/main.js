@@ -2,4 +2,4 @@
 Blocks.coreShard.buildVisibility = BuildVisibility.shown;
 
 // Toxopid Build
-UnitTypes.toxopid.buildSpeed = 1;
+UnitTypes.toxopid.buildSpeed = 0.5;

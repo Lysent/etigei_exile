@@ -2,7 +2,7 @@
   "name": "Experimental Spider Drop Zone",
   "type": "CoreBlock",
   "size": 1,
-  "health": 1000000000,
+  "health": 1000,
   "itemCapacity": 1000,
   "isFirstTier": true,
   "alwaysUnlocked": false,

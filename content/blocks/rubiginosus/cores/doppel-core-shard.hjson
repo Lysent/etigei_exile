@@ -9,7 +9,7 @@
   "unitType": "toxopid",
   "hidden": false,
   "hasShadow": true,
-  "buildVisibility": "campaignOnly"
+  "buildVisibility": "debugOnly"
   "unitCapModifier": 3,
   "category": "effect",
 

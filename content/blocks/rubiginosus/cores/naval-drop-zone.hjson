@@ -1,0 +1,12 @@
+{
+  "name": "Naval Strike Force Drop Zone",
+  "type": "CoreBlock",
+  "size": 1,
+  "health": 1000,
+  "itemCapacity": 1000,
+  "isFirstTier": true,
+  "alwaysUnlocked": false,
+  "unitType": "gamma",
+  "hidden": true,
+  "hasShadow": false
+}

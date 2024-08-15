@@ -1,10 +1,11 @@
-// Buildable Core
+// Vanilla Block Changes
 Blocks.coreShard.buildVisibility = BuildVisibility.shown;
+Blocks.beamLink.maxNodes = 2;
 
-// Toxopid Build
+// Vanilla Unit Changes
 UnitTypes.toxopid.buildSpeed = 0.5;
 
-// Bullets
+// Vanilla Bullet Changes
 const scrapBulletSalvo = extend(FlakBulletType, {
     speed: 4,
     lifetime: 65,

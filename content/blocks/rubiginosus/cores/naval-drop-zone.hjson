@@ -4,7 +4,7 @@
   "size": 1,
   "health": 1000,
   "itemCapacity": 1000,
-  "isFirstTier": true,
+  "isFirstTier": false,
   "alwaysUnlocked": false,
   "unitType": "gamma",
   "hidden": true,

@@ -4,7 +4,7 @@
   "size": 3,
   "health": 1100,
   "itemCapacity": 4000,
-  "isFirstTier": false,
+  "isFirstTier": true,
   "alwaysUnlocked": false,
   "unitType": "toxopid",
   "hidden": false,

@@ -1,15 +1,15 @@
 {
   "planet": "Rubiginosus",
-  "sector": 0,
-  "difficulty": 4,
+  "sector": 10,
+  "difficulty": 6,
   "alwaysUnlocked": false,
   
   "research": {
-    "parent": "miss1",
+    "parent": "miss9",
     "objectives": [
       {
         "type": "SectorComplete",
-        "preset": "miss1"
+        "preset": "miss9"
       }
     ]
   }

@@ -1,0 +1,31 @@
+{
+  "localizedName": "Colonial Cargo Docking Adapter",
+  "description": "Your homeworld has sent you plenty of resources, to make sure your colony will not fail, they will continually fork over basic resources.",
+  "type": "GenericCrafter",
+
+  "health": 50,
+  "size": 1,
+  "hasPower": true,
+  "hasLiquids": false,
+  "hasItems": true,
+  "itemCapacity": 9,
+
+  "craftTime": 180,
+  "consumes": {
+    "power": 1
+  },
+  "outputItems": [
+    "tin/3"
+    "alumin/3"
+    "silver/3"
+  ],
+
+  "requirements": [
+    "tin/5000",
+    "alumin/5000",
+    "silver/5000"
+  ],
+  
+  "research": "sprite"
+  "alwaysUnlocked": true,
+}

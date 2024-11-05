@@ -11,6 +11,6 @@
   "radioactivity": 0,
 
   "research": {
-    "parent": "hautite"
+    "parent": "t-part"
   }
 }

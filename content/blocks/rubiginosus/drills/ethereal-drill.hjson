@@ -7,7 +7,7 @@
   "size": 2,
   "buildVisibility": "campaignOnly",
 
-  "tier": 10,
+  "tier": 1000,
   "drillTime": 600,
   "warmupSpeed": 0.25,
   "rotateSpeed": 2,

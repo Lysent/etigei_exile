@@ -1,17 +1,18 @@
 {
-  "localizedName": "Heavenly Timber",
-  "description": "???",
+  "localizedName": "Tin",
+  "description": "",
   "type": "material",
   "color": "ffffff",
   "cost": 0.5,
-  "hidden": "true"
+  "hidden": "false"
 
+  "hardness": 1,
   "flammability": 0,
-  "explosiveness": 1,
+  "explosiveness": 0,
   "charge": 0,
   "radioactivity": 0,
 
   "research": {
-    "parent": "miss10"
+    "parent": "raw-ore"
   }
 }

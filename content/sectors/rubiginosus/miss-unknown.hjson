@@ -5,7 +5,7 @@
   "alwaysUnlocked": false,
   
   "research": {
-    "parent": "miss1",
+    "parent": "miss10",
     "objectives": [
       {
         "type": "SectorComplete",

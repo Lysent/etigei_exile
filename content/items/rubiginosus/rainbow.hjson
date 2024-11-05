@@ -6,6 +6,7 @@
   "cost": 1,
   "hidden": "true"
 
+  "hardness": 1000,
   "flammability": 0,
   "explosiveness": 0,
   "charge": 0,

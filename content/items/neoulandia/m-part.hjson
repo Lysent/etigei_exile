@@ -1,17 +1,17 @@
 {
-  "localizedName": "Heavenly Timber",
-  "description": "???",
+  "localizedName": "Machine Part",
+  "description": "",
   "type": "material",
   "color": "ffffff",
   "cost": 0.5,
-  "hidden": "true"
+  "hidden": "false"
 
   "flammability": 0,
-  "explosiveness": 1,
+  "explosiveness": 0,
   "charge": 0,
   "radioactivity": 0,
 
   "research": {
-    "parent": "miss10"
+    "parent": "raw-ore"
   }
 }

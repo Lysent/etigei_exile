@@ -1,18 +1,17 @@
 {
-  "localizedName": "Ethereal Matter",
-  "description": "???",
+  "localizedName": "Raw Ore",
+  "description": "",
   "type": "material",
   "color": "ffffff",
-  "cost": 0.5,
-  "hidden": "true"
+  "hidden": "false"
 
-  "hardness": 1000,
+  "hardness": 1,
   "flammability": 0,
   "explosiveness": 0,
   "charge": 0,
   "radioactivity": 0,
 
   "research": {
-    "parent": "ethereal-drill"
+    "parent": "timber"
   }
 }

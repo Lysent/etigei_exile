@@ -1,0 +1,21 @@
+{
+  "localizedName": "Basic Unloading Docks",
+  "description": "",
+  "type": "UnitCargoUnloadPoint",
+  "health": 20,
+  "size": 1,
+
+  "hasPower": false,
+  "hasLiquids": false,
+  "hasItems": true,
+  "itemCapacity": 64,
+
+  "requirements": [
+    "tin/5"
+    "alumin/5"
+    "silver/5"
+  ],
+
+  "category": "distribution",
+  "research": "docks"
+}

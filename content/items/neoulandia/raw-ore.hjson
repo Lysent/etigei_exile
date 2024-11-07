@@ -1,7 +1,7 @@
 {
   "localizedName": "Raw Ore",
   "description": "",
-  "type": "material",
+  "type": "resource",
   "color": "ffffff",
   "hidden": "false"
 

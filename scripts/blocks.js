@@ -11,20 +11,20 @@ const qm = extend(GenericSmelter, "mini-refinery", {
             get: (b, s) => b.setSoutQuant(s)
         })
     )
-})
+});
 qm.buildType = () => extend(GenericSmelter.SmelterBuild, qm, {
     buildConfiguration(table){
         let button = (item, qtty) => {
            table.button(new TextureRegionDrawable(Items[item].icon(Cicon.medium)), Styles.clearTransi, () => {
-               this.sout.item = Items[item]
-               this.sout.amount = qtty
-               this.configure(this.sout.item)
-               this.configure(this.sout.amount)
+               this.sout.item = Items[item];
+               this.sout.amount = qtty;
+               this.configure(this.sout.item);
+               this.configure(this.sout.amount);
             });
-        }
-        button('tin', 3)
-        button('alumin', 3)
-        button('silver', 3)
+        };
+        button('tin', 3);
+        button('alumin', 3);
+        button('silver', 3);
     },
     write(write) {
         this.super$write(write);
@@ -44,10 +44,10 @@ qm.buildType = () => extend(GenericSmelter.SmelterBuild, qm, {
         return new ItemStack(this.sout.item, this.sout.amount);
     },
     setSoutItem(s){
-        this.sout.item = s
+        this.sout.item = s;
     },
     setSoutQuant(s){
-        this.sout.amount = s
+        this.sout.amount = s;
     },
 
     sout: {

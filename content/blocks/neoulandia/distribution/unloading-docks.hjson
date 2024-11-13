@@ -1,5 +1,5 @@
 {
-  "localizedName": "Basic Unloading Docks",
+  "localizedName": "Docks Unloading Station",
   "description": "",
   "type": "UnitCargoUnloadPoint",
   "health": 20,
@@ -8,14 +8,13 @@
   "hasPower": false,
   "hasLiquids": false,
   "hasItems": true,
-  "itemCapacity": 64,
+  "itemCapacity": 32,
 
   "requirements": [
-    "tin/5"
-    "alumin/5"
-    "silver/5"
+    "t-part/1"
   ],
 
   "category": "distribution",
-  "research": "docks"
+  "research": "loading-docks"
+  "alwaysUnlocked": true,
 }

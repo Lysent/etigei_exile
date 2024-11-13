@@ -1,5 +1,5 @@
 {
-  "localizedName": "Basic Docks",
+  "localizedName": "Docks Loading Station",
   "description": "",
   "type": "UnitCargoLoader",
   "health": 20,
@@ -8,14 +8,14 @@
   "hasPower": false,
   "hasLiquids": false,
   "hasItems": true,
-  "itemCapacity": 64,
+  "itemCapacity": 32,
+  "unitType": "harfang",
 
   "requirements": [
-    "tin/5"
-    "alumin/5"
-    "silver/5"
+    "t-part/2"
   ],
 
   "category": "distribution",
-  "research": "colony-core"
+  "research": "passage"
+  "alwaysUnlocked": true,
 }

@@ -14,11 +14,10 @@
   "hasPower": "false",
 
   "requirements": [
-    "tin/5",
-    "alumin/5",
-    "silver/5"
+    "m-part/2"
   ],
 
   "category": "production",
   "research": "colony-core"
+  "alwaysUnlocked": true,
 }

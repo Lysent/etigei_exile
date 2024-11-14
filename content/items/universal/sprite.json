@@ -1,0 +1,12 @@
+{
+  "localizedName": "Sprite",
+  "type": "material",
+  "color": "00ff00",
+  "hidden": "true",
+  
+  "cost": 0,
+  "flammability": 0,
+  "explosiveness": 0,
+  "charge": 0,
+  "radioactivity": 0
+}

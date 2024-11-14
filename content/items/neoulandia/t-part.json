@@ -1,0 +1,17 @@
+{
+  "localizedName": "Transport Part",
+  "description": "",
+  "type": "material",
+  "color": "ffffff",
+  "cost": 0.5,
+  "hidden": "false",
+
+  "flammability": 0,
+  "explosiveness": 0,
+  "charge": 0,
+  "radioactivity": 0,
+
+  "research": {
+    "parent": "m-part"
+  }
+}

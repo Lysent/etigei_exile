@@ -1,0 +1,28 @@
+{
+  "localizedName": "Booster Receiver",
+  "description": "Phase Fabric and Cryogen Source",
+  "type": "GenericCrafter",
+
+  "health": 150,
+  "size": 1,
+  "hasPower": true,
+  "hasLiquids": true,
+  "hasItems": true,
+  "itemCapacity": 1048,
+  "liquidCapacity": 4,
+
+  "craftTime": 1,
+  "consumes": {
+    "power": 1
+  },
+  "outputItems": [
+    "phase-fabric/1048"
+  ],
+  "outputLiquids": [
+    "cryofluid/1"
+  ],
+
+  "research": {
+    "parent": "sprite"
+  }
+}

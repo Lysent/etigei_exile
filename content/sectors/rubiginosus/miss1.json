@@ -1,0 +1,10 @@
+{
+  "planet": "Rubiginosus",
+  "sector": 1,
+  "difficulty": 2,
+  "alwaysUnlocked": true,
+  
+  "research": {
+    "parent": "treeNode1"
+  }
+}

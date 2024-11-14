@@ -1,0 +1,15 @@
+{
+  "name": "Core: Shard",
+  "type": "CoreBlock",
+  "size": 3,
+  "health": 1100,
+  "itemCapacity": 4000,
+  "isFirstTier": true,
+  "alwaysUnlocked": false,
+  "unitType": "toxopid",
+  "hidden": false,
+  "hasShadow": true,
+  "buildVisibility": "debugOnly",
+  "unitCapModifier": 3,
+  "category": "effect"
+}

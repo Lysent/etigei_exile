@@ -1,0 +1,11 @@
+{
+  "type": "Block",
+  "hidden": "true",
+
+  "research": {
+    "root": true,
+    "name": "Rubiginosus",
+    "planet": "Rubiginosus"
+  },
+  "alwaysUnlocked": true
+}

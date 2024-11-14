@@ -1,0 +1,21 @@
+{
+  "localizedName": "Docks Loading Station",
+  "description": "",
+  "type": "UnitCargoLoader",
+  "health": 20,
+  "size": 1,
+
+  "hasPower": false,
+  "hasLiquids": false,
+  "hasItems": true,
+  "itemCapacity": 32,
+  "unitType": "harfang",
+
+  "requirements": [
+    "t-part/2"
+  ],
+
+  "category": "distribution",
+  "research": "passage",
+  "alwaysUnlocked": true
+}

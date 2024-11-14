@@ -1,0 +1,15 @@
+{
+  "name": "Core: Nucleus",
+  "type": "CoreBlock",
+  "size": 5,
+  "health": 6000,
+  "itemCapacity": 13000,
+  "isFirstTier": false,
+  "alwaysUnlocked": false,
+  "unitType": "toxopid",
+  "hidden": true,
+  "hasShadow": true,
+  "buildVisibility": "debugOnly",
+  "unitCapModifier": 24,
+  "category": "effect"
+}

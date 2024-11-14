@@ -1,0 +1,15 @@
+{
+  "name": "Core: Foundation",
+  "type": "CoreBlock",
+  "size": 4,
+  "health": 3500,
+  "itemCapacity": 9000,
+  "isFirstTier": false,
+  "alwaysUnlocked": false,
+  "unitType": "toxopid",
+  "hidden": true,
+  "hasShadow": true,
+  "buildVisibility": "debugOnly",
+  "unitCapModifier": 16,
+  "category": "effect"
+}

@@ -4,7 +4,7 @@
   "type": "ConsumeGenerator",
   "health": 30,
   "size": 2,
-
+  
   "hasPower": true,
   "hasLiquids": false,
   "hasItems": true,
@@ -15,14 +15,11 @@
   "craftEffect": "plasticExplosion",
   "powerProduction": 1,
 
-  //"consumes": {
-  //"items": {
-  //  "items": [
-  //    "coal/10",
-  //  ]
-  //}
-  //}
-  
+  "consumes": {
+    "itemFlammable": {},
+    "itemExplode": {}
+  },
+
   "requirements": [
     "alumin/30",
     "silver/5"

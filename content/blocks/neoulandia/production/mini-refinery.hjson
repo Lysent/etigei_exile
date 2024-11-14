@@ -4,6 +4,7 @@
   //"type": "AttributeCrafter",
   "health": 20,
   "size": 1,
+  "configurable": true,
 
   "hasPower": true,
   "hasLiquids": false,

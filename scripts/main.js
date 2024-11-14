@@ -1,4 +1,4 @@
-require("./blocks.js");
-require("./bullets.js");
-require("./vanilla.js");
-require("./sorterthing.js");
+require("blocks");
+require("bullets");
+require("vanilla");
+require("sorterthing");

@@ -1,0 +1,18 @@
+{
+  "localizedName": "LV Transmission Line",
+  "description": "A low voltage power node."
+  "type": "PowerNode",
+  "health": 35,
+  "size": 1,
+
+  "maxNodes": 4,
+  "laserRange": 7,
+
+  "requirements": [
+    "silver/1",
+    "alumin/1"
+  ],
+
+  "research": "colony-core",
+  "category": "power"
+}

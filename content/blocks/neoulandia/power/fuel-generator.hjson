@@ -1,0 +1,32 @@
+{
+  "localizedName": "Fuel Generator",
+  "description": "Generates small amounts of power from fuel.",
+  "type": "ConsumeGenerator",
+  "health": 30,
+  "size": 2,
+
+  "hasPower": true,
+  "hasLiquids": false,
+  "hasItems": true,
+  "craftTime": 20,
+  "itemCapacity": 100,
+  "powerCapacity": 1000,
+  "updateEffect": "steam",
+  "craftEffect": "plasticExplosion",
+  "powerProduction": 1,
+
+  //"consumes": {
+  //"items": {
+  //  "items": [
+  //    "coal/10",
+  //  ]
+  //}
+  //}
+  
+  "requirements": [
+    "alumin/30",
+    "silver/5"
+  ],
+  "category": "power",
+  "research": "transmission-node"
+}

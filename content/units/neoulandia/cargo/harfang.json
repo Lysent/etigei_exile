@@ -1,5 +1,5 @@
 {
-  "localizedName": "Harfang Cargo Unit",
+  "localizedName": "Harfang",
   "description": "Small and efficient delivery aircraft.",
   "type": "tether",
 
@@ -15,5 +15,7 @@
   "speed": 2,
   "drag": 0.5,
   "engineSize": 2,
-  "engineOffset": 5
+  "engineOffset": 5,
+
+  "research": "governate"
 }

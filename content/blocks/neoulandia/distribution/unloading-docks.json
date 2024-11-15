@@ -1,6 +1,6 @@
 {
   "localizedName": "Docks Unloading Station",
-  "description": "",
+  "description": "Receiving end of the logistics Harfang system.",
   "type": "UnitCargoUnloadPoint",
   "health": 20,
   "size": 1,

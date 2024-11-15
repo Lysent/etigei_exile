@@ -1,6 +1,6 @@
 {
   "localizedName": "Aluminium",
-  "description": "",
+  "description": "Lightweight material frequently used for transport purposes.",
   "type": "material",
   "color": "ffffff",
   "cost": 0.5,

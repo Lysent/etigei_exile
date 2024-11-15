@@ -8,6 +8,7 @@
   "itemCapacity": 5000,
   "isFirstTier": true,
   "alwaysUnlocked": true,
+  "unitType": "governate",
 
   "research": {
     "root": true,

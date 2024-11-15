@@ -1,6 +1,6 @@
 {
   "localizedName": "Raw Ore",
-  "description": "",
+  "description": "Unrefined ore dug out of the ground.",
   "type": "resource",
   "color": "ffffff",
   "hidden": "false",

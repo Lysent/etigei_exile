@@ -1,6 +1,6 @@
 {
-  "localizedName": "Microchip Factory",
-  "description": "This factory produces advanced circuit brains for better opportunities.",
+  "localizedName": "Machine Factory",
+  "description": "Allows for the production of parts required for complex machinery.",
   "type": "GenericCrafter",
   "health": 80,
   "size": 3,
@@ -8,7 +8,7 @@
   "hasPower": true,
   "hasLiquids": false,
   "hasItems": true,
-  "craftTime": 990,
+  "craftTime": 690,
   "itemCapacity": 64,
   "updateEffect": "steam",
   "craftEffect": "smoke",
@@ -28,22 +28,17 @@
     "power": 8,
     "items": {
       "items": [
-        "silicon/3",
-        "silver/3"
-      ]
-    },
-    "liquids": {
-      "liquids": [
-        "water/1"
+        "tin/3",
+        "alumin/2"
       ]
     }
   },
-  "outputItem": "smart-compound/3",
+  "outputItem": "m-part/3",
 
   "requirements": [
-    "m-part/40",
-    "silver/10",
-    "silicon/8"
+    "tin/50",
+    "alumin/25",
+    "silver/25"
   ],
   "category": "production",
   "research": "mini-refinery"

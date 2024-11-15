@@ -1,6 +1,6 @@
 {
   "localizedName": "Docks Loading Station",
-  "description": "",
+  "description": "Uses cheap cargo aircrafts to transport materials.",
   "type": "UnitCargoLoader",
   "health": 20,
   "size": 1,

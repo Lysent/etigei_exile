@@ -6,10 +6,10 @@
   "size": 1,
 
   "tier": 1,
-  "drillTime": 150,
+  "drillTime": 152,
   "warmupSpeed": 1,
   "rotateSpeed": 2,
-  "hardnessDrillMultiplier": 2,
+  "hardnessDrillMultiplier": 1,
   "hasLiquids": "false",
   "hasPower": "false",
 

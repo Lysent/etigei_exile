@@ -1,5 +1,5 @@
 {
-  "localizedName": "QM Sifter-Smelter",
+  "localizedName": "QM Refinery",
   "description": "A smaller version of the Mineral Sifter-Smelter which relies on melting water in its surroundings. Now integrated with a coal generator.",
   "health": 20,
   "size": 1,
@@ -37,7 +37,7 @@
     "m-part/2"
   ],
 
-  "category": "production",
+  "category": "crafting",
   "research": "colony-core",
   "alwaysUnlocked": true
 }

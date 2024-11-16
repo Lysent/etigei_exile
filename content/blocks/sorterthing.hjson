@@ -1,0 +1,31 @@
+{
+    "localizedName": "LYSCT-011 Item Recycler",
+    "name": "sorterthing",
+    "description": "\"Reverse entropy with this simple trick! The universe hates this!\"",
+    "health": 380,
+    "size": 4,
+    "destructible": true,
+    "hasPower": true,
+    "hasLiquids": true,
+    "itemCapacity": 50,
+    "configurable": true,
+    "craftTime": 20,
+    "liquidCapacity": 10,
+    "updateEffect": "steam",
+    "craftEffect": "plasticExplosion",
+    "consumes": {
+        "power": 100,
+        "items": {
+            "items": [
+                "scrap/24"
+            ]
+        }
+    },
+    "requirements": [
+        "titanium/200",
+        "metaglass/50",
+        "silicon/10",
+        "graphite/100"
+    ],
+    "category": "crafting"
+}

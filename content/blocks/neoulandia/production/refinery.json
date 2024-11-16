@@ -1,7 +1,6 @@
 {
   "localizedName": "Mineral Sifter-Smelter",
   "description": "The Sifter-Smelter is a compound device that removes unwanted contaminants and melts minerals at high temperatures in order to properly cast them into ingots fit for industrial use.",
-  //"type": "HeatCrafter",
   "health": 80,
   "size": 2,
   "configurable": true,
@@ -46,6 +45,6 @@
     "alumin/30",
     "silver/30"
   ],
-  "category": "production",
+  "category": "crafting",
   "research": "mini-refinery"
 }

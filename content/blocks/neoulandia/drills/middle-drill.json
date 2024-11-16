@@ -6,8 +6,8 @@
   "size": 2,
 
   "tier": 2,
-  "drillTime": 134,
-  "warmupSpeed": 0.75,
+  "drillTime": 175,
+  "warmupSpeed": 0.001,
   "rotateSpeed": 2,
   "liquidBoostIntensity": 1.5,
   "hardnessDrillMultiplier": 0.5,

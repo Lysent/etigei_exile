@@ -60,37 +60,18 @@ qm.buildType = () => extend(GenericCrafter.GenericCrafterBuild, qm, {
         item: Vars.content.item("etigeox-alumin"),
         amount: 1
     },
-    updateTile() {
+    craft() {
+        this.consume();
 
-        if (this.isValid()) {
-
-            this.progress += this.getProgressIncrease(this.block.craftTime);
-            this.totalProgress += this.delta();
-            this.warmup = Mathf.lerpDelta(this.warmup, 1, 0.02);
-
-            if (Mathf.chanceDelta(this.block.updateEffectChance)) {
-                this.block.updateEffect.at(this.getX() + Mathf.range(this.size * 4), this.getY() + Mathf.range(this.size * 4));
+        if (this.getItem() != null) {
+            for (let i = 0; i < this.getItem().amount; i++) {
+                this.offload(this.getItem().item);
             }
-        } else {
-            this.warmup = Mathf.lerp(this.warmup, 0, 0.02);
         }
 
-        if (this.progress >= 1) {
-            this.consume();
+        if (this.wasVisible) this.block.craftEffect.at(this.x, this.y);
 
-            if (this.getItem() != null) {
-                for (let i = 0; i < this.getItem().amount; i++) {
-                    this.offload(this.getItem().item);
-                }
-            }
-
-            this.block.craftEffect.at(this.x, this.y);
-            this.progress %= 1;
-        }
-
-        if (this.getItem() != null && this.timer.get(this.block.timerDump, this.block.dumpTime)) {
-            this.dump(this.getItem().item);
-        }
+        this.progress %= 1;
     }
 });
 
@@ -157,39 +138,17 @@ mm.buildType = () => extend(HeatCrafter.HeatCrafterBuild, mm, {
         item: Vars.content.item("etigeox-alumin"),
         amount: 3
     },
-    updateTile() {
+    craft() {
+        this.consume();
 
-        this.heat = this.calculateHeat(this.sideHeat);
-
-        
-        if (this.isValid()) {
-
-            this.progress += this.getProgressIncrease(this.block.craftTime);
-            this.totalProgress += this.delta();
-            this.warmup = Mathf.lerpDelta(this.warmup, 1, 0.02);
-
-            if (Mathf.chanceDelta(this.block.updateEffectChance)) {
-                this.block.updateEffect.at(this.getX() + Mathf.range(this.size * 4), this.getY() + Mathf.range(this.size * 4));
+        if (this.getItem() != null) {
+            for (let i = 0; i < this.getItem().amount; i++) {
+                this.offload(this.getItem().item);
             }
-        } else {
-            this.warmup = Mathf.lerp(this.warmup, 0, 0.02);
         }
 
-        if (this.progress >= 1) {
-            this.consume();
+        if (this.wasVisible) this.block.craftEffect.at(this.x, this.y);
 
-            if (this.getItem() != null) {
-                for (let i = 0; i < this.getItem().amount; i++) {
-                    this.offload(this.getItem().item);
-                }
-            }
-
-            this.block.craftEffect.at(this.x, this.y);
-            this.progress %= 1;
-        }
-
-        if (this.getItem() != null && this.timer.get(this.block.timerDump, this.block.dumpTime)) {
-            this.dump(this.getItem().item);
-        }
+        this.progress %= 1;
     }
 });

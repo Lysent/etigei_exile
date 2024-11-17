@@ -10,7 +10,7 @@
   "itemCapacity": 32,
   "speed": 1,
   "rotate": true,
-  "regionRotated1": 1,
+  
 
   "requirements": [
     "t-part/1"

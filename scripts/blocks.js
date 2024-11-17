@@ -159,7 +159,9 @@ mm.buildType = () => extend(HeatCrafter.HeatCrafterBuild, mm, {
     },
     updateTile() {
 
-        this.heat = (this.sideHeat);
+        this.heat = this.calculateHeat(this.sideHeat);
+
+        
         if (this.isValid()) {
 
             this.progress += this.getProgressIncrease(this.block.craftTime);

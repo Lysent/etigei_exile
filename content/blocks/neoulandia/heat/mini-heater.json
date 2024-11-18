@@ -1,0 +1,28 @@
+{
+  "localizedName": "Heater",
+  "description": "Just your plain old electrical calorifere from the 1980s",
+  "type": "HeatProducer",
+
+  "health": 50,
+  "size": 1,
+  "hasPower": true,
+  "hasLiquids": false,
+  "hasItems": false,
+  
+  "consumes": {
+    "power": 4
+  },
+  "heatOutput": 2.5,
+
+  "requirements": [
+    "m-part/3"
+  ],
+
+  "category": "crafting",
+  "research": {
+    "parent": "mini-refinery"
+  },
+  "researchCost": [
+    "research-materia1/1"
+  ]
+}

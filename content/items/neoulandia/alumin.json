@@ -2,7 +2,7 @@
   "localizedName": "Aluminium",
   "description": "Lightweight material frequently used for transport purposes.",
   "type": "material",
-  "color": "ffffff",
+  "color": "979e9c",
   "cost": 0.5,
   "hidden": "false",
 

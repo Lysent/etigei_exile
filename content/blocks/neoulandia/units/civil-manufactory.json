@@ -1,0 +1,36 @@
+{
+  "localizedName": "Civil Manufacture",
+  "description": "Produces a variety of economically-relevant units. Cannot produce military units.",
+  "type": "UnitFactory",
+  
+  "health": 100,
+  "size": 2,
+
+  "plans": [
+    {
+      "unit": "harfang-cargo",
+      "time": 200,
+      "requirements": [
+        "t-part/12"
+      ]
+    }
+  ],
+  "configurable": true,
+
+  "consumes": {
+    "power": 1
+  },
+
+  "requirements": [
+    "m-part/36",
+    "t-part/24",
+    "smart-compound/12"
+  ],
+  "category": "units",
+  "research": {
+    "parent": "colony-core",
+    "requirements": [
+      "timber/20"
+    ]
+  }
+}

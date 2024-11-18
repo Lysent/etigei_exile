@@ -1,0 +1,20 @@
+{
+  "localizedName": "Silicon",
+  "description": "Naturally occuring silicate pieces.",
+  "details": "For legal reasons, these are a seperate entity than Anuken's silicon.",
+  "type": "resource",
+  "color": "53565c",
+  "cost": 0.5,
+  "hidden": "true",
+
+  "hardness": 2,
+  "flammability": 0,
+  "explosiveness": 0,
+  "charge": 0,
+  "radioactivity": 0,
+  "buildable": "false",
+
+  "research": {
+    "parent": "timber"
+  }
+}

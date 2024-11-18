@@ -18,5 +18,7 @@
 
   "category": "distribution",
   "research": "colony-core",
-  "alwaysUnlocked": true
+  "researchCost": [
+    "research-materia1/1"
+  ]
 }

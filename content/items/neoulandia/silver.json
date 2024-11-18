@@ -2,7 +2,7 @@
   "localizedName": "Silver",
   "description": "Shiny, conductive material frequently used for electronics.",
   "type": "material",
-  "color": "ffffff",
+  "color": "8396a1",
   "cost": 0.5,
   "hidden": "false",
 

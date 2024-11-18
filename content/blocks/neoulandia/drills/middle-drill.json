@@ -24,5 +24,8 @@
   ],
 
   "category": "production",
-  "research": "neoulandia-mini-drill"
+  "research": "mini-drill",
+  "researchCost": [
+    "research-materia1/1"
+  ]
 }

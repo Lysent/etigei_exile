@@ -13,6 +13,5 @@
   "speed": 4,
   "drag": 0.1,
 
-  "research": "colony-core",
   "alwaysUnlocked": true
 }

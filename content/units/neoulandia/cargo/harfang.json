@@ -1,21 +1,40 @@
 {
-  "localizedName": "Harfang",
-  "description": "Small and efficient delivery aircraft.",
-  "type": "tether",
+  "localizedName": "Harfang (Militia)",
+  "description": "Cargo aircraft refitted for military use.",
+  "type": "flying",
 
-  "health": 100,
+  "health": 190,
+  "armor": 1,
   "flying": true,
   "isEnemy": false,
   "hitsize": 4,
-  
-  "defaultController": "CargoAI",
-  "logicControllable": false,
-  "playerControllable": false,
+
+  "logicControllable": true,
+  "playerControllable": true,
   "itemCapacity": 8,
-  "speed": 2,
+  "speed": 2.5,
   "drag": 0.5,
   "engineSize": 2,
   "engineOffset": 5,
+  "targetDistance": 35,
 
-  "research": "governate"
+  "weapons": [
+    {
+      "name": "milice",
+      "top": false,
+      "x": 0,
+      "y": 0.6,
+      "reload": 15,
+      "shots": 2,
+      "inaccuracy": 25,
+      "shootSound": "beam",
+      "bullet": {
+        "speed": 2.5,
+        "lifetime": 50,
+        "damage": 25
+      }
+    }
+  ],
+
+  "research": "civil-manufactory"
 }

@@ -1,0 +1,22 @@
+{
+  "localizedName": "Harfang (Cargo)",
+  "description": "Small and efficient delivery aircraft.",
+  "type": "tether",
+  "hidden": "false",
+
+  "health": 100,
+  "flying": true,
+  "isEnemy": false,
+  "hitsize": 4,
+  
+  "defaultController": "CargoAI",
+  "logicControllable": false,
+  "playerControllable": false,
+  "itemCapacity": 8,
+  "speed": 2,
+  "drag": 0.5,
+  "engineSize": 2,
+  "engineOffset": 5,
+
+  "research": "civil-manufactory"
+}

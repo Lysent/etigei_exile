@@ -2,7 +2,7 @@
   "localizedName": "Machine Part",
   "description": "Advanced machinery components.",
   "type": "material",
-  "color": "ffffff",
+  "color": "345ce4",
   "cost": 0.5,
   "hidden": "false",
 

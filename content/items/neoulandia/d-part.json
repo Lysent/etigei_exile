@@ -1,0 +1,18 @@
+{
+  "localizedName": "Defence Part",
+  "description": "Advanced armanent-related materials.",
+  "details": "Can also be called offensive parts, but that hurts our branding.",
+  "type": "material",
+  "color": "392425",
+  "cost": 0.5,
+  "hidden": "false",
+
+  "flammability": 0.15,
+  "explosiveness": 0,
+  "charge": 0,
+  "radioactivity": 0,
+
+  "research": {
+    "parent": "t-part"
+  }
+}

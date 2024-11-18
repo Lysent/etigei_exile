@@ -11,6 +11,6 @@
   "radioactivity": 1,
 
   "research": {
-    "parent": "smart-compound"
+    "parent": "futeigant-compound"
   }
 }

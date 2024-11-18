@@ -9,7 +9,7 @@
   "hasLiquids": false,
   "hasItems": true,
   "itemCapacity": 32,
-  "unitType": "harfang",
+  "unitType": "harfang-cargo",
 
   "requirements": [
     "t-part/2"

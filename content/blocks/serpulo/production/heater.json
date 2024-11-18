@@ -2,6 +2,7 @@
   "localizedName": "Heater",
   "description": "Just your plain old electrical calorifere from the 1980s",
   "type": "HeatProducer",
+  "buildVisibility": "campaignOnly",
 
   "health": 50,
   "size": 1,

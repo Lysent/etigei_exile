@@ -1,5 +1,5 @@
 {
-  "localizedName": "Futeigant Compound",
+  "localizedName": "Smart Compound",
   "description": "A smart, nearly sentient composite. Used for complex operations.",
   "type": "material",
   "color": "eeeee4",
@@ -11,6 +11,6 @@
   "radioactivity": 0,
 
   "research": {
-    "parent": "t-part"
+    "parent": "m-part"
   }
 }

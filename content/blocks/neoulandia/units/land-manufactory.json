@@ -1,0 +1,37 @@
+{
+  "localizedName": "Land Manufacture",
+  "description": "Produces a variety of ground units.",
+  "type": "UnitFactory",
+  
+  "health": 100,
+  "size": 2,
+
+  "plans": [
+    {
+      "unit": "harfang",
+      "time": 200,
+      "requirements": [
+        "d-part/8",
+        "t-part/12"
+      ]
+    }
+  ],
+  "configurable": true,
+
+  "consumes": {
+    "power": 1
+  },
+
+  "requirements": [
+    "d-part/36",
+    "m-part/36",
+    "smart-compound/12"
+  ],
+  "category": "units",
+  "research": {
+    "parent": "civil-manufactory",
+    "requirements": [
+      "etherealium/20"
+    ]
+  }
+}

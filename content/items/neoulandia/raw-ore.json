@@ -2,7 +2,7 @@
   "localizedName": "Raw Ore",
   "description": "Unrefined ore dug out of the ground.",
   "type": "resource",
-  "color": "ffffff",
+  "color": "b6c7b5",
   "hidden": "false",
 
   "hardness": 1,

@@ -1,15 +1,19 @@
 {
   "localizedName": "Passage",
   "description": "A large hallway where resources are manually moved along with electricity.",
-  "type": "Router",
+  "details": "Functionally similar to a Duct Router and conducts power. Not a conveyor.",
+  "type": "DuctRouter",
   "size": 1,
   "health": 15,
 
-  "conductivePower": true,
+  "hasPower": true,
   "hasItems": true,
   "itemCapacity": 32,
-  "speed": 1,
+  "speed": 0.01,
   "rotate": true,
+  "regionRotated1": 1,
+  "conductivePower": true,
+  "configurable": true,
   
 
   "requirements": [

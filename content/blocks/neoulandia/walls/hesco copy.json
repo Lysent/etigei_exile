@@ -1,0 +1,13 @@
+{
+  "localizedName": "Concertainer Wall",
+  "description": "A solid snow and ice-filled easily deployable concertainer.",
+  "type": "wall",
+  "health": 150,
+  "size": 1,
+  "requirements": [
+    "d-part/1"
+  ],
+
+  "category": "defense",
+  "research": "colony-core"
+}

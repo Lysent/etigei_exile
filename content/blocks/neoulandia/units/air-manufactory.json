@@ -19,7 +19,7 @@
   "configurable": true,
 
   "consumes": {
-    "power": 1
+    "power": 6
   },
 
   "requirements": [
@@ -29,7 +29,7 @@
   ],
   "category": "units",
   "research": {
-    "parent": "civil-manufactory",
+    "parent": "land-manufactory",
     "requirements": [
       "etherealium/20"
     ]

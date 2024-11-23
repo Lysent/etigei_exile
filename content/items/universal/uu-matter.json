@@ -8,9 +8,5 @@
   "flammability": 1,
   "explosiveness": 1,
   "charge": 1,
-  "radioactivity": 1,
-
-  "research": {
-    "parent": "futeigant-compound"
-  }
+  "radioactivity": 1
 }

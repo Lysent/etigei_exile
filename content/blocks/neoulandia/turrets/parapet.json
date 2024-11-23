@@ -1,0 +1,37 @@
+{
+  "localizedName": "Parapet",
+  "description": "Short range defence turret.",
+  "details": "First tier turret use of ammunition. Inefficient use of defence parts as ammunition.",
+  "type": "itemTurret",
+  "health": 150,
+  "size": 2,
+
+  "targetAir": false,
+  "targetGround": true,
+  "reload": 100,
+  "shots": 2,
+  "range": 45,
+  "inaccuracy": 1,
+  "shootSound": "lasershoot",
+
+  "ammoTypes": {
+    "d-part": {
+      "speed": 6,
+      "lifetime": 50,
+      "damage": 55,
+      "width": 1,
+      "height": 1,
+      "splashDamage": 5,
+      "splashDamageRadius": 3,
+      "ammoMultiplier": 5
+    }
+  },
+
+  "requirements": [
+    "d-part/24",
+    "smart-compound/2"
+  ],
+  
+  "category": "turret",
+  "research": "tour"
+}

@@ -1,0 +1,37 @@
+{
+  "localizedName": "Fireweed",
+  "description": "Heavy class mobile gun platform.",
+  "type": "tank",
+
+  "health": 300,
+  "armor": 5,
+  "flying": false,
+  "isEnemy": false,
+  "hitSize": 4,
+
+  "logicControllable": true,
+  "playerControllable": true,
+  "speed": 0.6,
+  "drag": 0.5,
+  "targetDistance": 35,
+
+  "weapons": [
+    {
+      "name": "fireweed-gun",
+      "top": false,
+      "x": 0,
+      "y": 0.6,
+      "reload": 50,
+      "shots": 1,
+      "inaccuracy": 3,
+      "shootSound": "beam",
+      "bullet": {
+        "speed": 2.5,
+        "lifetime": 50,
+        "damage": 100
+      }
+    }
+  ],
+
+  "research": "gueule-de-loup"
+}

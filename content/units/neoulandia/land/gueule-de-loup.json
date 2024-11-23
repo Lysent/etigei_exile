@@ -1,0 +1,37 @@
+{
+  "localizedName": "Snapdragon",
+  "description": "Fast glass-canon type hovercraft.",
+  "type": "tank",
+
+  "health": 350,
+  "armor": 3,
+  "flying": false,
+  "isEnemy": false,
+  "hitSize": 18,
+
+  "logicControllable": true,
+  "playerControllable": true,
+  "speed": 0.65,
+  "drag": 0.5,
+  "targetDistance": 35,
+
+  "weapons": [
+    {
+      "name": "snapgdragon-gun",
+      "top": false,
+      "x": 0,
+      "y": 0.6,
+      "reload": 5,
+      "shots": 2,
+      "inaccuracy": 10,
+      "shootSound": "beam",
+      "bullet": {
+        "speed": 2.5,
+        "lifetime": 50,
+        "damage": 2.5
+      }
+    }
+  ],
+
+  "research": "land-manufactory"
+}

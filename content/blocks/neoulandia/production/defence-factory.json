@@ -1,8 +1,8 @@
 {
-  "localizedName": "Microchip Factory",
-  "description": "This factory produces advanced circuit brains for better opportunities.",
+  "localizedName": "Defence Factory",
+  "description": "Produces vital parts for militarisation of the colony.",
   "type": "GenericCrafter",
-  "health": 80,
+  "health": 120,
   "size": 3,
   
   "hasPower": true,
@@ -42,9 +42,10 @@
 
   "requirements": [
     "m-part/40",
-    "silver/10",
-    "silicon/8"
+    "t-part/15",
+    "smart-compound/10",
+    "silver/10"
   ],
   "category": "crafting",
-  "research": "machine-factory"
+  "research": "chip-factory"
 }

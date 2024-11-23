@@ -1,0 +1,14 @@
+{
+  "localizedName": "Composite Barrier",
+  "description": "A solid and robust yet cost effective wall.",
+  "type": "wall",
+  "health": 300,
+  "size": 1,
+  "requirements": [
+    "d-part/4",
+    "tin/2"
+  ],
+
+  "category": "defense",
+  "research": "hesco"
+}

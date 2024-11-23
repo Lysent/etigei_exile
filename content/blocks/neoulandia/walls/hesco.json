@@ -2,7 +2,7 @@
   "localizedName": "Concertainer Wall",
   "description": "A solid snow and ice-filled easily deployable concertainer.",
   "type": "wall",
-  "health": 150,
+  "health": 65,
   "size": 1,
   "requirements": [
     "d-part/1"

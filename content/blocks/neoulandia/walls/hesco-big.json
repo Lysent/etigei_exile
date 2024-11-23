@@ -2,12 +2,12 @@
   "localizedName": "Large Concertainer Wall",
   "description": "A large solid snow and ice-filled easily deployable concertainer.",
   "type": "wall",
-  "health": 600,
+  "health": 260,
   "size": 2,
   "requirements": [
     "d-part/2"
   ],
 
   "category": "defense",
-  "research": "concertainer"
+  "research": "hesco"
 }

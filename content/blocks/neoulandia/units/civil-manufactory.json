@@ -18,7 +18,7 @@
   "configurable": true,
 
   "consumes": {
-    "power": 1
+    "power": 3
   },
 
   "requirements": [

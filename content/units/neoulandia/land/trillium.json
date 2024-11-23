@@ -1,0 +1,37 @@
+{
+  "localizedName": "Trillium",
+  "description": "Elite mass-produced invididual units.",
+  "type": "tank",
+
+  "health": 300,
+  "armor": 7,
+  "flying": false,
+  "isEnemy": false,
+  "hitSize": 4,
+
+  "logicControllable": true,
+  "playerControllable": true,
+  "speed": 1,
+  "drag": 0.5,
+  "targetDistance": 35,
+
+  "weapons": [
+    {
+      "name": "trillium-gun",
+      "top": false,
+      "x": 0,
+      "y": 0.6,
+      "reload": 15,
+      "shots": 4,
+      "inaccuracy": 5,
+      "shootSound": "beam",
+      "bullet": {
+        "speed": 3.5,
+        "lifetime": 50,
+        "damage": 7.5
+      }
+    }
+  ],
+
+  "research": "gueule-de-loup"
+}

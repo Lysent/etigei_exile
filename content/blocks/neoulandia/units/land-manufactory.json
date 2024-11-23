@@ -8,18 +8,26 @@
 
   "plans": [
     {
-      "unit": "harfang",
+      "unit": "gueule-de-loup",
       "time": 200,
       "requirements": [
-        "d-part/8",
-        "t-part/12"
+        "d-part/6",
+        "alumin/2"
+      ]
+    },
+    {
+      "unit": "rockcress",
+      "time": 200,
+      "requirements": [
+        "d-part/10",
+        "t-part/4"
       ]
     }
   ],
   "configurable": true,
 
   "consumes": {
-    "power": 1
+    "power": 4
   },
 
   "requirements": [

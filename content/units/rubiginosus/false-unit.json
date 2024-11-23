@@ -6,7 +6,7 @@
   "health": 100,
   "isEnemy": false,
   "coreUnitDock": true,
-  "hitsize": 2,
+  "hitSize": 2,
   
   "buildSpeed": 1,
   "speed": 0.6,

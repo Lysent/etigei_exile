@@ -1,0 +1,37 @@
+{
+  "localizedName": "Boechera",
+  "description": "All-terrain assault vehicle.",
+  "type": "tank",
+
+  "health": 200,
+  "armor": 3,
+  "flying": false,
+  "isEnemy": false,
+  "hitSize": 13,
+
+  "logicControllable": true,
+  "playerControllable": true,
+  "speed": 0.95,
+  "drag": 0.5,
+  "targetDistance": 35,
+
+  "weapons": [
+    {
+      "name": "rockcress-gun",
+      "top": false,
+      "x": 0,
+      "y": 0.6,
+      "reload": 5,
+      "shots": 2,
+      "inaccuracy": 15,
+      "shootSound": "beam",
+      "bullet": {
+        "speed": 2.5,
+        "lifetime": 50,
+        "damage": 5
+      }
+    }
+  ],
+
+  "research": "gueule-de-loup"
+}

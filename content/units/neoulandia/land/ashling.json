@@ -1,0 +1,37 @@
+{
+  "localizedName": "Fireweed Ashling",
+  "description": "Where ashes remain.",
+  "type": "tank",
+
+  "health": 120,
+  "armor": 2,
+  "flying": false,
+  "isEnemy": false,
+  "hitSize": 4,
+
+  "logicControllable": true,
+  "playerControllable": true,
+  "speed": 1.5,
+  "drag": 0.5,
+  "targetDistance": 35,
+
+  "weapons": [
+    {
+      "name": "ashling-guns",
+      "top": false,
+      "x": 0,
+      "y": 0.6,
+      "reload": 15,
+      "shots": 2,
+      "inaccuracy": 15,
+      "shootSound": "beam",
+      "bullet": {
+        "speed": 2.5,
+        "lifetime": 50,
+        "damage": 25
+      }
+    }
+  ],
+
+  "research": "epilobe"
+}

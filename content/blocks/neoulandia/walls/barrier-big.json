@@ -1,0 +1,14 @@
+{
+  "localizedName": "Large Composite Barrier",
+  "description": "A larger solid and robust yet cost effective wall.",
+  "type": "wall",
+  "health": 1200,
+  "size": 2,
+  "requirements": [
+    "d-part/4",
+    "tin/2"
+  ],
+
+  "category": "defense",
+  "research": "barrier"
+}

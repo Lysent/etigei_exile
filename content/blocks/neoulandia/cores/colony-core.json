@@ -12,6 +12,15 @@
   "unitCapModifier": "6",
   "incinerateNonBuildable": "true",
 
+  "requirements": [
+    "tin/800",
+    "alumin/800",
+    "silver/650",
+    "m-part/75",
+    "t-part/75",
+    "smart-compound/75"
+  ],
+
   "research": {
     "root": true,
     "name": "Neoulandia",

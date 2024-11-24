@@ -1,11 +1,17 @@
 {
     "planet": "Neoulandia",
-    "sector": 2,
-    "difficulty": 1,
-    "alwaysUnlocked": true,
-    "captureWave": 3,
+    "sector": 99,
+    "difficulty": 2,
+    "alwaysUnlocked": false,
+    "captureWave": 12,
     
     "research": {
-      "parent": "colony-core"
-    }
+    "parent": "emiss1",
+    "objectives": [
+      {
+        "type": "SectorComplete",
+        "preset": "miss1"
+      }
+    ]
+  }
   }

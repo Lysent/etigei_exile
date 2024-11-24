@@ -1,0 +1,1 @@
+const futeigant = extend(material, "smart-compound");

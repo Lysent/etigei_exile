@@ -25,13 +25,37 @@ const addTechNode = (research) => {
 };
 
 Events.on(ContentInitEvent, () => {
+    // Serpulo
     addTechNode({
         parent: Vars.content.item("etigeox-refined-etigeum"),
-        unlock: Vars.content.item("etigeox-alumin"),
+        unlock: Vars.content.item("etigeox-smart-compound"),
         requirements: ItemStack.with(
-            Items.copper, 100,
-            Items.lead, 75
+            Items.silicon, 100,
+            Items.surgeAlloy, 75
         ),
         planet: "serpulo"
+    });
+    addTechNode({
+        parent: Vars.content.item("etigeox-refined-etigeum"),
+        unlock: Vars.content.item("etigeox-uu-matter"),
+        requirements: ItemStack.with(
+            Items.silicon, 5000
+        ),
+        planet: "serpulo"
+    });
+
+    // Rubiginosus
+    // Nothing :/
+
+    // Neoulandia
+    addTechNode({
+        parent: Vars.content.item("etigeox-timber"),
+        unlock: Items.sand,
+        planet: "Neoulandia"
+    });
+    addTechNode({
+        parent: Items.sand,
+        unlock: Items.silicon,
+        planet: "Neoulandia"
     });
 });

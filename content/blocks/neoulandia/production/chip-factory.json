@@ -42,8 +42,7 @@
 
   "requirements": [
     "m-part/40",
-    "silver/10",
-    "silicon/8"
+    "silver/10"
   ],
   "category": "crafting",
   "research": "machine-factory",

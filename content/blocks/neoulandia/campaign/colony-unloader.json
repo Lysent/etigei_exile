@@ -15,9 +15,9 @@
     "power": 1
   },
   "outputItems": [
-    "tin/3",
-    "alumin/3",
-    "silver/3"
+    "tin/1",
+    "alumin/1",
+    "silver/1"
   ],
   
   "research": "colony-core",

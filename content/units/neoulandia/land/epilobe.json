@@ -7,13 +7,23 @@
   "armor": 5,
   "flying": false,
   "isEnemy": false,
-  "hitSize": 4,
+  "hitSize": 12,
 
   "logicControllable": true,
   "playerControllable": true,
-  "speed": 0.6,
-  "drag": 0.5,
-  "targetDistance": 35,
+  "speed": 0.2,
+  "drag": 2,
+  "targetDistance": 70,
+
+  "treadPullOffset": 4,
+  "treadRects": [
+    {
+      "x": 6,
+      "y": 6,
+      "width": 15,
+      "height": 15
+    }
+  ],
 
   "weapons": [
     {
@@ -21,15 +31,23 @@
       "top": false,
       "x": 0,
       "y": 0.6,
-      "reload": 50,
+      "reload": 250,
       "shots": 1,
-      "inaccuracy": 3,
+      "inaccuracy": 0,
       "shootSound": "beam",
       "bullet": {
         "speed": 2.5,
-        "lifetime": 50,
+        "lifetime": 70,
         "damage": 100
       }
+    }
+  ],
+
+  "abilities": [
+    {
+      "type": "SpawnDeathAbility",
+      "unit": "ashling",
+      "amount": 4
     }
   ],
 

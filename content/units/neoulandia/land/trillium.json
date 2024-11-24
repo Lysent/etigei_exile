@@ -1,19 +1,19 @@
 {
   "localizedName": "Trillium",
   "description": "Elite mass-produced invididual units.",
-  "type": "tank",
+  "type": "mech",
 
   "health": 300,
   "armor": 7,
   "flying": false,
   "isEnemy": false,
-  "hitSize": 4,
+  "hitSize": 8,
 
   "logicControllable": true,
   "playerControllable": true,
-  "speed": 1,
-  "drag": 0.5,
-  "targetDistance": 35,
+  "speed": 0.5,
+  "drag": 1.2,
+  "targetDistance": 40,
 
   "weapons": [
     {
@@ -27,8 +27,8 @@
       "shootSound": "beam",
       "bullet": {
         "speed": 3.5,
-        "lifetime": 50,
-        "damage": 7.5
+        "lifetime": 40,
+        "damage": 5
       }
     }
   ],

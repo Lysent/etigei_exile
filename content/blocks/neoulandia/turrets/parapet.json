@@ -8,15 +8,15 @@
 
   "targetAir": false,
   "targetGround": true,
-  "reload": 100,
+  "reload": 10,
   "shots": 2,
-  "range": 45,
+  "range": 110,
   "inaccuracy": 1,
   "shootSound": "lasershoot",
 
   "ammoTypes": {
     "d-part": {
-      "speed": 6,
+      "speed": 2,
       "lifetime": 50,
       "damage": 55,
       "width": 1,
@@ -33,5 +33,5 @@
   ],
   
   "category": "turret",
-  "research": "tour"
+  "research": "colony-core"
 }

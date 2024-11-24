@@ -8,22 +8,22 @@
 
   "targetAir": true,
   "targetGround": false,
-  "reload": 100,
-  "shots": 2,
-  "range": 45,
-  "inaccuracy": 1,
+  "reload": 10,
+  "shots": 6,
+  "range": 130,
+  "inaccuracy": 10,
   "shootSound": "lasershoot",
   
   "ammoTypes": {
     "d-part": {
-      "speed": 6,
-      "lifetime": 50,
-      "damage": 55,
+      "speed": 2.2,
+      "lifetime": 65,
+      "damage": 20,
       "width": 1,
       "height": 1,
-      "splashDamage": 5,
-      "splashDamageRadius": 3,
-      "ammoMultiplier": 5
+      "splashDamage": 7.5,
+      "splashDamageRadius": 4,
+      "ammoMultiplier": 12
     }
   },
 
@@ -33,5 +33,5 @@
   ],
 
   "category": "turret",
-  "research": "colony-core"
+  "research": "parapet"
 }

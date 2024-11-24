@@ -12,8 +12,19 @@
   "logicControllable": true,
   "playerControllable": true,
   "speed": 0.95,
-  "drag": 0.5,
+  "drag": 0.4,
   "targetDistance": 35,
+  "canBoost": true,
+
+  "treadPullOffset": 2,
+  "treadRects": [
+    {
+      "x": 6,
+      "y": 6,
+      "width": 10,
+      "height": 10
+    }
+  ],
 
   "weapons": [
     {
@@ -26,8 +37,8 @@
       "inaccuracy": 15,
       "shootSound": "beam",
       "bullet": {
-        "speed": 2.5,
-        "lifetime": 50,
+        "speed": 3.25,
+        "lifetime": 35,
         "damage": 5
       }
     }

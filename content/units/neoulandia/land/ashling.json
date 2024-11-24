@@ -7,28 +7,39 @@
   "armor": 2,
   "flying": false,
   "isEnemy": false,
-  "hitSize": 4,
+  "hitSize": 7,
 
   "logicControllable": true,
   "playerControllable": true,
-  "speed": 1.5,
-  "drag": 0.5,
+  "speed": 0.95,
+  "drag": 0.4,
   "targetDistance": 35,
+  "canBoost": true,
+
+  "treadPullOffset": 1,
+  "treadRects": [
+    {
+      "x": 4,
+      "y": 4,
+      "width": 6,
+      "height": 6
+    }
+  ],
 
   "weapons": [
     {
-      "name": "ashling-guns",
+      "name": "ashling-gun",
       "top": false,
       "x": 0,
       "y": 0.6,
-      "reload": 15,
+      "reload": 5,
       "shots": 2,
       "inaccuracy": 15,
       "shootSound": "beam",
       "bullet": {
-        "speed": 2.5,
-        "lifetime": 50,
-        "damage": 25
+        "speed": 3.25,
+        "lifetime": 35,
+        "damage": 5
       }
     }
   ],

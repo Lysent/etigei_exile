@@ -9,7 +9,7 @@
   "plans": [
     {
       "unit": "gueule-de-loup",
-      "time": 200,
+      "time": 300,
       "requirements": [
         "d-part/6",
         "alumin/2"
@@ -17,10 +17,26 @@
     },
     {
       "unit": "rockcress",
-      "time": 200,
+      "time": 400,
       "requirements": [
         "d-part/10",
         "t-part/4"
+      ]
+    },
+    {
+      "unit": "epilobe",
+      "time": 2500,
+      "requirements": [
+        "d-part/42",
+        "smart-compound/8"
+      ]
+    },
+    {
+      "unit": "trillium",
+      "time": 1400,
+      "requirements": [
+        "d-part/26",
+        "smart-compound/2"
       ]
     }
   ],

@@ -24,12 +24,14 @@ const addTechNode = (research) => {
     log("etigeox", "reparented node")
 };
 
-addTechNode({
-    parent: Vars.content.item("etigeox-refined-etigeum"),
-    unlock: Vars.content.item("etigeox-alumin"),
-    requirements: ItemStack.with(
-        Items.copper, 100,
-        Items.lead, 75
-    ),
-    planet: "serpulo"
+Events.on(ContentInitEvent, () => {
+    addTechNode({
+        parent: Vars.content.item("etigeox-refined-etigeum"),
+        unlock: Vars.content.item("etigeox-alumin"),
+        requirements: ItemStack.with(
+            Items.copper, 100,
+            Items.lead, 75
+        ),
+        planet: "serpulo"
+    });
 });

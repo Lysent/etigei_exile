@@ -26,7 +26,7 @@ const addTechNode = (research) => {
 
 addTechNode({
     parent: Vars.content.item("etigeox-refined-etigeum"),
-    unlock: Vars.content.item("copper"),
+    unlock: Vars.content.item("etigeox-alumin"),
     requirements: ItemStack.with(
         Items.copper, 100,
         Items.lead, 75

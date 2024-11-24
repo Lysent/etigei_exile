@@ -13,5 +13,9 @@
   "research": {
     "parent": "colony-core"
   },
-  "alwaysUnlocked": true
+  "alwaysUnlocked": true,
+  "hiddenOnPlanets": [
+    "serpulo",
+    "erekir"
+  ]
 }

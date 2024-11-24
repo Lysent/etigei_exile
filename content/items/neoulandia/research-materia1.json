@@ -12,5 +12,11 @@
 
   "research": {
     "parent": "timber"
-  }
+  },
+  "alwaysUnlocked": true,
+  "hiddenOnPlanets": [
+    "serpulo",
+    "erekir",
+    "Rubiginosus"
+  ]
 }

@@ -13,5 +13,10 @@
 
   "research": {
     "parent": "miss10"
-  }
+  },
+  "hiddenOnPlanets": [
+    "serpulo",
+    "erekir",
+    "Neoulandia"
+  ]
 }

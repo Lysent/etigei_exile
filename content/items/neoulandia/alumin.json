@@ -14,5 +14,11 @@
 
   "research": {
     "parent": "tin"
-  }
+  },
+  "hiddenOnPlanets": [
+    "serpulo",
+    "erekir",
+    "Rubiginosus"
+  ]
+
 }

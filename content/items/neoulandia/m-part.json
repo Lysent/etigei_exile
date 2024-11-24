@@ -13,5 +13,10 @@
 
   "research": {
     "parent": "raw-ore"
-  }
+  },
+  "hiddenOnPlanets": [
+    "serpulo",
+    "erekir",
+    "Rubiginosus"
+  ]
 }

@@ -14,5 +14,10 @@
 
   "research": {
     "parent": "ethereal-drill"
-  }
+  },
+  "hiddenOnPlanets": [
+    "serpulo",
+    "erekir",
+    "Neoulandia"
+  ]
 }

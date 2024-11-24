@@ -13,5 +13,10 @@
 
   "research": {
     "parent": "m-part"
-  }
+  },
+  "hiddenOnPlanets": [
+    "serpulo",
+    "erekir",
+    "Rubiginosus"
+  ]
 }

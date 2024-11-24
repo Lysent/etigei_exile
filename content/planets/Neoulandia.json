@@ -1,5 +1,5 @@
 {
-  "generator": "PlanetGenerator",
+  "generator": "NeoulandiaPlanetGenerator",
   "parent": "sun",
   "iconColor": "07f2f2,",
 

@@ -1,0 +1,11 @@
+{
+    "planet": "Neoulandia",
+    "sector": 2,
+    "difficulty": 1,
+    "alwaysUnlocked": true,
+    "captureWave": 3,
+    
+    "research": {
+      "parent": "colony-core"
+    }
+  }

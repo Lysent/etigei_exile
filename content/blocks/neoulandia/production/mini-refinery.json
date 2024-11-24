@@ -8,10 +8,15 @@
   "hasPower": true,
   "hasLiquids": false,
   "hasItems": true,
-  "craftTime": 200,
+  "craftTime": 275,
   "itemCapacity": 16,
   "updateEffect": "steam",
   "craftEffect": "smoke",
+  "outputItems": [
+    "tin/3",
+    "alumin/3",
+    "silver/3"
+  ],
   "drawer": {
     "type": "DrawMulti",
     "drawers": [

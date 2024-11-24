@@ -33,5 +33,8 @@
   ],
   
   "category": "turret",
-  "research": "colony-core"
+  "research": "colony-core",
+  "researchCost": [
+    "research-materia1/1"
+  ]
 }

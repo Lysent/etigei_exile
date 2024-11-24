@@ -39,5 +39,8 @@
 
   "category": "crafting",
   "research": "colony-core",
-  "alwaysUnlocked": true
+  "alwaysUnlocked": true,
+  "researchCost": [
+    "research-materia1/1"
+  ]
 }

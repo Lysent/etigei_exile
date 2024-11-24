@@ -36,5 +36,8 @@
     }
   ],
 
-  "research": "air-manufactory"
+  "research": "air-manufactory",
+  "researchCost": [
+    "research-materia1/1"
+  ]
 }

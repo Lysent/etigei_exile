@@ -4,6 +4,6 @@ require("bullets");
 require("productionBlocks");
 require("powerBlocks");
 
-// require("contentLoader");
-
-require("tech");
+//require("contentLoader");
+//
+//require("tech");

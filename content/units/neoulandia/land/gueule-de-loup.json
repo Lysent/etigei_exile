@@ -43,5 +43,8 @@
     }
   ],
 
-  "research": "land-manufactory"
+  "research": "land-manufactory",
+  "researchCost": [
+    "research-materia1/1"
+  ]
 }

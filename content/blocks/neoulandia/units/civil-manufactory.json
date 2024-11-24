@@ -27,10 +27,8 @@
     "smart-compound/12"
   ],
   "category": "units",
-  "research": {
-    "parent": "colony-core",
-    "requirements": [
-      "timber/20"
-    ]
-  }
+  "research": "colony-core",
+  "researchCost": [
+    "research-materia1/1"
+  ]
 }

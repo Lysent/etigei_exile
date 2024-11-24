@@ -44,5 +44,8 @@
     }
   ],
 
-  "research": "gueule-de-loup"
+  "research": "gueule-de-loup",
+  "researchCost": [
+    "research-materia1/1"
+  ]
 }

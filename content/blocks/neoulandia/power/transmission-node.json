@@ -15,5 +15,7 @@
   ],
 
   "research": "colony-core",
-  "category": "power"
+  "category": "power",
+
+  "alwaysUnlocked": true
 }

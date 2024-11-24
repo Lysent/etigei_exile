@@ -10,5 +10,8 @@
   ],
 
   "category": "defense",
-  "research": "hesco"
+  "research": "hesco",
+  "researchCost": [
+    "research-materia1/1"
+  ]
 }

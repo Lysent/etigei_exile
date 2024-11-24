@@ -17,5 +17,8 @@
   ],
 
   "category": "power",
-  "research": "fuel-generator"
+  "research": "fuel-generator",
+  "researchCost": [
+    "research-materia1/1"
+  ]
 }

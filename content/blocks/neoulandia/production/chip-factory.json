@@ -46,5 +46,8 @@
     "silicon/8"
   ],
   "category": "crafting",
-  "research": "machine-factory"
+  "research": "machine-factory",
+  "researchCost": [
+    "research-materia1/1"
+  ]
 }

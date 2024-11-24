@@ -47,5 +47,8 @@
     "silver/10"
   ],
   "category": "crafting",
-  "research": "chip-factory"
+  "research": "chip-factory",
+  "researchCost": [
+    "research-materia1/1"
+  ]
 }

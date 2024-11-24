@@ -14,7 +14,9 @@
   "hasPower": "false",
 
   "requirements": [
-    "m-part/2"
+    "tin/10",
+    "alumin/10",
+    "silver/4"
   ],
 
   "category": "production",

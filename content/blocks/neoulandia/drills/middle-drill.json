@@ -18,9 +18,7 @@
   },
 
   "requirements": [
-    "tin/30",
-    "alumin/30",
-    "silver/30"
+    "m-part/12"
   ],
 
   "category": "production",

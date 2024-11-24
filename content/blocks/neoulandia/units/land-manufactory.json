@@ -52,10 +52,8 @@
     "smart-compound/12"
   ],
   "category": "units",
-  "research": {
-    "parent": "civil-manufactory",
-    "requirements": [
-      "etherealium/20"
-    ]
-  }
+  "research": "civil-manufactory",
+  "researchCost": [
+    "research-materia1/1"
+  ]
 }

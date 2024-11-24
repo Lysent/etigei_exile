@@ -1,0 +1,10 @@
+{
+    "planet": "Neoulandia",
+    "sector": 1,
+    "difficulty": 1,
+    "alwaysUnlocked": true,
+    
+    "research": {
+      "parent": "colony-core"
+    }
+  }

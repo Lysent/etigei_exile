@@ -1,0 +1,11 @@
+{
+  "type": "ShallowLiquid",
+  "speedMultiplier": 0.8,
+  "statusDuration": 50,
+  "albedo": 0.9,
+  "isLiquid": "true",
+  "liquidDrop": "water",
+  "cacheLayer": "water",
+  "supportsOverlay": true,
+  "variants": 1
+}

@@ -25,5 +25,9 @@
     "silver/5"
   ],
   "category": "power",
-  "research": "transmission-node"
+  "research": "transmission-node",
+  "researchCost": [
+    "tin/15",
+    "silver/35"
+  ]
 }

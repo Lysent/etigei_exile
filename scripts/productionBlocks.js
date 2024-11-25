@@ -106,9 +106,9 @@ mm.buildType = () => extend(HeatCrafter.HeatCrafterBuild, mm, {
 
             //btn.update(() => btn.checked = this.sout.item == vitem);
         };
-        button("etigeox-tin", 5);
-        button("etigeox-alumin", 5);
-        button("etigeox-silver", 5);
+        button("etigeox-tin", 7);
+        button("etigeox-alumin", 7);
+        button("etigeox-silver", 7);
     },
     write(write) {
         this.super$write(write);

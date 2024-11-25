@@ -1,12 +1,12 @@
 {
-  "localizedName": "Machine Factory",
-  "description": "Allows for the production of parts required for complex machinery.",
+  "localizedName": "Uncanning Plant",
+  "description": "Allows for the uncanning of preserved materials.",
   "type": "GenericCrafter",
   "health": 80,
   "size": 2,
   
   "hasPower": true,
-  "hasLiquids": false,
+  "hasLiquids": true,
   "hasItems": true,
   "craftTime": 50,
   "itemCapacity": 64,
@@ -35,9 +35,8 @@
   "outputLiquid": "water/3",
 
   "requirements": [
-    "tin/50",
-    "alumin/25",
-    "silver/25"
+    "tin/65",
+    "alumin/35"
   ],
   "category": "crafting",
   "research": {

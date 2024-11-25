@@ -1,9 +1,8 @@
 require("items");
-require("vanilla");
-require("bullets");
 require("productionBlocks");
 require("powerBlocks");
+require("vanilla");
+require("bullets");
 
 require("contentLoader");
-
 require("tech");

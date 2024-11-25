@@ -2,7 +2,7 @@
   "localizedName": "Transports Factory",
   "description": "Facilitates the production of advanced logistics parts.",
   "type": "GenericCrafter",
-  "health": 80,
+  "health": 120,
   "size": 3,
   
   "hasPower": true,

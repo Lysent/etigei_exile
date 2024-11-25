@@ -2,7 +2,7 @@
   "localizedName": "Microchip Factory",
   "description": "This factory produces advanced circuit brains for better opportunities.",
   "type": "GenericCrafter",
-  "health": 80,
+  "health": 120,
   "size": 3,
   
   "hasPower": true,

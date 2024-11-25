@@ -8,6 +8,7 @@ Item("smart-compound");
 Item("d-part");
 Item("raw-etigeum");
 Item("refined-etigeum");
+Item("canned-water");
 Item("timber");
 Item("raw-ore");
 Item("research-materia1");

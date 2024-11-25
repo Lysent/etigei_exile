@@ -1,0 +1,23 @@
+{
+  "localizedName": "Canned Water",
+  "description": "Frozen water for ease of transportation to far-away colonies.",
+  "type": "resource",
+  "color": "0090f7",
+  "hidden": "false",
+
+  "hardness": 1,
+  "flammability": 0,
+  "explosiveness": 0,
+  "charge": 0,
+  "radioactivity": 0,
+  "buildable": "false",
+
+  "research": {
+    "parent": "timber"
+  },
+  "hiddenOnPlanets": [
+    "serpulo",
+    "erekir",
+    "Rubiginosus"
+  ]
+}

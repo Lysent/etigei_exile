@@ -1,0 +1,13 @@
+{
+  "localizedName": "Miniature Storage Warehouse",
+  "type": "StorageBlock",
+  "size": 1,
+
+  "itemCapacity": 125,
+
+  "category": "effect",
+  "research": "colony-core",
+  "researchCost": [
+    "research-materia1/1"
+  ]
+}

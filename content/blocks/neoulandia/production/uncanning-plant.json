@@ -1,14 +1,14 @@
 {
-  "localizedName": "Defence Factory",
-  "description": "Produces vital parts for militarisation of the colony.",
+  "localizedName": "Machine Factory",
+  "description": "Allows for the production of parts required for complex machinery.",
   "type": "GenericCrafter",
-  "health": 120,
-  "size": 3,
+  "health": 80,
+  "size": 2,
   
   "hasPower": true,
   "hasLiquids": false,
   "hasItems": true,
-  "craftTime": 290,
+  "craftTime": 50,
   "itemCapacity": 64,
   "updateEffect": "steam",
   "craftEffect": "smoke",
@@ -25,25 +25,22 @@
   },
 
   "consumes": {
-    "power": 8,
+    "power": 1,
     "items": {
       "items": [
-        "m-part/2",
-        "tin/3",
-        "alumin/3"
+        "uncanned-water/3"
       ]
     }
   },
-  "outputItem": "d-part/3",
-  "requirements": [
-    "m-part/40",
-    "t-part/15",
-    "smart-compound/10",
-    "silver/10"
-  ],
+  "outputItem": "m-part/3",
 
+  "requirements": [
+    "tin/50",
+    "alumin/25",
+    "silver/25"
+  ],
   "category": "crafting",
-  "research": "chip-factory",
+  "research": "mini-refinery",
   "researchCost": [
     "research-materia1/1"
   ]

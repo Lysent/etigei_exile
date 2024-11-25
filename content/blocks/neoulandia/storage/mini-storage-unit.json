@@ -6,7 +6,7 @@
   "itemCapacity": 125,
 
   "category": "effect",
-  "research": "colony-core",
+  "research": "passage",
   "researchCost": [
     "research-materia1/1"
   ]

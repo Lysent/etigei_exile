@@ -61,7 +61,11 @@ Events.on(ContentInitEvent, () => {
         unlock: Items.sand,
         planet: "etigeox-Neoulandia"
     });
-    chainNode(neoulandia_sand, {
+    const neoulandia_coal = chainNode(neoulandia_sand, {
+        unlock: Items.coal,
+        planet: "etigeox-Neoulandia"
+    });
+    chainNode(neoulandia_coal, {
         unlock: Items.silicon,
         planet: "etigeox-Neoulandia"
     });

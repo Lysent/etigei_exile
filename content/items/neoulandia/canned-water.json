@@ -12,9 +12,9 @@
   "radioactivity": 0,
   "buildable": "false",
 
-  "research": {
-    "parent": "timber"
-  },
+  "research": "timber",
+  "alwaysUnlocked": "true",
+
   "hiddenOnPlanets": [
     "serpulo",
     "erekir",

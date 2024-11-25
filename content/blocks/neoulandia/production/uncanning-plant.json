@@ -28,11 +28,11 @@
     "power": 1,
     "items": {
       "items": [
-        "uncanned-water/3"
+        "canned-water/1"
       ]
     }
   },
-  "outputItem": "m-part/3",
+  "outputLiquid": "water/3",
 
   "requirements": [
     "tin/50",
@@ -40,7 +40,15 @@
     "silver/25"
   ],
   "category": "crafting",
-  "research": "mini-refinery",
+  "research": {
+    "parent": "mini-refinery",
+    "objectives": [
+      {
+        "type": "SectorComplete",
+        "preset": "emiss1"
+      }
+    ]
+  },
   "researchCost": [
     "research-materia1/1"
   ]

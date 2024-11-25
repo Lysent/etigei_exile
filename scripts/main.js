@@ -1,4 +1,5 @@
 require("items");
+require("blocks");
 require("productionBlocks");
 require("powerBlocks");
 require("vanilla");

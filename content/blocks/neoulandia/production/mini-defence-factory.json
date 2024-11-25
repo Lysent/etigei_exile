@@ -1,6 +1,6 @@
 {
   "localizedName": "Deployable Defence Factory",
-  "description": "Produces vital parts for militarisation of the colony.",
+  "description": "Produces vital parts for militarisation of the colony. Easily deployable for use on the frontlines for supplying ammunition.",
   "type": "GenericCrafter",
   "health": 120,
   "size": 2,
@@ -42,7 +42,7 @@
   ],
 
   "category": "crafting",
-  "research": "chip-factory",
+  "research": "defence-factory",
   "researchCost": [
     "research-materia1/1"
   ]

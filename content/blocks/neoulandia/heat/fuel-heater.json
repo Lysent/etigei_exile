@@ -20,7 +20,7 @@
 
   "category": "crafting",
   "research": {
-    "parent": "mini-refinery"
+    "parent": "mini-heater"
   },
   "researchCost": [
     "research-materia1/1"

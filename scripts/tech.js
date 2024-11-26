@@ -69,4 +69,22 @@ Events.on(ContentInitEvent, () => {
         unlock: Items.silicon,
         planet: "etigeox-Neoulandia"
     });
+
+    const neoulandia_water = addTechNode({
+        parent: Vars.content.item("etigeox-timber"),
+        unlock: Liquids.water,
+        planet: "etigeox-Neoulandia"
+    });
+    chainNode(neoulandia_water, {
+        unlock: Vars.content.item("etigeox-canned-water"),
+        planet: "etigeox-Neoulandia"
+    });
+    chainNode(neoulandia_water, {
+        unlock: Liquids.oil,
+        planet: "etigeox-Neoulandia"
+    });
+    chainNode(neoulandia_water, {
+        unlock: Liquids.slag,
+        planet: "etigeox-Neoulandia"
+    });
 });

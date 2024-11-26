@@ -12,7 +12,6 @@
   "radioactivity": 0,
   "buildable": "false",
 
-  "research": "timber",
   "alwaysUnlocked": "true",
 
   "hiddenOnPlanets": [

@@ -1,24 +1,26 @@
+// Man, this is a disaster
+
 // Serpulo
 extend(Conveyor, "etigeum-conveyor", {});
 extend(Junction, "etigeum-junction", {});
 extend(Router, "etigeum-router", {});
 extend(BufferedItemBridge, "etigeum-bridge", {});
-extend(ConsumeGenerator, "oil-generator", {});
-extend(ConsumeGenerator, "etigeum-core", {});
+//extend(ConsumeGenerator, "oil-generator", {});
+//extend(ConsumeGenerator, "etigeum-core", {});
 extend(Battery, "etigeum-battery", {});
-extend(SolarGenerator, "etigeum-solar-condenser", {});
-extend(HeatProducer, "hautite-composer", {});
-extend(AttributeCrafter, "etigeum-refinery", {});
-extend(GenericCrafter, "etigeum-synthesizer", {});
-extend(GenericCrafter, "futeigant-manufactory", {});
-extend(HeatCrafter, "heater", {});
-extend(GenericCrafter, "universal-condenser", {});
-extend(GenericCrafter, "ucbizzareline", {});
-extend(GenericCrafter, "uccopperline", {});
-extend(GenericCrafter, "ucoctiveline", {});
-extend(GenericCrafter, "ucsmartline", {});
-extend(GenericCrafter, "ucvolcaline", {});
-extend(GenericCrafter, "ucbizzareline", {});
+//extend(SolarGenerator, "etigeum-solar-condenser", {});
+//extend(HeatProducer, "hautite-composer", {});
+//extend(AttributeCrafter, "etigeum-refinery", {});
+//extend(GenericCrafter, "etigeum-synthesizer", {});
+//extend(GenericCrafter, "futeigant-manufactory", {});
+//extend(HeatCrafter, "heater", {});
+//extend(GenericCrafter, "universal-condenser", {});
+//extend(GenericCrafter, "ucbizzareline", {});
+//extend(GenericCrafter, "uccopperline", {});
+//extend(GenericCrafter, "ucoctiveline", {});
+//extend(GenericCrafter, "ucsmartline", {});
+//extend(GenericCrafter, "ucvolcaline", {});
+//extend(GenericCrafter, "ucbizzareline", {});
 extend(Wall, "etigeum-reinforced-wall", {});
 extend(Wall, "etigeum-reinforced-wall-big", {});
 extend(ForceProjector, "shielded-etgwall", {});
@@ -27,7 +29,7 @@ extend(MendProjector, "etigeum-mend-wall", {});
 extend(MendProjector, "nihil", {});
 
 // Erekir
-extend(GenericCrafter, "etigeum-sequencer", {});
+//extend(GenericCrafter, "etigeum-sequencer", {});
 
 // Rubiginosus
 
@@ -39,19 +41,19 @@ extend(UnitCargoLoader, "loading-docks", {});
 extend(UnitCargoUnloadPoint, "unloading-docks", {});
 extend(DuctRouter, "passage", {});
 extend(Unloader, "unload-node", {});
-extend(ConsumeGenerator, "fuel-generator", {});
-extend(SolarGenerator, "solar-windturbine", {});
+//extend(ConsumeGenerator, "fuel-generator", {});
+//extend(SolarGenerator, "solar-windturbine", {});
 extend(PowerNode, "transmission-node", {});
-extend(Drill, "mini-refinery", {});
-extend(Drill, "refinery", {});
-extend(GenericCrafter, "machine-factory", {});
-extend(GenericCrafter, "transport-factory", {});
-extend(GenericCrafter, "chip-factory", {});
-extend(GenericCrafter, "mini-defence-factory", {});
-extend(GenericCrafter, "defence-factory", {});
-extend(GenericCrafter, "mini", {});
-extend(GenericCrafter, "uncanning-plant", {});
-extend(GenericCrafter, "canning-plant", {});
+//extend(Drill, "mini-refinery", {});
+//extend(Drill, "refinery", {});
+//extend(GenericCrafter, "machine-factory", {});
+//extend(GenericCrafter, "transport-factory", {});
+//extend(GenericCrafter, "chip-factory", {});
+//extend(GenericCrafter, "mini-defence-factory", {});
+//extend(GenericCrafter, "defence-factory", {});
+//extend(GenericCrafter, "mini", {});
+//extend(GenericCrafter, "uncanning-plant", {});
+//extend(GenericCrafter, "canning-plant", {});
 extend(HeatProducer, "mini-heater", {});
 extend(HeatProducer, "fuel-heater", {});
 extend(StorageBlock, "mini-storage-unit", {});

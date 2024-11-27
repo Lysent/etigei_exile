@@ -1,0 +1,19 @@
+{
+  "localizedName": "Storage Warehouse",
+  "type": "StorageBlock",
+  "size": 2,
+
+  "itemCapacity": 500,
+
+  "requirements": [
+    "t-part/5",
+    "m-part/3",
+    "alumin/35"
+  ],
+
+  "category": "effect",
+  "research": "mini-storage-unit",
+  "researchCost": [
+    "research-materia1/1"
+  ]
+}

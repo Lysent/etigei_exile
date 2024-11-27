@@ -1,0 +1,19 @@
+{
+  "localizedName": "Large Storage Warehouse",
+  "type": "StorageBlock",
+  "size": 3,
+
+  "itemCapacity": 2000,
+
+  "requirements": [
+    "t-part/12",
+    "m-part/9",
+    "alumin/110"
+  ],
+
+  "category": "effect",
+  "research": "mini-storage-unit",
+  "researchCost": [
+    "research-materia1/1"
+  ]
+}

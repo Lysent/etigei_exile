@@ -4,6 +4,10 @@
   "size": 1,
 
   "itemCapacity": 125,
+  "requirements": [
+    "alumin/35",
+    "silver/5"
+  ],
 
   "category": "effect",
   "research": "passage",

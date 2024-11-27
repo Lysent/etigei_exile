@@ -1,6 +1,6 @@
 {
   "localizedName": "Natural Gas",
-  "description": "Filled with energy!",
+  "description": "Used to generate efficient power.",
   "color": "ed9ae2",
   "gas": true,
 
@@ -9,9 +9,5 @@
   "flammability": 0,
   "explosiveness": 0,
   "viscosity": 0,
-  "effect": "none",
-
-  "research": {
-    "parent": "fracker"
-  }
+  "effect": "none"
 }

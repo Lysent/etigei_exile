@@ -15,7 +15,11 @@ const preload = (type, filename) => {
 	files.forEach(file => bootlegparser.parse(loadedMod, file.nameWithoutExtension(), file.readString("UTF-8"), file, type));
 };
 
-preload(ContentType.item, "hautite");
-preload(ContentType.item, "refined-etigeum");
 
-bootlegparser.finishParsing();
+Events.on(ContentInitEvent, () => {
+	log("etigeox", "tried loading content in the most hacky way")
+	preload(ContentType.item, "hautite");
+	preload(ContentType.item, "refined-etigeum");
+
+	bootlegparser.finishParsing();
+})

@@ -1,0 +1,25 @@
+{
+	"contentOrder": [
+		// Items
+		"tin",
+		"alumin",
+		"silver",
+		"m-part",
+		"t-part",
+		"hautite",
+		"smart-compound",
+		"d-part",
+		"raw-etigeum",
+		"refined-etigeum",
+		"canned-water",
+		"timber",
+		"raw-ore",
+		"research-material",
+		"uu-matter",
+		"sprite",
+
+		"timber-ethereal",
+		"etherealium",
+
+	]
+}

@@ -121,7 +121,7 @@ mm.buildType = () => extend(HeatCrafter.HeatCrafterBuild, mm, {
     read(read, revision) {
         this.super$read(read, revision);
 
-        this.sout.item = Items[Strings.kebabToCamel(read.str())];
+        this.sout.item = Vars.content.item(read.str());
         this.sout.amount = read.i();
     },
     getItem() {

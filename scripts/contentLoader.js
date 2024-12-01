@@ -22,4 +22,4 @@ Events.on(ContentInitEvent, () => {
 	preload(ContentType.item, "refined-etigeum");
 
 	bootlegparser.finishParsing();
-})
+});

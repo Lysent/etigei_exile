@@ -3,7 +3,7 @@
   "sector": 97,
   "difficulty": 0,
   "alwaysUnlocked": false,
-  "captureWave": 1,
+  "captureWave": 3,
 
   "allowLaunchLoadout": true,
   "allowLaunchSchematics": false,

@@ -9,7 +9,6 @@
   "minGameVersion": "146",
 
   "contentOrder": [
-    // Items
     "tin",
     "alumin",
     "silver",
@@ -28,6 +27,6 @@
     "sprite",
 
     "timber-ethereal",
-    "etherealium",
+    "etherealium"
   ]
 }

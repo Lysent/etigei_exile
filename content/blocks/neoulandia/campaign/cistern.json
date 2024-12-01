@@ -10,7 +10,7 @@
   "hasItems": true,
   "itemCapacity": 500,
 
-  "craftTime": 250,
+  "craftTime": 1,
   "outputItems": [
     "canned-water/500"
   ],

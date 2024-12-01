@@ -1,5 +1,5 @@
 {
-  "localizedName": "Cistern",
+  "localizedName": "Empty Cistern",
   "description": "Outputs the stored water and then self-destructs.",
   "type": "Wall",
 

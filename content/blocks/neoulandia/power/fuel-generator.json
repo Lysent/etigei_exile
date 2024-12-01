@@ -8,12 +8,12 @@
   "hasPower": true,
   "hasLiquids": false,
   "hasItems": true,
-  "craftTime": 20,
+  "craftTime": 40,
   "itemCapacity": 100,
   "powerCapacity": 1000,
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
-  "powerProduction": 4,
+  "powerProduction": 5,
 
   "consumes": {
     "itemFlammable": {},

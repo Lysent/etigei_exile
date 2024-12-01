@@ -1,8 +1,8 @@
 {
   "planet": "Neoulandia",
-  "sector": 99,
+  "sector": 266,
   "difficulty": 2,
-  "alwaysUnlocked": true,
+  "alwaysUnlocked": false,
   "captureWave": 12,
 
   "allowLaunchLoadout": true,
@@ -10,11 +10,11 @@
   "addStartingItems": false,
 
   "research": {
-    "parent": "emiss1",
+    "parent": "emiss2-1",
     "objectives": [
       {
         "type": "SectorComplete",
-        "preset": "emiss1"
+        "preset": "miss10"
       }
     ]
   }

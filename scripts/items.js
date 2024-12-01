@@ -11,7 +11,7 @@ Item("refined-etigeum");
 Item("canned-water");
 Item("timber");
 Item("raw-ore");
-Item("research-material");
+Item("research-materia1");
 Item("uu-matter");
 Item("sprite");
 

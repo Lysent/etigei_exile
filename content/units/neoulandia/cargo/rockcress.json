@@ -1,0 +1,40 @@
+{
+  "localizedName": "Rockcress",
+  "description": "Mining vehicle.",
+  "type": "tank",
+
+  "health": 250,
+  "armor": 3,
+  "flying": false,
+  "isEnemy": false,
+  "hitSize": 14,
+
+  "logicControllable": true,
+  "playerControllable": true,
+  "defaultCommand": "mine",
+  "commands": [
+    "move",
+    "mine"
+  ],
+  "speed": 0.95,
+  "drag": 0.8,
+
+  "treadPullOffset": 4,
+  "treadRects": [
+    {
+      "x": 6,
+      "y": 6,
+      "width": 10,
+      "height": 10
+    }
+  ],
+
+  "itemCapacity": 200,
+  "mineTier": 2,
+  "mineSpeed": 2.5,
+
+  "research": "harfang-cargo",
+  "researchCost": [
+    "research-materia1/1"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "localizedName": "Heat Pump",
+  "description": "Extracts liquids through use of heat.",
+  "health": 80,
+  "type": "pump",
+  "size": 2,
+
+  "pumpAmount": 0.25,
+  "hasPower": true,
+  "hasLiquids": true,
+  "consumes": {
+    "power": 7.5
+  },
+  "heatRequirement": 2,
+
+  "requirements": [
+    "m-part/16",
+    "tin/24",
+    "silver/12"
+  ],
+
+  "category": "liquid",
+  "research": "harvester",
+  "researchCost": [
+    "research-materia1/1"
+  ]
+}

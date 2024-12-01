@@ -1,0 +1,16 @@
+{
+  "localizedName": "Pipeline Junction",
+  "description": "May facilitate the transport of any kind of liquid, not only oil.",
+  "type": "LiquidJunction",
+  "size": 1,
+  "health": 15,
+
+  "liquidCapacity": 20,
+
+  "requirements": [
+    "t-part/2"
+  ],
+
+  "category": "liquid",
+  "research": "pipeline"
+}

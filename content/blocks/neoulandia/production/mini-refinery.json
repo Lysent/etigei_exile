@@ -43,7 +43,7 @@
   ],
 
   "category": "crafting",
-  "research": "colony-core",
+  "research": "mini-drill",
   "alwaysUnlocked": true,
   "researchCost": [
     "research-materia1/1"

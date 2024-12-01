@@ -1,0 +1,17 @@
+{
+  "localizedName": "Pipeline",
+  "description": "May facilitate the transport of any kind of liquid, not only oil.",
+  "type": "Conduit",
+  "size": 1,
+  "health": 15,
+
+  "requirements": [
+    "t-part/1"
+  ],
+
+  "category": "liquid",
+  "research": "passage",
+  "researchCost": [
+    "research-materia1/1"
+  ]
+}

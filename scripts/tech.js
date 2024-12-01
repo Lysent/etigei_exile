@@ -79,16 +79,16 @@ Events.on(ContentInitEvent, () => {
         unlock: Vars.content.item("etigeox-canned-water"),
         planet: "etigeox-Neoulandia"
     });
-    chainNode(neoulandia_water, {
-        unlock: Liquids.slag,
-        planet: "etigeox-Neoulandia"
-    });
     const neoulandia_oil = chainNode(neoulandia_water, {
         unlock: Liquids.oil,
         planet: "etigeox-Neoulandia"
     });
     chainNode(neoulandia_oil, {
         unlock: Liquids.slag,
-        planet: "etigeox-natural-gas"
+        planet: "etigeox-Neoulandia"
+    });
+    chainNode(neoulandia_oil, {
+        unlock: Vars.content.liquid("etigeox-natural-gas"),
+        planet: "etigeox-Neoulandia"
     });
 });

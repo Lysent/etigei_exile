@@ -5,7 +5,7 @@
   "alwaysUnlocked": true,
   "captureWave": 12,
 
-  "allowLaunchLoadout": false,
+  "allowLaunchLoadout": true,
   "allowLaunchSchematics": false,
   "addStartingItems": false,
 

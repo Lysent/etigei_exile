@@ -1,0 +1,17 @@
+{
+    "localizedName": "Display Screen",
+    "description": "Displys.",
+    "type": "LogicDisplay",
+    "health": 90,
+    "size": 3,
+
+    "displaySize": 80,
+
+    "requirements": [
+        "smart-compound/1",
+        "silver/5"
+    ],
+    
+    "category": "logic",
+    "research": "message-node"
+}

@@ -9,9 +9,16 @@
   "plans": [
     {
       "unit": "harfang-cargo",
-      "time": 200,
+      "time": 220,
       "requirements": [
         "t-part/12"
+      ]
+    },
+    {
+      "unit": "rockcress",
+      "time": 120,
+      "requirements": [
+        "t-part/4"
       ]
     }
   ],

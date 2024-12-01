@@ -1,0 +1,17 @@
+{
+    "localizedName": "Command Database",
+    "description": "Stores logic orders.",
+    "type": "MemoryBlock",
+    "health": 30,
+    "size": 1,
+
+    "memoryCapacity": 128,
+
+    "requirements": [
+        "smart-compound/3",
+        "silver/5"
+    ],
+    
+    "category": "logic",
+    "research": "message-node"
+}

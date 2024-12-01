@@ -1,0 +1,19 @@
+{
+  "localizedName": "Liquid Tank",
+  "description": "Stores amounts of liquid.",
+  "type": "LiquidRouter",
+  "size": 3,
+  "health": 105,
+
+  "liquidCapacity": 2000,
+
+  "requirements": [
+    "t-part/9"
+  ],
+
+  "category": "liquid",
+  "research": "pipeline-router",
+  "researchCost": [
+    "research-materia1/1"
+  ]
+}

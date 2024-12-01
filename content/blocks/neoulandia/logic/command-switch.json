@@ -1,0 +1,15 @@
+{
+    "localizedName": "Command Switch Center",
+    "description": "Logic switch.",
+    "type": "SwitchBlock",
+    "health": 30,
+    "size": 1,
+
+    "requirements": [
+        "smart-compound/1",
+        "silver/5"
+    ],
+    
+    "category": "logic",
+    "research": "command-database"
+}

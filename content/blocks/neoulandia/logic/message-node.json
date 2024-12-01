@@ -1,0 +1,15 @@
+{
+    "localizedName": "Message",
+    "description": "Logic switch.",
+    "type": "MessageBlock",
+    "health": 30,
+    "size": 1,
+
+    "requirements": [
+        "smart-compound/1",
+        "silver/5"
+    ],
+    
+    "category": "logic",
+    "research": "command-tower"
+}

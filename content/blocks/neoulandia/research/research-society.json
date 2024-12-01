@@ -1,0 +1,34 @@
+{
+  "localizedName": "Research Society",
+  "description": "Used to mint research permits. Do not rely on this for research: complete missions instead.",
+  "details": "Furniture is really expensive stuff.",
+  "type": "GenericCrafter",
+
+  "health": 150,
+  "size": 2,
+  "hasPower": true,
+  "hasLiquids": false,
+  "hasItems": true,
+  "itemCapacity": 9,
+
+  "craftTime": 20000,
+  "consumes": {
+    "power": 3.5
+  },
+  "outputItems": [
+    "research-materia1/1"
+  ],
+
+  "requirements": [
+    "timber/1000",
+    "smart-compound/125",
+    "tin/125",
+    "silver/100"
+  ],
+  
+  "category": "effect",
+  "research": "chip-factory",
+  "researchCost": [
+    "research-materia1/1"
+  ]
+}

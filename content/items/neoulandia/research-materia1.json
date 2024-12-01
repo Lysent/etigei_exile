@@ -1,6 +1,7 @@
 {
   "localizedName": "Research Material",
   "description": "Used to unlock technological advancements.",
+  "details": "More akin to research permits than blueprints or groundbreaking scientific material.",
   "type": "material",
   "color": "58a0ff",
   "cost": 0.1,

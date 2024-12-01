@@ -1,0 +1,12 @@
+{
+  "localizedName": "Cistern",
+  "description": "Outputs the stored water and then self-destructs.",
+  "type": "Wall",
+
+  "health": 50,
+  "size": 1,
+  "hasPower": false,
+  "hasLiquids": false,
+  "hasItems": true,
+  "itemCapacity": 500
+}

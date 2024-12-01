@@ -9,7 +9,7 @@
   ],
 
   "category": "defense",
-  "research": "colony-core",
+  "research": "parapet",
   "researchCost": [
     "research-materia1/1"
   ]

@@ -8,6 +8,6 @@
   
   "category": "effect",
   "requirements": [
-    "timber/64"
+    "timber/32"
   ]
 }

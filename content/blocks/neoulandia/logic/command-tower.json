@@ -1,0 +1,20 @@
+{
+    "localizedName": "Command Tower",
+    "description": "Processes logic orders.",
+    "type": "LogicBlock",
+    "health": 30,
+    "size": 1,
+
+    "instructionsPerTick": 8,
+
+    "requirements": [
+        "smart-compound/3",
+        "silver/5"
+    ],
+
+    "category": "logic",
+    "research": "chip-factory",
+    "researchCost": [
+        "research-materia1/1"
+    ]
+}

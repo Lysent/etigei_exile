@@ -1,0 +1,27 @@
+{
+  "localizedName": "Water Extractor",
+  "description": "Harvests water through melting ice. Only effective on blue ice.",
+  "health": 80,
+  "type": "SolidPump",
+  "size": 2,
+
+  "pumpAmount": 0.01,
+  "attribute": "water",
+  "hasPower": true,
+  "hasLiquids": true,
+  "consumes": {
+    "power": 1.75
+  },
+
+  "requirements": [
+    "m-part/8",
+    "tin/24",
+    "silver/4"
+  ],
+
+  "category": "liquid",
+  "research": "mini-drill",
+  "researchCost": [
+    "research-materia1/1"
+  ]
+}

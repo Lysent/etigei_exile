@@ -7,7 +7,7 @@
   "armor": 3,
   "flying": false,
   "isEnemy": false,
-  "hitSize": 13,
+  "hitSize": 12,
 
   "logicControllable": true,
   "playerControllable": true,

@@ -1,0 +1,10 @@
+{
+  "type": "Floor",
+  "speedMultiplier": 0.9,
+  "dragMultiplier": 0.35,
+  "attributes": {
+    "water": 49
+  },
+  "albedo": 0.65,
+  "variants": 3
+}

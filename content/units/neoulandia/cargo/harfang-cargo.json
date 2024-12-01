@@ -1,7 +1,7 @@
 {
   "localizedName": "Harfang (Cargo)",
   "description": "Small and efficient delivery aircraft.",
-  "type": "tether",
+  "type": "flying",
   "hidden": "false",
 
   "health": 100,
@@ -16,6 +16,9 @@
   "drag": 0.5,
   "engineSize": 2,
   "engineOffset": 5,
+
+  "mineTier": 1,
+  "mineSpeed": 0.5,
 
   "research": "civil-manufactory"
 }

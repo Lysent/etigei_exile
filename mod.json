@@ -2,9 +2,9 @@
   "name": "etigeox",
   "displayName": "Etigei Exilium",
   "author": "[[]lime]Mitemi[[]white], [[]cyan]Tikup",
-
   "description": "Succesor to the defunct and incomplete Etigeox Mod. Adds two new planets, a new technology tree and a whole lot of content.\nCompatible with the Blastanium Mod.",
   "subtitle": "Centrism is fun",
+  "repo": "Lysent/etigei_exile",
   "version": "etgcircsus-2",
   "minGameVersion": "146"
 }

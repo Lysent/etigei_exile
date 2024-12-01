@@ -1,7 +1,7 @@
 // Man, this is a disaster
 
 // Serpulo
-extend(Conveyor, "etigeum-conveyor", {});
+// extend(Conveyor, "etigeum-conveyor", {});
 // extend(Junction, "etigeum-junction", {});
 // extend(Router, "etigeum-router", {});
 // extend(BufferedItemBridge, "etigeum-bridge", {});

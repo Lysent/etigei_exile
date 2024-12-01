@@ -1,0 +1,32 @@
+{
+  "localizedName": "Oil Generator",
+  "description": "Generates small amounts of power from oil.",
+  "type": "ConsumeGenerator",
+  "health": 90,
+  "size": 3,
+  
+  "hasPower": true,
+  "hasLiquids": false,
+  "hasItems": true,
+  "craftTime": 40,
+  "itemCapacity": 100,
+  "powerCapacity": 1000,
+  "updateEffect": "steam",
+  "craftEffect": "plasticExplosion",
+  "powerProduction": 7.5,
+
+  "consumes": {
+    "liquid": "oil/0.75"
+  },
+
+  "requirements": [
+    "m-part/15",
+    "tin/75",
+    "silver/55"
+  ],
+  "category": "power",
+  "research": "fuel-generator",
+  "researchCost": [
+    "research-materia1/1"
+  ]
+}

@@ -6,5 +6,28 @@
   "subtitle": "Centrism is fun",
   "repo": "Lysent/etigei_exile",
   "version": "etgcircsus-2",
-  "minGameVersion": "146"
+  "minGameVersion": "146",
+
+  "contentOrder": [
+    // Items
+    "tin",
+    "alumin",
+    "silver",
+    "m-part",
+    "t-part",
+    "hautite",
+    "smart-compound",
+    "d-part",
+    "raw-etigeum",
+    "refined-etigeum",
+    "canned-water",
+    "timber",
+    "raw-ore",
+    "research-material",
+    "uu-matter",
+    "sprite",
+
+    "timber-ethereal",
+    "etherealium",
+  ]
 }

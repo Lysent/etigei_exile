@@ -39,7 +39,8 @@
   },
 
   "requirements": [
-    "m-part/2"
+    "tin/30",
+    "alumin/30"
   ],
 
   "category": "crafting",

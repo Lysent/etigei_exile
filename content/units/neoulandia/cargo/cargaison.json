@@ -13,7 +13,7 @@
   "logicControllable": false,
   "playerControllable": false,
   "itemCapacity": 8,
-  "speed": 2,
+  "speed": 3.5,
   "drag": 0.5,
   "engineSize": 2,
   "engineOffset": 5,

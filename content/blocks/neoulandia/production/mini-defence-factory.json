@@ -35,9 +35,9 @@
   },
   "outputItem": "d-part/1",
   "requirements": [
-    "m-part/40",
-    "t-part/15",
-    "smart-compound/10",
+    "m-part/20",
+    "t-part/8",
+    "smart-compound/5",
     "silver/10"
   ],
 

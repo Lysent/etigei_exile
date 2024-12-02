@@ -8,8 +8,7 @@
     "memoryCapacity": 128,
 
     "requirements": [
-        "smart-compound/3",
-        "silver/5"
+        "silver/10"
     ],
     
     "category": "logic",

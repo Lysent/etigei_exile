@@ -11,7 +11,7 @@
   "itemCapacity": 32,
 
   "requirements": [
-    "t-part/1"
+    "alumin/1"
   ],
 
   "category": "distribution",

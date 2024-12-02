@@ -11,23 +11,23 @@
       "unit": "gueule-de-loup",
       "time": 300,
       "requirements": [
-        "d-part/6",
-        "alumin/2"
+        "tin/12",
+        "alumin/12"
       ]
     },
     {
       "unit": "boechera",
       "time": 400,
       "requirements": [
-        "d-part/10",
-        "t-part/4"
+        "alumin/12",
+        "silver/8"
       ]
     },
     {
       "unit": "epilobe",
       "time": 2500,
       "requirements": [
-        "d-part/42",
+        "d-part/28",
         "smart-compound/8"
       ]
     },
@@ -35,21 +35,22 @@
       "unit": "trillium",
       "time": 1400,
       "requirements": [
-        "d-part/26",
-        "smart-compound/2"
+        "tin/24",
+        "alumin/12",
+        "silver/8"
       ]
     }
   ],
   "configurable": true,
 
   "consumes": {
-    "power": 4
+    "power": 6
   },
 
   "requirements": [
-    "d-part/36",
-    "m-part/36",
-    "smart-compound/12"
+    "tin/65",
+    "alumin/35",
+    "silver/75"
   ],
   "category": "units",
   "research": "civil-manufactory",

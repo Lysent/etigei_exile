@@ -9,16 +9,13 @@
   "isFirstTier": true,
   "alwaysUnlocked": true,
   "unitType": "governate",
-  "unitCapModifier": "6",
+  "unitCapModifier": "26",
   "incinerateNonBuildable": "true",
 
   "requirements": [
-    "tin/800",
-    "alumin/800",
-    "silver/650",
-    "m-part/75",
-    "t-part/75",
-    "smart-compound/75"
+    "tin/1000",
+    "alumin/1000",
+    "silver/850"
   ],
 
   "research": {

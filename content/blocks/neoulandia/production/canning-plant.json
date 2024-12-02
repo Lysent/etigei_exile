@@ -40,6 +40,7 @@
   "outputItem": "canned-water/1",
 
   "requirements": [
+    "m-part/3",
     "tin/65",
     "alumin/25",
     "silver/5"

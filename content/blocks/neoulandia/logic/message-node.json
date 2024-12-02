@@ -6,8 +6,7 @@
     "size": 1,
 
     "requirements": [
-        "smart-compound/1",
-        "silver/5"
+        "silver/10"
     ],
     
     "category": "logic",

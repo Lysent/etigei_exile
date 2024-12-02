@@ -8,8 +8,7 @@
     "displaySize": 80,
 
     "requirements": [
-        "smart-compound/1",
-        "silver/5"
+        "silver/25"
     ],
     
     "category": "logic",

@@ -8,8 +8,7 @@
     "instructionsPerTick": 8,
 
     "requirements": [
-        "smart-compound/3",
-        "silver/5"
+        "silver/15"
     ],
 
     "category": "logic",

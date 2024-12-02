@@ -12,7 +12,8 @@
   "unitType": "cargaison",
 
   "requirements": [
-    "t-part/2"
+    "alumin/6",
+    "silver/2"
   ],
 
   "category": "distribution",

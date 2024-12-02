@@ -10,7 +10,7 @@
   "powerProduction": 6,
 
   "requirements": [
-    "smart-compound/30",
+    "smart-compound/2",
     "alumin/30",
     "tin/30",
     "silver/35"

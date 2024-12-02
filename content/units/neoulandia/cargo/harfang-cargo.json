@@ -20,5 +20,8 @@
   "mineTier": 1,
   "mineSpeed": 0.5,
 
-  "research": "civil-manufactory"
+  "research": "civil-manufactory",
+  "researchCost": [
+    "silver/250"
+  ]
 }

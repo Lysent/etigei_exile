@@ -11,21 +11,21 @@
       "unit": "harfang",
       "time": 200,
       "requirements": [
-        "d-part/8",
-        "t-part/12"
+        "alumin/20",
+        "silver/12"
       ]
     }
   ],
   "configurable": true,
 
   "consumes": {
-    "power": 6
+    "power": 8
   },
 
   "requirements": [
-    "d-part/36",
-    "m-part/36",
-    "smart-compound/12"
+    "tin/75",
+    "alumin/30",
+    "silver/95"
   ],
   "category": "units",
   "research": "land-manufactory",

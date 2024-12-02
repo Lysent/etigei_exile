@@ -35,6 +35,7 @@
   "outputLiquid": "water/3",
 
   "requirements": [
+    "m-part/3",
     "tin/65",
     "alumin/35"
   ],

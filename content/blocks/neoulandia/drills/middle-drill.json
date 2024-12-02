@@ -6,19 +6,27 @@
   "size": 2,
 
   "tier": 2,
-  "drillTime": 152,
+  "drillTime": 90,
   "warmupSpeed": 0.001,
   "rotateSpeed": 2,
-  "liquidBoostIntensity": 1.5,
+  "liquidBoostIntensity": 1.225,
   "hardnessDrillMultiplier": 0.5,
   "hasPower": true,
   "hasLiquids": true,
   "consumes": {
-    "power": 1
+    "power": 1,
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.3,
+      "optional": true,
+      "booster": true
+    }
   },
 
   "requirements": [
-    "m-part/12"
+    "tin/32",
+    "alumin/32",
+    "silver/8"
   ],
 
   "category": "production",

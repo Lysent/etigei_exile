@@ -6,7 +6,7 @@
   "size": 1,
 
   "tier": 1,
-  "drillTime": 122,
+  "drillTime": 80,
   "warmupSpeed": 1,
   "rotateSpeed": 2,
   "hardnessDrillMultiplier": 1,
@@ -15,8 +15,7 @@
 
   "requirements": [
     "tin/10",
-    "alumin/10",
-    "silver/4"
+    "alumin/8"
   ],
 
   "category": "production",

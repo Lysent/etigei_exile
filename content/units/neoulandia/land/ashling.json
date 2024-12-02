@@ -14,7 +14,7 @@
   "speed": 0.95,
   "drag": 0.4,
   "targetDistance": 35,
-  "canBoost": true,
+  "canBoost": false,
 
   "treadPullOffset": 1,
   "treadRects": [
@@ -32,7 +32,7 @@
       "top": false,
       "x": 0,
       "y": 0.6,
-      "reload": 5,
+      "reload": 8,
       "shots": 2,
       "inaccuracy": 15,
       "shootSound": "beam",

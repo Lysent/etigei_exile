@@ -5,7 +5,7 @@
   "type": "pump",
   "size": 2,
 
-  "pumpAmount": 0.25,
+  "pumpAmount": 0.1,
   "hasPower": true,
   "hasLiquids": true,
   "consumes": {

@@ -28,8 +28,9 @@
   },
 
   "requirements": [
-    "d-part/24",
-    "smart-compound/2"
+    "tin/65",
+    "alumin/35",
+    "silver/45"
   ],
   
   "category": "turret",

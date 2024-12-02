@@ -11,14 +11,16 @@
       "unit": "harfang-cargo",
       "time": 220,
       "requirements": [
-        "t-part/12"
+        "alumin/12",
+        "silver/8"
       ]
     },
     {
       "unit": "rockcress",
       "time": 120,
       "requirements": [
-        "t-part/4"
+        "tin/6",
+        "alumin/8"
       ]
     }
   ],
@@ -29,9 +31,9 @@
   },
 
   "requirements": [
-    "m-part/36",
-    "t-part/24",
-    "smart-compound/12"
+    "tin/50",
+    "alumin/40",
+    "silver/75"
   ],
   "category": "units",
   "research": "colony-core",

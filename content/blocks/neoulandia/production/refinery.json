@@ -40,7 +40,6 @@
   "heatRequirement": 2.5,
 
   "requirements": [
-    "m-part/30",
     "tin/30",
     "alumin/30",
     "silver/30"

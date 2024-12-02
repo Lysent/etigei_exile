@@ -16,7 +16,8 @@
   "heatOutput": 3.5,
 
   "requirements": [
-    "m-part/3"
+    "tin/8",
+    "alumin/6"
   ],
 
   "category": "crafting",

@@ -9,6 +9,11 @@
   "laserRange": 7,
   "hasShadow": "false",
 
+  "consumePower": "true",
+  "consumes": {
+    "powerBuffered": "50"
+  },
+
   "requirements": [
     "silver/1",
     "alumin/1"

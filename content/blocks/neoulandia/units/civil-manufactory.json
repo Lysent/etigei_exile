@@ -36,7 +36,15 @@
     "silver/75"
   ],
   "category": "units",
-  "research": "colony-core",
+  "research": {
+    "parent": "colony-core",
+    "objectives": [
+      {
+        "type": "SectorComplete",
+        "preset": "emiss1"
+      }
+    ]
+  },
   "researchCost": [
     "research-materia1/1"
   ]

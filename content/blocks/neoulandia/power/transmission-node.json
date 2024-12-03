@@ -5,7 +5,7 @@
   "health": 35,
   "size": 1,
 
-  "maxNodes": 4,
+  "maxNodes": 8,
   "laserRange": 7,
   "hasShadow": "false",
 

@@ -56,16 +56,18 @@ Events.on(ContentInitEvent, () => {
     // Nothing :/
 
     // Neoulandia
-    const neoulandia_sand = addTechNode({
-        parent: Vars.content.item("etigeox-timber"),
-        unlock: Items.sand,
-        planet: "etigeox-Neoulandia"
-    });
-    const neoulandia_coal = chainNode(neoulandia_sand, {
+    const neoulandia_coal = addTechNode({
+        parent: Vars.content.item("etigeox-raw-ore"),
         unlock: Items.coal,
         planet: "etigeox-Neoulandia"
     });
-    chainNode(neoulandia_coal, {
+    const neoulandia_sand = addTechNode({
+        parent: Vars.content.item("etigeox-timber"),
+        //requirements: produce(Items.sand),
+        unlock: Items.sand,
+        planet: "etigeox-Neoulandia"
+    });
+    const neoulandia_silicon = chainNode(neoulandia_coal, {
         unlock: Items.silicon,
         planet: "etigeox-Neoulandia"
     });

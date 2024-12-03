@@ -2,31 +2,9 @@
   "name": "etigeox",
   "displayName": "Etigei Exilium",
   "author": "[[]lime]Mitemi[[]white], [[]cyan]Tikup",
-  "description": "Succesor to the defunct and incomplete Etigeox Mod. Adds two new planets, a new technology tree and a whole lot of content.\nCompatible with the Blastanium Mod.",
+  "description": "Etigei Exile offers a fresh and uniquely creative modded experience, featuring two planets and campaigns through 18 sectors. \n\nEstablish colonies on the frozen planet of Neoulandia and experience destructible trees, limited resources, excessive use of unit cargo, and unique map design. Neoulandia brings economy-based map to offer diverging gameplay on top of the classical survival and attack maps. \n\nRubiginosus presents a collection of hardcore maps, inspired by Rusted Warfare, initially designed for multiplayer using Serpulo and Erekir technology. These missions have been retrofitted for a campaign experience with unique challenges for each map.\n\nDiscord: https://discord.com/invite/TJKZgr6UDg",
   "subtitle": "Centrism is fun",
   "repo": "Lysent/etigei_exile",
   "version": "etgcircsus-2",
-  "minGameVersion": "146",
-
-  "contentOrder": [
-    "tin",
-    "alumin",
-    "silver",
-    "m-part",
-    "t-part",
-    "hautite",
-    "smart-compound",
-    "d-part",
-    "raw-etigeum",
-    "refined-etigeum",
-    "canned-water",
-    "timber",
-    "raw-ore",
-    "research-material",
-    "uu-matter",
-    "sprite",
-
-    "timber-ethereal",
-    "etherealium"
-  ]
+  "minGameVersion": "146"
 }

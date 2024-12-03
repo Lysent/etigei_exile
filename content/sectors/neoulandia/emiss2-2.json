@@ -1,9 +1,8 @@
 {
   "planet": "Neoulandia",
   "sector": 266,
-  "difficulty": 2,
+  "difficulty": 3,
   "alwaysUnlocked": false,
-  "captureWave": 12,
 
   "allowLaunchLoadout": true,
   "allowLaunchSchematics": false,
@@ -14,7 +13,7 @@
     "objectives": [
       {
         "type": "SectorComplete",
-        "preset": "miss10"
+        "preset": "emiss2-1"
       }
     ]
   }

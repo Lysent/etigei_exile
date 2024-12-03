@@ -43,7 +43,15 @@
   ],
 
   "category": "crafting",
-  "research": "chip-factory",
+  "research": {
+    "parent": "chip-factory",
+    "objectives": [
+      {
+        "type": "SectorComplete",
+        "preset": "emiss2-2"
+      }
+    ]
+  },
   "researchCost": [
     "research-materia1/1"
   ]

@@ -5,6 +5,8 @@
   "size": 1,
   "health": 15,
 
+  "liquidCapacity": 30,
+
   "requirements": [
     "t-part/1"
   ],

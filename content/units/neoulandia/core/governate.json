@@ -3,7 +3,7 @@
   "description": "Elite aircraft outfitted for colonial governors.",
   "type": "flying",
 
-  "health": 250,
+  "health": 25,
   "flying": true,
   "isEnemy": false,
   "coreUnitDock": true,

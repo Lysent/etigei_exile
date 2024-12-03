@@ -11,7 +11,7 @@
 
   "logicControllable": true,
   "playerControllable": true,
-  "itemCapacity": 8,
+  "itemCapacity": 2,
   "speed": 2.5,
   "drag": 0.5,
   "engineSize": 2,

@@ -12,7 +12,7 @@
   "defaultController": "CargoAI",
   "logicControllable": false,
   "playerControllable": false,
-  "itemCapacity": 8,
+  "itemCapacity": 16,
   "speed": 3.5,
   "drag": 0.5,
   "engineSize": 2,

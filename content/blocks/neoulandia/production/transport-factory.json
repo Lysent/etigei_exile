@@ -41,7 +41,15 @@
     "silver/10"
   ],
   "category": "crafting",
-  "research": "machine-factory",
+  "research": {
+    "parent": "machine-factory",
+    "objectives": [
+      {
+        "type": "SectorComplete",
+        "preset": "emiss3-1"
+      }
+    ]
+  },
   "researchCost": [
     "research-materia1/1"
   ]

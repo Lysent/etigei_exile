@@ -3,7 +3,7 @@
   "description": "Where ashes remain.",
   "type": "tank",
 
-  "health": 120,
+  "health": 220,
   "armor": 2,
   "flying": false,
   "isEnemy": false,

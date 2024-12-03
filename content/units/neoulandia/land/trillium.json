@@ -3,7 +3,7 @@
   "description": "Elite mass-produced invididual units.",
   "type": "mech",
 
-  "health": 300,
+  "health": 500,
   "armor": 7,
   "flying": false,
   "isEnemy": false,

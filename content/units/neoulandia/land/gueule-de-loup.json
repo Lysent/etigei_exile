@@ -3,7 +3,7 @@
   "description": "Fast glass-canon type hovercraft.",
   "type": "tank",
 
-  "health": 350,
+  "health": 450,
   "armor": 3,
   "flying": false,
   "isEnemy": false,

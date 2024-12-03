@@ -9,20 +9,32 @@
   "targetAir": true,
   "targetGround": false,
   "reload": 10,
-  "shots": 6,
-  "range": 130,
+  "shots": 8,
+  "range": 182,
   "inaccuracy": 10,
   "shootSound": "lasershoot",
   
   "ammoTypes": {
+    "alumin": {
+      "type": "FlakBulletType",
+      "speed": 2.5,
+      "lifetime": 72.5,
+      "damage": 25,
+      "width": 1.5,
+      "height": 1.5,
+      "splashDamage": 10,
+      "splashDamageRadius": 20,
+      "ammoMultiplier": 6
+    },
     "d-part": {
-      "speed": 2.2,
+      "type": "FlakBulletType",
+      "speed": 2.8,
       "lifetime": 65,
-      "damage": 20,
-      "width": 1,
-      "height": 1,
-      "splashDamage": 7.5,
-      "splashDamageRadius": 4,
+      "damage": 40,
+      "width": 2,
+      "height": 2,
+      "splashDamage": 18,
+      "splashDamageRadius": 25.5,
       "ammoMultiplier": 12
     }
   },

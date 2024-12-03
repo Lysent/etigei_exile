@@ -3,7 +3,7 @@
   "description": "All-terrain assault vehicle.",
   "type": "tank",
 
-  "health": 200,
+  "health": 300,
   "armor": 3,
   "flying": false,
   "isEnemy": false,

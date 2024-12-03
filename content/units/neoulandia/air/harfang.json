@@ -37,7 +37,5 @@
   ],
 
   "research": "air-manufactory",
-  "researchCost": [
-    "research-materia1/1"
-  ]
+  "researchCostMultiplier": 10
 }

@@ -21,7 +21,5 @@
   "mineSpeed": 0.5,
 
   "research": "civil-manufactory",
-  "researchCost": [
-    "silver/250"
-  ]
+  "researchCostMultiplier": 10
 }

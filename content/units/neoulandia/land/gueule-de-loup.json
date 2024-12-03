@@ -44,7 +44,5 @@
   ],
 
   "research": "land-manufactory",
-  "researchCost": [
-    "research-materia1/1"
-  ]
+  "researchCostMultiplier": 10
 }

@@ -10,8 +10,9 @@
   "hasShadow": "false",
 
   "consumePower": "true",
+  "outputsPower": "true",
   "consumes": {
-    "powerBuffered": "50"
+    "powerBuffered": 50
   },
 
   "requirements": [

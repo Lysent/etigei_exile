@@ -2,7 +2,6 @@
   "localizedName": "Land Manufacture",
   "description": "Produces a variety of ground units.",
   "type": "UnitFactory",
-  
   "health": 100,
   "size": 2,
 
@@ -46,12 +45,13 @@
   "consumes": {
     "power": 6
   },
-
+  
   "requirements": [
     "tin/65",
     "alumin/35",
     "silver/75"
   ],
+
   "category": "units",
   "research": "civil-manufactory",
   "researchCost": [

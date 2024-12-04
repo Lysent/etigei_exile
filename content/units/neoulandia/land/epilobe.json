@@ -14,7 +14,7 @@
   "speed": 0.2,
   "drag": 2,
   "targetDistance": 70,
-  "rotateSpeed": 2.5,
+  "rotateSpeed": 7.5,
 
   "treadPullOffset": 4,
   "treadRects": [

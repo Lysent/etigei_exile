@@ -1,7 +1,7 @@
 require("items");
 require("blocks");
 require("productionBlocks");
-require("powerBlocks");
+//require("powerBlocks");
 require("vanilla");
 require("bullets");
 

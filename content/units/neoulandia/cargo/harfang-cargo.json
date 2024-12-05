@@ -11,13 +11,22 @@
   
   "logicControllable": true,
   "playerControllable": true,
-  "itemCapacity": 16,
+  "commands": [
+    "move",
+    "mine"
+  ],
+  "mineItems": [
+    "tin",
+    "alumin",
+    "silicon"
+  ],
+  "itemCapacity": 10,
   "speed": 2,
   "drag": 0.5,
   "engineSize": 2,
   "engineOffset": 5,
 
-  "mineTier": 1,
+  "mineTier": 10,
   "mineSpeed": 0.5,
 
   "research": "civil-manufactory",

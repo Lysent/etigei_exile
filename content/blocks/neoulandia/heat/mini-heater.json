@@ -10,7 +10,7 @@
   "hasItems": false,
   
   "consumes": {
-    "power": 4
+    "power": 6.5
   },
   "heatOutput": 2.5,
 

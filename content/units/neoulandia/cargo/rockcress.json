@@ -1,6 +1,6 @@
 {
   "localizedName": "Rockcress",
-  "description": "Mining vehicle.",
+  "description": "Mining vehicle with a built-in refinery capable of mining pure deposits.",
   "type": "tank",
 
   "health": 250,
@@ -16,6 +16,11 @@
     "move",
     "mine"
   ],
+  "mineItems": [
+    "tin",
+    "alumin",
+    "silicon"
+  ],
   "speed": 0.95,
   "drag": 0.8,
 
@@ -29,8 +34,8 @@
     }
   ],
 
-  "itemCapacity": 200,
-  "mineTier": 2,
+  "itemCapacity": 50,
+  "mineTier": 10,
   "mineSpeed": 2.5,
 
   "research": "harfang-cargo",

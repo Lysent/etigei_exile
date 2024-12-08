@@ -5,8 +5,7 @@
   "health": 300,
   "size": 1,
   "requirements": [
-    "d-part/4",
-    "tin/2"
+    "tin/8"
   ],
 
   "category": "defense",

@@ -20,8 +20,8 @@
     "alumin",
     "silicon"
   ],
-  "itemCapacity": 10,
-  "speed": 2,
+  "itemCapacity": 16,
+  "speed": 2.5,
   "drag": 0.5,
   "engineSize": 2,
   "engineOffset": 5,

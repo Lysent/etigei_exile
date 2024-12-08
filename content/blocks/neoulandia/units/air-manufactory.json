@@ -11,7 +11,7 @@
       "unit": "harfang",
       "time": 200,
       "requirements": [
-        "alumin/20",
+        "t-part/18",
         "silver/12"
       ]
     }

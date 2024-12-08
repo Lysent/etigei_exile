@@ -11,7 +11,7 @@
 
   "logicControllable": true,
   "playerControllable": true,
-  "speed": 0.95,
+  "speed": 1.15,
   "drag": 0.4,
   "targetDistance": 35,
   "canBoost": true,

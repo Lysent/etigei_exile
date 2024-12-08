@@ -8,7 +8,7 @@
   "plans": [
     {
       "unit": "gueule-de-loup",
-      "time": 300,
+      "time": 750,
       "requirements": [
         "tin/12",
         "alumin/12"
@@ -16,9 +16,9 @@
     },
     {
       "unit": "boechera",
-      "time": 400,
+      "time": 900,
       "requirements": [
-        "alumin/12",
+        "t-part/12",
         "silver/8"
       ]
     },
@@ -35,7 +35,7 @@
       "time": 1400,
       "requirements": [
         "tin/24",
-        "alumin/12",
+        "t-part/12",
         "silver/8"
       ]
     }

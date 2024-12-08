@@ -11,7 +11,7 @@
       "unit": "harfang-cargo",
       "time": 220,
       "requirements": [
-        "alumin/12",
+        "t-part/16",
         "silver/8"
       ]
     },
@@ -19,8 +19,8 @@
       "unit": "rockcress",
       "time": 120,
       "requirements": [
-        "tin/6",
-        "alumin/8"
+        "t-part/10",
+        "tin/8"
       ]
     }
   ],

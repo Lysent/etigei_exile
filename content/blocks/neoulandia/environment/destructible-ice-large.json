@@ -1,0 +1,11 @@
+{
+  "localizedName": "Ice",
+  "type": "Wall",
+  "health": 150,
+  "size": 2,
+  "mapColor": "3b3b3b",
+  "breakable": false,
+  "hidden": true,
+  "alwaysReplace": false,
+  "buildVisibility": "editorOnly"
+}

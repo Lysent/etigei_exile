@@ -1,0 +1,11 @@
+{
+  "localizedName": "Stone",
+  "type": "Wall",
+  "health": 30,
+  "mapColor": "4f4f4f",
+  "breakable": false,
+  "hidden": true,
+  "alwaysReplace": false,
+  "variants": 2,
+  "buildVisibility": "editorOnly"
+}

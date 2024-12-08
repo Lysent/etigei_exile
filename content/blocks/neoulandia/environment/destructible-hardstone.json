@@ -1,0 +1,11 @@
+{
+  "localizedName": "Hardstone",
+  "type": "Wall",
+  "health": 135,
+  "mapColor": "3b3b3b",
+  "breakable": false,
+  "hidden": true,
+  "alwaysReplace": false,
+  "variants": 2,
+  "buildVisibility": "editorOnly"
+}

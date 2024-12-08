@@ -50,7 +50,7 @@
     "objectives": [
       {
         "type": "SectorComplete",
-        "preset": "emiss3-1"
+        "preset": "emiss3-2"
       }
     ]
   },

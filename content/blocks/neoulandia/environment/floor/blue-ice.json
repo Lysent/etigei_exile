@@ -2,6 +2,7 @@
   "type": "Floor",
   "speedMultiplier": 0.9,
   "dragMultiplier": 0.35,
+  "mapColor": "79f7f5",
   "attributes": {
     "water": 49
   },

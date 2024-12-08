@@ -1,0 +1,37 @@
+{
+  "localizedName": "Important Support Beam",
+  "description": "Supports tunneling operations.",
+  "type": "LightBlock",
+
+  "health": 500,
+  "size": 1,
+  "hasPower": true,
+
+  "brightness": 0.35,
+  "radius": 35,
+
+  "consumes": {
+    "power": 0.2
+  },
+
+  "requirements": [
+    "t-part/100",
+    "tin/500",
+    "alumin/250",
+    "silver/200"
+  ],
+
+  "category": "effect",
+  "research": {
+    "parent": "cistern",
+    "objectives": [
+      {
+        "type": "SectorComplete",
+        "preset": "emiss3-1"
+      }
+    ]
+  },
+  "researchCost": [
+    "t-part/200"
+  ]
+}

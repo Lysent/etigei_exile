@@ -1,4 +1,5 @@
 // Tech tree node attacher ripped off from the ContentParser
+
 const chainNode = (parent, research) => {
     const node = new TechTree.TechNode(null, research.unlock, research.requirements || ItemStack.empty);
 
@@ -58,22 +59,25 @@ Events.on(ContentInitEvent, () => {
     // Neoulandia
     const neoulandia_coal = addTechNode({
         parent: Vars.content.item("etigeox-raw-ore"),
+        requirement: new Objectives.Produce(Items.coal),
         unlock: Items.coal,
         planet: "etigeox-Neoulandia"
     });
     const neoulandia_sand = addTechNode({
         parent: Vars.content.item("etigeox-timber"),
-        //requirements: produce(Items.sand),
+        requirement: new Objectives.Produce(Items.sand),
         unlock: Items.sand,
         planet: "etigeox-Neoulandia"
     });
     const neoulandia_silicon = chainNode(neoulandia_coal, {
+        requirement: new Objectives.Produce(Items.silicon),
         unlock: Items.silicon,
         planet: "etigeox-Neoulandia"
     });
 
     const neoulandia_water = addTechNode({
         parent: Vars.content.item("etigeox-timber"),
+        requirement: new Objectives.Produce(Liquids.water),
         unlock: Liquids.water,
         planet: "etigeox-Neoulandia"
     });
@@ -83,14 +87,17 @@ Events.on(ContentInitEvent, () => {
     });
     const neoulandia_oil = chainNode(neoulandia_water, {
         unlock: Liquids.oil,
+        requirement: new Objectives.Produce(Liquids.oil),
         planet: "etigeox-Neoulandia"
     });
     chainNode(neoulandia_oil, {
         unlock: Liquids.slag,
+        requirement: new Objectives.Produce(Liquids.slag),
         planet: "etigeox-Neoulandia"
     });
     chainNode(neoulandia_oil, {
         unlock: Vars.content.liquid("etigeox-natural-gas"),
+        requirement: new Objectives.Produce(Vars.content.liquid("etigeox-natural-gas")),
         planet: "etigeox-Neoulandia"
     });
 });

@@ -1,7 +1,6 @@
 {
   "localizedName": "Unloader",
   "description": "Unloads materials from containers, cores, and other facilities.",
-  "details": "Functionally similar to a Duct Router and conducts power. Not a conveyor.",
   "type": "Unloader",
   "size": 1,
   "health": 15,

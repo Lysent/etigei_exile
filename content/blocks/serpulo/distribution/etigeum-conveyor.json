@@ -7,6 +7,8 @@
   "size": 1,
   "speed": 0.33,
   "displaySpeed": 0.27,
+  "junctionReplacement": "etigeum-junction",
+  "bridgeReplacement": "etigeum-bridge",
 
   "requirements": [
     "refined-etigeum/1",

@@ -9,6 +9,7 @@
   
   "speed": 0.03,
   "displaySpeed": 0.03,
+  "junctionReplacement": "ethereal-junction",
 
   "requirements": [
     "timber-ethereal/1"

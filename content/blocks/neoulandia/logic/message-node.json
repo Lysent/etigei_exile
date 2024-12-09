@@ -1,6 +1,6 @@
 {
     "localizedName": "Message",
-    "description": "Logic switch.",
+    "description": "Message.",
     "type": "MessageBlock",
     "health": 30,
     "size": 1,

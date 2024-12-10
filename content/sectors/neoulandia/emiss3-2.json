@@ -14,7 +14,7 @@
     "objectives": [
       {
         "type": "SectorComplete",
-        "preset": "miss10"
+        "preset": "emiss3-1"
       }
     ]
   }

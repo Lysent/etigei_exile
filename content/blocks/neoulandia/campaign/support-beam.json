@@ -9,16 +9,17 @@
 
   "brightness": 0.35,
   "radius": 35,
+  "configurable": false,
 
   "consumes": {
     "power": 0.2
   },
 
   "requirements": [
-    "t-part/100",
-    "tin/500",
-    "alumin/250",
-    "silver/200"
+    "t-part/80",
+    "tin/160",
+    "alumin/120",
+    "silver/120"
   ],
 
   "category": "effect",

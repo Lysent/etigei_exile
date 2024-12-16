@@ -2,9 +2,9 @@
 
 const chainNode = (parent, research) => {
     const node = new TechTree.TechNode(null, research.unlock, research.requirements || ItemStack.empty);
-    for(const objective of (research.objectives || [])){
-        node.objectives.add(objective);
-    }
+    //for(const objective of (research.objectives || [])){
+    //    node.objectives.add(objective);
+    //}
 
     log("etigeox", "created tech node");
 
